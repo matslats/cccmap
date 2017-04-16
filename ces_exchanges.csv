@@ -1,0 +1,887 @@
+xid,nid,full_title,location,province,country_code,country_name,currency_name
+CTTE,CEN0001,Cape Town Talent Exchange,Cape Town,Western Cape,ZA,South Africa,Talent
+JHBG,CEN0002,Johannesburg Talent Exchange,Johannesburg,Gauteng,ZA,South Africa,Talent
+PRTX,CEN0003,Pretoria Talent Exchange,Pretoria,Gauteng,ZA,South Africa,Talent
+OMVA,CEN0004,Oude Molen Talent Exchange,Cape Town,Western Cape,ZA,South Africa,Talent
+DEMO,CEN0005,Demonstration Community Exchange,,,ZA,South Africa,Talent
+PECE,CEN0006,Port Elizabeth Community Exchange,Port Elizabeth,Eastern Cape,ZA,South Africa,Talents
+GDNR,CEN0007,Garden Route Talent Exchange,George,Western Cape,ZA,South Africa,Talent
+MCGR,CEN0008,McGregor Talent Exchange,McGregor,Western Cape,ZA,South Africa,Talent
+HBRG,CEN0009,Helderberg Talent Exchange,Somerset West,Western Cape,ZA,South Africa,Talent
+SBTE,CEN0010,Stellenbosch Talent Exchange,Stellenbosch,Western Cape,ZA,South Africa,Talent
+ELCE,CEN0011,East London Community Exchange,East London,Eastern Cape,ZA,South Africa,Talent
+TRTE,CEN0013,Twee Riviere Talent Exchange,Twee Riviere,Eastern Cape,ZA,South Africa,Talent
+DTTE,CEN0014,Durban Talent Exchange,Durban,KwaZulu-Natal,ZA,South Africa,Talent
+PMBG,CEN0015,Pietermaritzburg Talent Exchange,Pietermaritzburg,KwaZulu-Natal,ZA,South Africa,Talent
+GBNZ,CEN0018,Golden Bay HANDS,Takaka,,NZ,New Zealand,HAND
+TATS,CEN0020,Timaru Alternative Trading System Inc.,Timaru,,NZ,New Zealand,Timaru Talent
+TSCT,CEN0021,Taranaki Sustainable Communities Trust,Taranaki,,NZ,New Zealand,Talent
+WEST,CEN0023,West Coast Employment Swap & Trade,Kumara,,NZ,New Zealand,Green Dollar
+REBS,CEN0024,River Exchange & Barter System,Wanganui,,NZ,New Zealand,Reb
+WAIS,CEN0026,Wairarapa Green Dollar Exchange Inc,Wairarapa,Wellington,NZ,New Zealand,WAIS
+WING,CEN0027,Wairau Inter-Trading Green System Inc,Blenheim,,NZ,New Zealand,Green Dollar
+TGDE,CEN0028,Thames Green Dollar Exchange,Thames,,NZ,New Zealand,Green Dollar
+NHCO,CEN0029,Nighthawk Exchange in Louisville Colorado USA,"Louisville, CO",Colorado,US,United States,lui
+IBES,CEN0030,Invercargill Barter & Exchange Systems,Invercargill,,NZ,New Zealand,Green Dollar
+WELL,CEN0031,Wellington Independent Trading System,Wellington,,NZ,New Zealand,Wit
+WEBS,CEN0032,Wanaka Exchange & Barter System,Wanaka,Otago,NZ,New Zealand,Peak
+NZCE,CEN0033,NZ Community Exchange,New Zealand,New Zealand,NZ,New Zealand,Talent
+CMCS,CEN0034,Community Mutual Credit System [CMCS],Vienna,South Dakota,US,United States,Mutual Credit
+WCCE,CEN0036,Waldo County Community Exchange,Belfast,Maine,US,United States,Hour
+MATE,CEN0037,Murihiku Alternative Trading & Exchange System,Murihiku,,NZ,New Zealand,MATES Talent
+LWPG,CEN0038,Local Exchange Trading System Winnipeg,Winnipeg,Manitoba,CA,Canada,LETS Dollar
+ONDA,CEN0039,Sistema de intercambio Chobita,,,AR,Argentina,Onda
+PAWC,CEN0041,PANSA BrainBank,Cape Town,Western Cape,ZA,South Africa,Talent
+GRCE,CEN0046,Greyton Community Exchange,Cape Town,Western Cape,ZA,South Africa,Talent
+PECX,CEN0047,Prince Edward County Community Exchange,Picton,Ontario,CA,Canada,County Dollar
+TVUV,CEN0050,Vanuatu TredVatu,,,VU,Vanuatu,TradeVatu
+POER,CEN0051,Ranon Ambrym North and West Communities,,Malampa,VU,Vanuatu,Poer
+NVRR,CEN0052,Navsagh & Lamap Exchange,,,VU,Vanuatu,Navar
+SWAP,CEN0057,Saint Louis Community Exchange,St. Louis,Missouri,US,United States,Favor
+NPIN,CEN0058,"Goshen, IN Exchange",New Paris,Indiana,US,United States,Credit
+WERC,CEN0059,Whangaroa Economic Resources Community System,Kaeo,,NZ,New Zealand,Green Dollar
+NVTM,CEN0060,Saot West Bay Ninde Tribe,,,VU,Vanuatu,Nevet Mis
+JHAR,CEN0062,Jharkhand Community Exchange,Ranchi,Jharkhand,IN,India,Hour
+GLOG,CEN0064,Global Groups Exchange,International,Everywhere,WO,International,Minute
+EASE,CEN0065,Edmonton & Area Service Exchange,Edmonton,Alberta,CA,Canada,Talent
+PROV,CEN0066,Providence Communty Exchange,Providence,Rhode Island,US,United States,Talent
+HBCE,CEN0068,Hawkes Bay Community Exchange,Hawkes Bay,,NZ,New Zealand,eDollar
+TOTL,CEN0069,New Totnes LETS,Totnes,Devon,UK,United Kingdom,Acorn Favour
+ROTA,CEN0070,Sistema de Intercambio Comunitario de Rota,Rota,Cádiz,ES,Spain,ECO de Rota
+SAOM,CEN0071,Saiom.com,,,IN,India,Omni monee
+SCCE,CEN0072,SpyCat Community Exchange,New York,New York,US,United States,SpyCat
+ANID,CEN0074,Equamedios Milano IT CES,Cologno Monzese,Milano,IT,Italy,Equo
+WCNC,CEN0075,Watauga County Community Exchange,Boone,North Carolina,US,United States,Boonie
+PMAL,CEN0078,Perfecti,Calvia,Mallorca,ES,Spain,Amoro
+RIRT,CEN0079,So. RI Rainbow Trading Post,Narragansett,Rhode Island,US,United States,Trade
+SCET,CEN0080,South-West Community Exchange Trading,Bridgetown,Western Australia,AU,Australia,Hour
+ALTE,CEN0085,Yahola Tribal Exchange Bank,Monticello,Florida,US,United States,Yahtra
+STCE,CEN0086,Stanford Community Exchange,Stanford,Western Cape,ZA,South Africa,Talent
+SCAP,CEN0087,Syndicated Creative Arts Pursuits Exchange,Pudong,Shanghai,CN,China,Talent
+BBIG,CEN0091,Bytesbanken i Göteborg,Göteborg,,SE,Sweden,Bit
+WGDE,CEN0093,Warkworth/Wellsford Green Dollars Exchange,Warkworth,North Island,NZ,New Zealand,Green Dollar
+GANG,CEN0095,Gangkyi Community Exchange,Dharamsala,Himachal Pradesh,IN,India,Sang
+ICNE,CEN0097,ICareNOW Exchange,California,California,US,United States,ICareNOW Dollar
+YSFE,CEN0099,Yippee Skippy Free Exchange of Pioneer Valley,Pioneer Valley,Massachusetts,US,United States,Skippy
+NTEX,CEN0101,Namaqualand Talent Exchange,Bitterfontein,Western Cape,ZA,South Africa,Talent
+WCES,CEN0102,Windhoek Community Exchange,Windhoek,Khomas,NA,Namibia,Talent
+LELX,CEN0103,Leelanau Exchange,Suttons Bay,Michigan,US,United States,Doorknob
+SFLT,CEN0104,Surfcoast Local Energy Trading System,Torquay,Victoria,AU,Australia,Shell
+PFOD,CEN0106,Perfecti Forest of Dean,Cinderford,Gloucestershire,UK,United Kingdom,Amoro
+GRBE,CEN0107,Global Resource Bank,Hollywood,Florida,US,United States,Ecocredit
+MWKC,CEN0108,Marysville/Everett Area Childcare Exchange,Everett,Washington,US,United States,Hour
+MRSS,CEN0109,Waru Waru Exchange,,Malampa,VU,Vanuatu,Mérès
+CSCE,CEN0110,Childside School Community Exchange,,,AU,Australia,Green &nbsp;Trade
+AAMI,CEN0111,Ann Arbor Small Business & Community Exchange,Ann Arbor,Michigan,US,United States,A2$
+PSCE,CEN0113,Puget Sound Community Exchange,Puget Sound,Washington,US,United States,Orca
+CREX,CEN0114,The Commonwealth Reserve Exchange,,Kansas,US,United States,Commonwealth Reserve Dollar
+SCES,CEN0115,Southeastern Alliance for Community Change: Community Exchange System,Wilmington,North Carolina,US,United States,Dollar
+LIBZ,CEN0118,LETS Ibiza,Ibiza,Ibiza,ES,Spain,Eco
+LTON,CEN0119,Launceston TAS Community Exchange,Launceston,Tasmania,AU,Australia,Green Dollar
+MACC,CEN0124,Metro-Atlanta Community Currency Initiative,Atlanta,Georgia,US,United States,Time Dollar
+CWBE,CEN0125,Curitiba Community Exchange,Curitiba,Paraná,BR,Brazil,Uva
+COGS,CEN0126,Circle of Gifts Exchange,Stockholm,,SE,Sweden,COG
+EPDX,CEN0127,Community Xchange Network of Cascadia,"Boise, Portland, Seattle, Vancouver, B.C.",Oregon,US,United States,Exchange Credit
+VECE,CEN0129,Vegan Global Community Exchange,Global,Queensland,AU,Australia,Talent
+MSZS,CEN0134,Dar krogi izmenjav Slovenije,Ljubljana,Slovenia,SI,Slovenia ,DAR
+ANBA,CEN0136,Annapolis Barter,"Annapolis County, Nova Scotia",Nova Scotia,CA,Canada,Barter Dollar
+WFCE,CEN0137,Waltham Forest LETS,London,London,UK,United Kingdom,Beam
+WAKA,CEN0138,Queenstown Wakatipu Exchange Network,Arrowtown,Otago,NZ,New Zealand,Waka
+UHGD,CEN0139,Upper Hutt Green Dollars,Wellington,North Island,NZ,New Zealand,Green Dollar
+MTCC,CEN0140,Matopos CC,Bulawayo,Matabeleland,ZW,Zimbabwe,Tin
+ICES,CEN0141,Ipswich Community Exchange System,Ipswich,Queensland,AU,Australia,New Green Dollar
+BYST,CEN0145,Bytesring Småland,Sunhultsbrunn,,SE,Sweden,Byt
+NWRL,CEN0148,North Warrandyte RakeLETS,North Warrandyte,Victoria,AU,Australia,Rake
+BCCE,CEN0150,Bass Coast Community Exchange,Wonthaggi,Victoria,AU,Australia,Help
+NGDA,CEN0151,Ngoda Community Exchange,Harare,Harare,ZW,Zimbabwe,Green Point
+EWCE,CEN0153,Eastern Washington Community Exchange,Colville,Washington,US,United States,Share
+TWIN,CEN0154,Nelson Complementary Currency,Nelson,Nelson,NZ,New Zealand,TWIN
+LOVE,CEN0155,Selfless Exchange,Cape Town,Western Cape,ZA,South Africa,Talent
+KPNE,CEN0157,Stadin Aikapankki,Helsinki,,FI,Finland,tovi
+EBBR,CEN0158,EBB Romania,Curtea de Arges,,RO,Romania,Talent
+MFCE,CEN0159,Miami Community Exchange,Miami,Florida,US,United States,Talent
+UNTY,CEN0162,Unity Currency,Savannah,Georgia,US,United States,Unity
+PLRG,CEN0163,Canberra Rural LETS Exchange,Canberra,New South Wales,AU,Australia,Talent
+COLE,CEN0164,Columbia Community Exchange,Saint Helens,Oregon,US,United States,C-Note
+HGCE,CEN0165,Heidelberg (WC) Community Exchange,Heidelberg,Western Cape,ZA,South Africa,Talent
+EGAR,CEN0166,EcoXarxa del Garraf,Garraf,Catalunya,ES,Spain,ecogarraf
+OACE,CEN0168,Oaks Area Community Exchange,Tahlequah,Oklahoma,US,United States,Leaf
+SCDE,CEN0170,Sevier/Cocke County Digital Exchange,Cosby,Tennessee,US,United States,Bean
+SENY,CEN0171,Ecoxarxa del Montseny,"Montseny, Granollers, Bcn",Catalunya,ES,Spain,Ecoseny
+WPER,CEN0172,Woman Power East Rand,Kempton Park,Gauteng,ZA,South Africa,Talent
+BLES,CEN0173,Bellingen Local Energy Sustainability System,Bellingen,New South Wales,AU,Australia,Blessing
+CTCH,CEN0174,Communidad Trueke Permacultura Chile,Chile,Biobio,CL,Chile,Amate
+SCEN,CEN0175,Sofia Community Exchange Network,Sofia,,BG,Bulgaria,Deron
+ACOR,CEN0176,Acords Musicals d'Intercanvi,Reus,Tarragona,ES,Spain,Nota
+BATL,CEN0178,Bathurst LETS,Bathurst,New South Wales,AU,Australia,Bat
+BCNA,CEN0179,Ecoxarxa de Barcelona,Barcelona,Catalunya,ES,Spain,Eco
+DACE,CEN0180,Digital Arts Community Exchange,The World,Tennessee,US,United States,Dace Credit
+PEGX,CEN0181,Pegasus Exchange,Christchurch,Canterbury,NZ,New Zealand,Peg
+EXIO,CEN0182,Ecoxarxa d'Osona,Osona,Catalunya,ES,Spain,Ecoseny
+NLCE,CEN0184,North London Local Exchange and Trading Scheme,London - North of the River Thames,London,UK,United Kingdom,Pledge
+BANK,CEN0187,Beacon Bank Community Exchange,Earth,Staffordshire,UK,United Kingdom,Shell
+SMIE,CEN0188,St. Maarten Island Exchange,,,SX,Sint Maarten,Talent
+RAIN,CEN0190,Cloud Community Exchange,Menlo Park,California,US,United States,Rain
+NAPC,CEN0191,Nucli Autònom Públic del Camp,Camp de Tarragona,Catalunya,ES,Spain,Minut
+QUIP,CEN0193,QuipShare Community Exchange,NSW Far South Coast,New South Wales,AU,Australia,Quip
+ETOC,CEN0194,Eco Réseau du Roannais,Roanne,Loire,FR,France,Commune
+KARE,CEN0195,Vaihtopiiri Karelia,Lappeenranta,Etela-Karjala,FI,Finland,Markka
+BMDC,CEN0196,Barter Max Opportunity Network,Central Florida - Orlando,Florida,US,United States,Trade Dollar
+JKVP,CEN0197,Jyväskylän vaihtopiiri,Jyväskylä,Keski-Suomi,FI,Finland,Tunti
+ECUA,CEN0199,ecuaCanjes,Guayaquil,Guayas,EC,Ecuador,Hora Credito
+MTFA,CEN0203,Mana Tree Fund Aotearoa,Auckland,New Zealand,NZ,New Zealand,Manaaki
+MCEN,CEN0204,Montreal Community Exchange Network,Montreal,Quebec,CA,Canada,Royal
+BTCE,CEN0205,Bloomington Community Exchange,Bloomington,Indiana,US,United States,BloomingBuck
+CSMA,CEN0206,Shared Services SMA,San Miguel de Allende,Guanajuato,MX,Mexico,Gift
+TBST,CEN0208,Ciudad de Mexico,Mexico City,Distrito Federal,MX,Mexico,Gratuidad
+BTTC,CEN0209,Befriender Tender Twin Cities,Minneapolis,Minnesota,US,United States,Tender
+LLUK,CEN0210,LETSlink UK,UK,London,UK,United Kingdom,Link
+PRCE,CEN0211,Prudence Community Exchange,Balfour,Mpumalanga,ZA,South Africa,Talent
+TCCC,CEN0213,The Cadillac Commons Credit,Cadillac,Michigan,US,United States,Cadillac Common
+MXCA,CEN0214,Magnet Exchange Currency Arizona,Chandler,Arizona,US,United States,Magnet
+CANN,CEN0215,Pinilla de Molina Comunidad Truequense,Pinilla de Molina,España,ES,Spain,Cañauro
+VCNT,CEN0217,Vecinatatea,Sighisoara,Mures,RO,Romania,Frunza de Stejar
+MACE,CEN0218,Maranoa Community Exchange,Roma,Queensland,AU,Australia,Mulga
+PPPP,CEN0219,Päijät-Hämeen Pähkinäryhmä,Lahti,Päijät-Häme,FI,Finland,Pähkinä
+SDNB,CEN0220,SDN-Tauschring,Schaessburg,Siebenbuergen,RO,Romania,Eichenblatt
+TBOH,CEN0221,Time Bank of Hawaii,Hawaii,Hawaii,US,United States,Time
+CATC,CEN0222,Catch~22 Community Exchange,Coventry,Rhode Island,US,United States,Credit
+NWCE,CEN0223,New World Community Exchange,Mission Viejo,California,US,United States,Service Dollar
+MNCE,CEN0224,Montco New Community Exchange,King of Prussia,"Montgomery County, Pennsylvania",US,United States,Kudo Dollar
+SDCA,CEN0225,San Diego Time Bankers,San Diego,California,US,United States,Hour
+BSCX,CEN0226,Baltic State Community Exchange,Vilnius,EU,LT,Lithuania,Darbas
+LVNV,CEN0227,Las Vegas NV,Las Vegas,Nevada,US,United States,Fund
+KICS,CEN0228,Kids In Community Service,Hawaii,Hawaii,US,United States,Talent
+WCLM,CEN0229,West Chester/Liberty/Monroe Community Exchange,West Chester,Ohio,US,United States,Service
+LIPP,CEN0230,LETS in Port Phillip,City of Port Phillip,Victoria,AU,Australia,Trade
+ESSP,CEN0231,Economia Solidária SP,São Paulo,São Paulo,BR,Brazil,Talent
+HEFE,CEN0232,Home Earners Freedom Exchange,Wichita,Kansas,US,United States,FreeGreen
+ILET,CEN0233,Iredell-LETS Barter and Trade,Statesville,North Carolina,US,United States,BAT Dollar
+TPRE,CEN0234,Tampereen Aikapankki,Tampere,Etelï¿½-Suomen lï¿½ï¿½ni,FI,Finland,Tunti
+KOHA,CEN0235,Kudos Organisation of Hamilton Aotearoa,Hamilton,North Island,NZ,New Zealand,Kudo
+ZBEX,CEN0236,Zed Barter & Business Trade Exchange,Lusaka,Lusaka,ZM,Zambia ,Zed Buck
+KHCE,CEN0238,Karoo Heartland Community Exchange,Nieu Bethesda,Eastern Cape,ZA,South Africa,Talent
+KDBR,CEN0239,Karlstad bytesring - den alternativa ekonomin,Karlstad,Värmland,SE,Sweden,Mark
+OKCE,CEN0241,Orange Community Exchange,Orange,New South Wales,AU,Australia,Orange
+LLDA,CEN0243,Ecoxarxa de Lleida,Lleida,Catalunya,ES,Spain,MarrEco
+NNWL,CEN0246,North by North West London,London,London,UK,United Kingdom,Nugget
+LCES,CEN0247,Lowveld Community Exchange System,Nelspruit,Mpumalanga SA,ZA,South Africa,Talent
+FINR,CEN0248,Sydspetsens Tidsbank/Eteläkärjen Aikapankki,Raseborg & Hangö / Raasepori & Hanko,Finland,FI,Finland,Stund/Tovi
+TOCE,CEN0249,Toronto Exchange,Toronto,Ontario,CA,Canada,Trahno
+UTCO,CEN0250,Utah Co Op,Murray,Utah,US,United States,Dollar
+PATB,CEN0251,Pargas Tidsbank - Paraisten Aikapankki,Pargas/Parainen,Väståboland/Länsi-Turunmaa,FI,Finland,Park
+TULI,CEN0252,Tulikiven aikapankki,Maata etsimässä,Suomi,FI,Finland,Kivi
+CCAI,CEN0253,SANARTE MARCIAL,Cali,Valle del Cauca,CO,Colombia ,Talento
+UCCE,CEN0254,Utah County Community Exchange,Provo,"Utah County, Utah",US,United States,Limnah
+MNDR,CEN0255,La Mandrágora Comunidad de Intercambio,Valencia,Valencia,ES,Spain,Vega
+TGDB,CEN0256,SANARTE MARCIAL,Guadalajara de Buga,Valle del Cauca,CO,Colombia ,Talento
+PNIL,CEN0257,Pasto Nariño Intercambio Libre,San Juan de Pasto,Narino,CO,Colombia ,Talento
+INIC,CEN0258,Ipiales Nariño Intercambio Comunitario,Ipiales,Narino,CO,Colombia ,Talento
+TBBB,CEN0259,Tampa Bay’s Broker Bucks | Commerce Exchange Network,(Metro) Tampa - St. Petersburg - Clearwater,Florida,US,United States,Broker Buck
+KAIP,CEN0260,Kouvolan AikaPankki,Kouvola,Kouvola,FI,Finland,Tovi
+HBSJ,CEN0265,To be set,Japan,Japan,JP,Japan ,Talent
+ASBY,CEN0266,Ås Byttering,Aas,Akershus,NO,Norway ,Gryn
+TUAP,CEN0267,Turun Aikapankki,Turku,Finland,FI,Finland,Tovi
+OULU,CEN0268,Oulun Aikapankki,Oulu,,FI,Finland,Tovi
+TMBR,CEN0269,Mount Tamborine,Mt.Tamborine,Queensland,AU,Australia,Au Dollar
+PCPI,CEN0270,Permis Internacional,Internacional,,WO,International,Permi
+BBCE,CEN0271,Bet Bet Community Exchange,Bet Bet,Victoria,AU,Australia,Green Dollar
+SFSA,CEN0272,San Francisco Sustainably Abundant Community Exchange,San Francisco,California,US,United States,Cairo
+OSTB,CEN0273,Op Shop Time Bank,"Hyde Park, Chicago",Illinois,US,United States,OP
+JVPI,CEN0276,Joensuun Vaihtopiiri,Joensuu,Pohjois-Karjala,FI,Finland,Tovi
+RLCE,CEN0277,RefLETS Community Exchange,Brisbane,Queensland,AU,Australia,Credit
+CIVI,CEN0278,Civic Community Exchange,St. George,New South Wales,AU,Australia,Civ
+ROAP,CEN0279,Rovaniemen Aikapankki,Rovaniemi,Rovaniemi,FI,Finland,Tovi
+AMAL,CEN0280,Cooperativa Integral Amalur,Valencia,Valencia,ES,Spain,ECO
+GLBS,CEN0282,Good Life Club - Bayside,Bayside,Victoria,AU,Australia,Quantum
+KUAP,CEN0283,Keski-Uudenmaan Aikapankki,"Kerava, Järvenpää, Tuusula",Uusimaa,FI,Finland,Tovi
+EXPA,CEN0285,Ecoxarxa Lo Pallars,Salàs de Pallars,Lleida,ES,Spain,Pallars
+SCLB,CEN0286,Sistema de cambio local Biobío,Concepcion,Region Biobío,CL,Chile,Kullin
+XESC,CEN0287,Xarxa d Economia Solidaria de Catalunya,Barcelona,Catalunya,ES,Spain,EcoSol
+RMIR,CEN0288,Esnaf Niš,Niš,Srbija,RS,Serbia,Dinar
+ECOP,CEN0289,Ecoxarxa Penedès,Vilafranca del Penedès,Catalunya,ES,Spain,Eco
+LBUZ,CEN0290,LETSBuzz,Leighton Buzzard,Bedfordshire,UK,United Kingdom,Buzzard
+BORG,CEN0291,Porvoon Aikapankki,Porvoo,Porvoo,FI,Finland,Tovi
+KCEA,CEN0293,FASOYLI Exchange Community,Athens,Greece,GR,Greece ,fasouli
+FSCE,CEN0294,Friendly Service Club,Columbus,Ohio,US,United States,Talent
+NVBB,CEN0295,Nordre Vestfold Byttebank,Horten,Vestfold,NO,Norway ,Daler
+SSES,CEN0296,Slim Swayze Exchange,Kawartha/Durham,Ontario,CA,Canada,Slim cash
+GCEG,CEN0298,Genealogy Community Exchange Group,Camarillo,California,US,United States,Lookup
+VSAP,CEN0299,Vaasan seudun aikapankki,Vaasa,Länsi-Suomen lääni,FI,Finland,Tovi
+UBCE,CEN0300,UnitedBeat Community Exchange,Malmö,Skåne,SE,Sweden,Unity
+SVLC,CEN0302,Super Swap Valencia,Valencia,Valencia,ES,Spain,Super
+MCES,CEN0303,Monroe County Exchange,Rochester NY,New York,US,United States,Rochester
+GVCE,CEN0304,George VanSickles Community Exchange,Indianapolis,Indiana,US,United States,IndyRES
+DHCF,CEN0306,Dargo Highlands Community Farm,Dargo,Victoria,AU,Australia,Dargo$
+OSEL,CEN0307,Oficina para la Sustentabilidad y la Equidad Local,Novelda,Alicante,ES,Spain,Osel
+MIKA,CEN0308,Mikkelin Aikapankki,Mikkeli,Etelä-Savo,FI,Finland,Tovi
+VAAP,CEN0309,Vantaan aikapankki,Vantaa,,FI,Finland,Tovi
+KACE,CEN0310,Kinsale Area Community Exchange,Kinsale,Cork,IE,Ireland,Eiriu
+ZMVP,CEN0312,ZMVP Bank,Kitchener,Ontario,CA,Canada,ZT
+ELAC,CEN0313,Elche Acoge,Elche,Alicante,ES,Spain,Hora
+NITE,CEN0314,NITE Global Accommodation Exchange,International,,WO,International,Nite
+CKIE,CEN0315,Kildare LETS,Kildare Town,Co Kildare,IE,Ireland,Daragead
+BFCE,CEN0316,Bloemfontein Community Exchange,Bloemfontein,Free State,ZA,South Africa,Talent
+COEC,CEN0318,Construyendo Ecociudadelas,Barcelona,Cataluña,ES,Spain,ECO
+HCEP,CEN0320,Haenertsburg Community Exchange Programme,Haenertsburg,Limpopo,ZA,South Africa,Clean Green
+ACCX,CEN0321,ATKA Centurion Community Exchange,Centurion,Gauteng,ZA,South Africa,Talent
+IETS,CEN0322,Iets vir Iets Westrand,Westrand,Gauteng,ZA,South Africa,Talent
+EXBV,CEN0323,EcoXarxa Vallès Oriental,Mollet del Vallès,Catalunya,ES,Spain,EcoTerra
+ETDD,CEN0326,El Temps del Dàtil,Elche,Alicante,ES,Spain,Dátil
+CUPT,CEN0327,Comerciantes Unidos,Cali,Valle Del Cauca,CO,Colombia ,Hoja Verde
+KOKE,CEN0328,Kokkolan Aikapankki,Kokkola,Keski-Pohjanmaa,FI,Finland,Tovi
+LIBE,CEN0329,Red Libertaria,Quintana Roo,Quintana Roo,MX,Mexico,Caribe
+SVCE,CEN0330,Seville Spain CES,Seville,Andalusia,ES,Spain,Green Euro
+CSSE,CEN0331,Connecticut Sound Shares Exchange,East Haddam,Connecticut,US,United States,Sound Share
+NTES,CEN0333,EcoRéseau du Pays Nantais,Nantes,Bretagne,FR,France,Confluent
+CHSC,CEN0334,Chapman House Community Center,Pelzer,South Carolina,US,United States,TimeDollar
+VEGA,CEN0335,Red vegana de intercambio,Barcelona,Catalunya,ES,Spain,Vega
+TSAC,CEN0336,Tapawera Share and Care Scheme,Tapawera,Nelson,NZ,New Zealand,Green Dollar
+ATHS,CEN0337,Athens County Transition,Athens County,Ohio,US,United States,Clam
+CHLT,CEN0338,Charlotte Community Exchange,Charlotte,NC,US,United States,Dollar
+ICDT,CEN0339,Xarxa Local d'Intercanvi del Camp de Túria,Llíria,València,ES,Spain,Eco
+ALSI,CEN0340,Asociación Sostenibilidad Rural Y Formación,Porqueres,Girona,ES,Spain,Copy
+RSCL,CEN0341,Red de Sistemas de Comercio Local,Medellín,Antioquia,CO,Colombia ,Hora
+CSIC,CEN0342,Confis Sociedad Internacional,Terrassa,Catalunya,ES,Spain,Confis
+OLAC,CEN0344,Comunidad de Ola Currency-OLAC,Madrid,España,ES,Spain,OLAC
+CORK,CEN0345,Cork LETS Network,Cork,Cork,IE,Ireland,Credit
+LETS,CEN0346,Chicagoland Local Exchange Trading System,Chicago,Illinois,US,United States,Mutual Credit
+LMAP,CEN0347,Loivan maan aikapankki,Loimaa,Varsinais-Suomi,FI,Finland,Tovi
+GABE,CEN0348,Glasshouse and Beerwah Exchange System,Glasshouse Mountains and Beerwah,Queensland,AU,Australia,LETS Point
+ANOI,CEN0349,Ecoxarxa de L'Anoia,Anoia,Catalunya,ES,Spain,ECORIU
+GDCE,CEN0350,Greater Dayton Community Exchange,Dayton,OH,US,United States,Wright
+RAEX,CEN0351,The Rational Exchange,Muskoka,Ontario,CA,Canada,rollar
+HYHP,CEN0354,Hyvinkään Hyvä Pankki,Hyvinkää,Uusimaa,FI,Finland,Hyvä
+PHIL,CEN0355,Philadelphia Barter Exchange,Philadelphia,Philadelphia,US,United States,Trade Dollar
+CESA,CEN0358,CES Alicante Red de Intercambio Local,Alicante,Alicante,ES,Spain,Lucero
+PLES,CEN0359,Ecoxarxa del Pla de l'Estany,Pla de l'Estany,Catalunya,ES,Spain,Eco
+ULLA,CEN0360,Ulladulla Community Exchange,Ulladulla,New South Wales,AU,Australia,Favour
+PELY,CEN0363,&#928;&#917;.&#923;&#933;.&#922;&#927;&#921;.&#913;. (&#928;&#917;&#973;&#954;&#951;-&#923;&#933;&#954;&#972;&#946;&#961;&#965;&#963;&#951; &#922;&#927;&#921;&#957;&#969;&#957;&#953;&#954;&#942; &#913;&#957;&#964;&#945;&#955;&#955;&#945;&#947;&#942;),Pefki & Lykovrysi of Attica,Attiki,GR,Greece ,PeLyKoiA
+LOAI,CEN0364,Lohjan Aikapankki,Lohja,Uusimaa,FI,Finland,Tovi
+SELV,CEN0365,Ecoxarxa de la Selva,Comarca de la Selva,Comarca de la Selva,ES,Spain,ECO
+MTSN,CEN0367,&#956;&#960;&#959;&#965;&#964;&#963;&#959;&#973;&#957;&#953; - &#916;&#943;&#954;&#964;&#965;&#959; &#913;&#957;&#964;&#945;&#955;&#955;&#945;&#947;&#942;&#962; &#922;&#949;&#961;&#954;&#973;&#961;&#945;&#962;,Corfu,"Corfu, Ionian Sea",GR,Greece ,&#956;&#960;&#959;&#965;&#964;&#963;&#959;&#973;&#957;&#953;
+KCES,CEN0368,Kauai Community Exchange System,,Hawaii,US,United States,hour
+LIVO,CEN0369,Livonsaaren aikapankki,Naantali,Suomi,FI,Finland,Livo
+CBDT,CEN0370,Banco de tiempo La Concepción,Madrid,Madrid/Ciudad Lineal,ES,Spain,Hora
+LNEI,CEN0371,Kaereti Τοπικό δίκτυο Ανταλλαγών Ιεράπετρας,Ierapetra,Crete,GR,Greece ,Kaereti
+BVDA,CEN0372,Economia Locale Bergamo,Villa d'Almè,Bergamo,IT,Italy,Cipolla
+VTDQ,CEN0373,Cultive Resisténcia,Baixada Santista,São Paulo,BR,Brazil,Resist
+BDEO,CEN0374,Banco del Eo,Vegadeo,Asturias,ES,Spain,Hora
+SILM,CEN0375,Sistema d'Intercanvi Local de Meliana,Meliana,València,ES,Spain,Eco
+BOBY,CEN0377,Borås Bytessällskap,Borås,Västra Götaland,SE,Sweden,Talent
+KFRS,CEN0379,Kalamata Free Space,Kalamata,Messinia,GR,Greece ,KFrS
+BDTM,CEN0380,Banco del Tiempo Manoteras,Madrid,Madrid,ES,Spain,Hora
+HDSE,CEN0381,Human Design,Melbourne,Victoria,AU,Australia,Talent
+PART,CEN0383,Participation,Berlin,Berlin,DE,Germany,Partis
+MALL,CEN0384,EcoXarxa Mallorca,Mallorca,Illes Balears,ES,Spain,Talent
+LSTH,CEN0385,LETS South Local Exchange Trading System,South Adelaide,South Australia,AU,Australia,Bart$
+FSNS,CEN0386,Free State Exchange Services,Brisbane,Queensland,AU,Australia,Greenback
+VBCE,CEN0387,Vryburg Community Exchange,Vryburg/Kavot Complex,North West Province,ZA,South Africa,Talent
+MMJA,CEN0389,Majunga,Majunga,Madagascar,MG,Madagascar,Euro
+AKEN,CEN0390,Alaska Exchange Network,Anchorage,Alaska,US,United States,Ulu
+MIST,CEN0391,Central Indiana Community Exchange,Greenfield,Indiana,US,United States,Talent
+EPCT,CEN0392,"EcoTrocas Portugal, Comunidade de Trocas",Alges,Estremadura,PT,Portugal,ECO
+SVST,CEN0393,Seto Turg,Tallinn,Harju,EE,Estonia,Seto Kroon
+DDNL,CEN0394,Experiment Dadel-NL,Harderwijk,Gelderland,NL,Netherlands,DADELNL
+KORI,CEN0395,&#932;&#961;&#940;&#960;&#949;&#950;&#945; &#935;&#961;&#972;&#957;&#959;&#965; &#922;&#959;&#961;&#943;&#957;&#952;&#959;&#965;,Korinthos,Korinthias,GR,Greece ,Hour
+BUCE,CEN0396,Bucharest Community Exchange,Bucharest,Romania,RO,Romania,Green Ron
+YVLS,CEN0397,Yarra Valley LETS,Warburton,Victoria,AU,Australia,Razldazl
+HVCC,CEN0398,Humboldt Village Exchange,Humboldt,California,US,United States,Humbuck
+ONCE,CEN0399,Oakland Neighborhoods Community Exchange,Oakland,California,US,United States,Oak Leaf
+TMCE,CEN0402,The Manzana Community Exchange,Los Lunas,New Mexico,US,United States,Manzana Merit
+WASH,CEN0403,Hub City Exchange,Hagerstown,"Washington County, Maryland",US,United States,Hager
+BWSP,CEN0405,Bank wremeni Sankt-Petersburg,Sankt-Petersburg,Sankt-Peterburg,RU,Russia,&#1095;&#1072;&#1089;
+XOTS,CEN0406,Ca Sa Comuna,Islas Baleares,Islas Baleares,ES,Spain,Xots
+LVEX,CEN0407,Latrobe Valley Exchange,Latrobe Valley,Victoria,AU,Australia,LV Dollar
+AMAR,CEN0408,Ecoxarxa de l'alt maresme,Alt Maresme,Catalunya,ES,Spain,Ecu
+FITB,CEN0409,Fiskars Time Bank,Fiskars,Raasepori,FI,Finland,Tovi
+KUOP,CEN0410,Kuopion Aikapankki,Pohjois-Savo,,FI,Finland,Tovi
+RAVE,CEN0411,Red de Apoyo Mutuo de la Vera,Comarca de la Vera,Extremadura,ES,Spain,Torna
+SSAS,CEN0412,Sopopankki - Sopobank,Kemionsaari - Pernio - Salo - Sauvo - Sarkisalo,Salon seutu,FI,Finland,Tovi
+PUEX,CEN0413,Project Utopia,Three Rivers,Gauteng,ZA,South Africa,Credit
+ERCC,CEN0414,Ecoréseau du Pays de Concarneau,Concarneau,Bretagne,FR,France,Sardine
+GCES,CEN0415,Glasshouse Community Exchange System,Glasshouse Mountains,Queensland,AU,Australia,Point
+VIAP,CEN0416,Vihdin Aikapankki,Vihti,Uusimaa,FI,Finland,Tovi
+RMSA,CEN0417,Red Moneda Social Aljarafe,Comarca del Aljarafe,Sevilla,ES,Spain,JARA
+PUMA,CEN0418,"PUMA, Red de Moneda Social del Casco Histórico Norte de Sevilla",Sevilla,Sevilla,ES,Spain,Puma
+SVVO,CEN0420,Skupina Vzájemné Výpomoci Ostrava,Ostrava,Moravskoslezský kraj,CZ,Czech Republic,Hodina Vzájemné Výpomoci
+IISI,CEN0421,Iisalmen Aikapankki,Iisalmi,Pohjois-Savo,FI,Finland,Tovi
+PSSE,CEN0423,Poor Souls Society Exchange,Old North St. Louis,MO,US,United States,Hour
+CITS,CEN0424,Cooperativa Integral Terrassa,Terrassa,Calalunta,ES,Spain,ECOCIT
+RAAP,CEN0425,Raahen Aikapankki,Raahe,Raahe,FI,Finland,Tovi
+BTSN,CEN0426,Comunidad de Intercambio Sierra Norte de Madrid,Sierra Norte de Madrid,Madrid,ES,Spain,MOra
+TPEX,CEN0427,Transition Philippines Exchange,Metro Manila,N/A,PH,Philippines,TPEX
+TUSX,CEN0428,Transition US Exchange,Burke,Virginia,US,United States,TUSX
+SRCE,CEN0429,Stanislaus River Community Exchange,Modesto,California,US,United States,Talent
+GITA,CEN0430,GiTa,Bilbao,Euskal Herria,ES,Spain,Gita
+SVBD,CEN0431,Банк времени Свобода,Санкт-Петербург,Ленинградская область,RU,Russia,час
+KOIN,CEN0432,KOINO,&#920;&#949;&#963;&#963;&#945;&#955;&#959;&#957;&#953;&#954;&#951;-&#922;&#945;&#955;&#945;&#956;&#945;&#961;&#953;&#940;,&#922;&#945;&#955;&#945;&#956;&#945;&#961;&#953;&#940;&#962;,GR,Greece ,koino
+KAPA,CEN0433,Kajaanin aikapankki,Kajaani,Kainuu,FI,Finland,Tovi
+ODCE,CEN0434,Банк Времени ЧЕ (Одесса),,,UA,Ukraine,Common Hour Equivalent
+BDTR,CEN0435,Banco del tiempo R.ciclo,Granada-Realejo,Granada,ES,Spain,Hora
+TLET,CEN0436,Toronto LETS System,Toronto,Ontario,CA,Canada,LETS Dollar
+CIRO,CEN0438,Cooperativa Integral Riojana,La Rioja,La Rioja,ES,Spain,KURRY
+AVLO,CEN0439,Avalon Comunidad,Barcelona,Cataluña,ES,Spain,Escudo
+EAST,CEN0441,Eastland Alternative System of Trade,Gisborne Region,New Zealand,NZ,New Zealand,east
+CHCE,CEN0442,Collaboration of Heroes for Health Happiness Harmony and Healing Community,Healesville,Victoria,AU,Australia,Radii
+OLBS,CEN0443,One Love Bank,Christiansted,St. Croix,VI,US Virgin Islands,Seed
+TNPO,CEN0444,Tauschnetz Pongau,Pongau,Salzburg,AT,Austria,Talent
+ECOV,CEN0445,Vila Real Eco,Vila Real,Vila Real,PT,Portugal,Vr
+NICE,CEN0446,Kotkan Aikapankki,Kotka,Kymenlaakso,FI,Finland,Aika
+KAAP,CEN0447,Kainuun Aikapankki,Kainuu,Kainuu,FI,Finland,Tovi
+KNXC,CEN0448,Kununurra Community Exchange,Kununurra,Western Australia,AU,Australia,Time Dollar
+CASE,CEN0450,Barrio de Casetas de Zaragoza,Casetas,Zaragoza,ES,Spain,Casetito
+MKZN,CEN0451,Midlands Community Exchange,Midlands,KwaZulu-Natal,ZA,South Africa,LETS
+WNNZ,CEN0452,"Wellington North, New Zealand",Wellington,Wellington,NZ,New Zealand,MaC
+PITU,CEN0453,Trueke Comunitario,Parana,Entre Rios,AR,Argentina,Peso tuki
+ECOC,CEN0454,Cooperativa Andaluza Ecocenter,Tarifa,Cadiz,ES,Spain,EC0s
+RAGS,CEN0455,Revelstoke Alternative Goods & Services Exchange,"Revelstoke, BC, Canada",British Columbia,CA,Canada,Stoke
+CRMU,CEN0456,Comunidad Munitario.Com,Buenos Aires,Buenos Aires,AR,Argentina,Credito
+KISO,CEN0458,Kind Social,Oakdale,California,US,United States,Talent
+JDCE,CEN0459,Jeddah Community Exchange,Jeddah,Mecca,SA,Saudi Arabia,Baraka
+WROC,CEN0461,Wroclawski Rynek Obiegu Niezaleznego,Wroc&#322;aw,Dolny &#346;l&#261;sk,PL,Poland,Wolny
+EXMV,CEN0462,EcoXarxa Morvedre,Sagunto,Valencia,ES,Spain,Eco
+GHTE,CEN0463,Golden Hours Time Exchange,Golden,British Columbia,CA,Canada,Golden Hour
+KCEE,CEN0465,Karamea Community Energy Exchange,Karamea,West Coast,NZ,New Zealand,Seed
+KOOP,CEN0469,Herri Kooperatiba,Euskal Herria,Euskal Herria,ES,Spain,truk
+REMC,CEN0470,Red Eco de Mercado Comunitario,Comarca de la Montaña Palentina,Palencia,ES,Spain,Eco-MP
+BTNI,CEN0471,Grupo de Alimentación do Val Miñor,Val Miñor,Pontevedra,ES,Spain,Miñorano
+OLIV,CEN0472,Xarxa d'Intercanvi d'Olivella,Olivella,Barcelona,ES,Spain,Talento
+ECAD,CEN0473,Moneda social del Centre d'animals,Mollet del valles,Barcelona,ES,Spain,EcoCad
+GLUX,CEN0476,LUX Community Exchange,Almenno San Bartolomeo,Bergamo,IT,Italy,LUX
+EIRE,CEN0477,EIRE L.E.T.S. Network,Ireland,Ireland,IE,Ireland,Credit
+RIBE,CEN0479,Riga Barter Exchange,Riga,Riga,LV,Latvia ,BarterLat
+ERPQ,CEN0480,Ecoréseau du pays de Questembert,Questembert,Bretagne,FR,France,Gwenneg
+HKCE,CEN0481,Hong Kong Community Exchange,Hong Kong,Hong Kong,HK,Hong Kong,Talent
+CASU,CEN0485,Caithness & Sutherland Community Exchange System,Caithness & Sutherland,Caithness & Sutherland,UK,United Kingdom,Green Pounds
+NAVA,CEN0486,Navarra - Comunidad para el Intercambio,Pamplona,Navarra,ES,Spain,Amarraco
+MYVA,CEN0487,Mynämäki Vaihtotalous,Mynämäki,Varsinais-Suomi,FI,Finland,Tovi
+TIME,CEN0488,Banco del Tiempo Vigo,Vigo,Galicia,ES,Spain,Tiempo
+SMCE,CEN0491,Cavan Monaghan Community Exchange,Cavan Monaghan,County Monaghan,IE,Ireland,Trada
+CION,CEN0493,Cooperativa Integral Asturiana,Oviedo,Asturias,ES,Spain,Copín
+NECS,CEN0494,Nairobi Exchange Community Service,Nairobi,Nairobi,KE,Kenya,Mavuno
+RAMA,CEN0495,Red de Apoyo Mutuo Aurhora,Motril,Granada,ES,Spain,AurHora
+TRPB,CEN0496,Intercanvi Plana Baixa / Troc P.B,La Llosa,Castellò,ES,Spain,Muixerange
+GUMB,CEN0497,Ficksburg Gumtree Barter,Ficksburg,Free State,ZA,South Africa,Talent
+WSWW,CEN0499,WYMIENNIK. Spolecznosciowy System Wymiany,Warszawa,Mazowieckie,PL,Poland,alterka
+BTSP,CEN0504,Comunidad de Intercambio Siete Picos,Madrid,Madrid,ES,Spain,MoraSP
+THTE,CEN0505,The Hamilton Time Exchange,Hamilton,Ontario,CA,Canada,Hamilton Hour
+MOVI,CEN0506,Movimiento Desempleados,Alhaurin de la Torre,Málaga,ES,Spain,Movides
+CIHS,CEN0510,CES Horta Sud,Valencia,Valencia,ES,Spain,Eco
+OSLM,CEN0511,Osel Región de Murcia,Región de Murcia,España,ES,Spain,Osel
+DNCR,CEN0512,New Delhi NCR Community Exchange,New Delhi,Delhi,IN,India,Mudra
+CIRB,CEN0513,Central Indiana Exchange Circle,Greater Indianapolis Area,Indiana,US,United States,CircleBack
+CCPI,CEN0514,Cooperativa Integral d´Eivissa,Eivissa,Islas Baleares,ES,Spain,Eco
+BIMS,CEN0517,BIMS de Maçanet de la Selva,Maçanet de la Selva,Girona,ES,Spain,MAÇ
+CICM,CEN0518,Comunidad de Intercambio de las Cuencas Mineras,Mieres,Asturias,ES,Spain,Triskel
+RLET,CEN0519,Reading LETS,Reading,Berkshire,UK,United Kingdom,Ready
+GRMI,CEN0520,Global Interest Body - Grand Rapids,Grand Rapids,Michigan,US,United States,Interest Dollar
+CBNY,CEN0521,Valencia Capital y Poblats Maritims,Valencia,Comunidad Valenciana,ES,Spain,Eco
+MNBB,CEN0522,MellanNorrland Bytesbank,Sundsvall,Västernorrland,SE,Sweden,Daler
+GAIA,CEN0523,Feira Fértil,Brasilia,Distrito Federal,BR,Brazil,BROTO
+ECOM,CEN0524,Red ECO Madrid,Madrid,Madrid,ES,Spain,ECO
+CYPR,CEN0526,Cyprus Community Exchange,Paphos,Paphos,CY,Cyprus,Kudos
+SUCO,CEN0527,Sistema de Unidades de Confianza,La Tierra,España,ES,Spain,Unidad de CONfianza
+AALI,CEN0528,Arokya Community Exchange,Arakkonam,Tamil Nadu,IN,India,Arokyaa
+NHOW,CEN0529,Banco de Favores,AvilÃ©s,Asturias,ES,Spain,NOW
+FCBC,CEN0530,CES - Greater Vancouver,Greater Vancouver,British Columbia,CA,Canada,Freedoms
+REDL,CEN0531,La Casa de la Red,Cuernavaca,Morelos,MX,Mexico,Tlaloc
+BDCE,CEN0534,Barrydale Community Exchange,Barrydale,Western Cape,ZA,South Africa,Talent
+SOLP,CEN0535,Sistema de Organización Local de Patraix,Valencia,Valencia,ES,Spain,Eco
+IECA,CEN0536,Comunidad de intercambio Estacion Cielo Abierto,Valparaiso,Valparaiso,CL,Chile,ECA
+CIBA,CEN0537,Comunidad de Intercambio de Almer&#237;a,Almer&#237;a,Almer&#237;a,ES,Spain,Pita
+FLEY,CEN0538,Fleys,Mollet del Vallès,Barcelona,ES,Spain,Fleys
+CSEI,CEN0539,Comunidad de intercambio Comarca del Sureste I,Velilla de San Antonio,Madrid,ES,Spain,Oliva
+EVDT,CEN0541,Xarxa Ecovalldeltenes,L'Ametlla del Vallès,Barcelona,ES,Spain,Ecovall
+RAST,CEN0542,Red Asturiana de comunidades de Trueque,Asturias,Asturias,ES,Spain,Copin
+COEX,CEN0545,Central Ohio Exchange Circle,Columbus,Ohio,US,United States,Columbux
+KRVT,CEN0546,Karnavati Community Exchange,Ahmedabad,Gujarat,IN,India,Gujarati Rupeeo
+ESOL,CEN0547,Ecoxarxa del Solsonès,Solsonès,Solsonès,ES,Spain,ECO
+EBRE,CEN0549,Ecoxarxa Ebre,"Territori Ebre, Sènia I Matarranya",Catalunya-Aragó I València,ES,Spain,EBRE
+MBIT,CEN0550,mercaBit.eu,Madrid,Madrid,ES,Spain,bitcoin
+AMSO,CEN0553,Amalgama Social,Collado Villalba,Madrid,ES,Spain,Hour
+ERHB,CEN0554,Ecored  Chiva-Hoya de Buñol,Hoya de Buñol,Valencia,ES,Spain,Eco
+JSCI,CEN0556,Cooperativa integral Zamora,Zamora,Zamora,ES,Spain,Celemín
+EXAC,CEN0558,EcoXarxa Alcoià-Comtat,Alcoià-Comtat,Alacant,ES,Spain,ECO
+VIAI,CEN0559,Via Interaxion,International,International,WO,International,Time
+SITR,CEN0560,Banco de Tiempo  Aitana Sur,"Sella, Alicante",Comarca de la Marina Baixa,ES,Spain,Alcantara
+PICO,CEN0561,Proxecto Integral Compostela,Santiago de Compostela,A Coruña,ES,Spain,Landra
+CESW,CEN0563,Community Exchange System - Whistler,Whistler,British Columbia,CA,Canada,Whistle
+CIAR,CEN0564,Ebro: Moneda social,Aragón,Aragon,ES,Spain,Ebro
+TEMP,CEN0565,Banco del tiempo TEMPUS BANK,Villaquilambre/Leon,SPAIN,ES,Spain,Tempus
+NSCM,CEN0567,Nodo San Cris,San Cristobal de las Casas,Chiapas,MX,Mexico,Chipilin
+FKTY,CEN0568,Musica y Arte Audiovisual Exchange,Bocairent,Valencia,ES,Spain,Euro
+CREA,CEN0569,Creaexchange,Barcelona,Barcelona,ES,Spain,CREA
+CLUJ,CEN0570,Cluj,Cluj Napoca,Cluj,RO,Romania,Leul de Cluj
+IDPI,CEN0571,Mas la nou,Constanti,Tarragona,ES,Spain,Libertaria
+DPKO,CEN0572,DelPlaKarolinas,Pla-Carolinas,Alicante,ES,Spain,DPKON
+FTVS,CEN0573,Feira de Trocas das Virtudes,Miragaia,Porto,PT,Portugal,Virtude
+FCEN,CEN0574,Comunidad de la Energia,Ponferrada,Leon,ES,Spain,Botillo
+IOCE,CEN0575,Ioannina Community Exchange,Ioannina/Stoa Sarka,Greece/Epirus,GR,Greece ,GRE
+MEBB,CEN0576,Mejorando el Barrio de Burgos,Burgos,Burgos/Castilla y leon,ES,Spain,Base
+TEAM,CEN0578,Talents Exchange,Chi&#537;in&#259;u,Chisinau,MD,Moldova ,Talent
+LCCE,CEN0579,UpLIFT Community Time Credit Exchange,Toronto,Ontario,CA,Canada,Tiyo
+SALU,CEN0580,Red de Apoyo Mutuo EcoSalud,Almería,Almería,ES,Spain,EcoSale
+SARO,CEN0581,Sistema de Administraçao de Recursos de Oasis Mundo,Paraty,Rio de Janeiro,BR,Brazil,Alegria$
+BKTY,CEN0582,Banko del Tiempo Yecla,Yecla,Murcia,ES,Spain,Hora
+CIGR,CEN0583,Red de Economia Social el Chavico,Granada,Granada,ES,Spain,Chavico
+BTNG,CEN0584,Banco del tiempo 2.0,Vigo,Pontevedra,ES,Spain,Hora de tiempo
+TPCS,CEN0585,The Planetary Club,Getxo,Bizkaia,ES,Spain,Tpc
+ECIV,CEN0586,Cooperativa Integral Valenciana - Atornallom,València,València,ES,Spain,EcoCIV
+REAL,CEN0587,Red de Economía Local de Alicante,Alicante,Alicante,ES,Spain,Eco
+OLAS,CEN0588,Banco de tiempo de Altea,Altea,Alicante,ES,Spain,OLAS
+CICC,CEN0589,Comunidad Intercambio CambiarCambiando,Comarca de Las Vegas (Madrid Sur),Madrid,ES,Spain,Vega
+TIMA,CEN0591,Tidsmaskinens bytesring av varor och tjänster,Stockholm,Stockholm,SE,Sweden,Timpeng
+AGFA,CEN0592,Red de Favores,Madrid,Madrid,ES,Spain,AGOR
+IBCO,CEN0594,Ibiza Coop ECO,Ibiza,Baleares,ES,Spain,Eco
+BDCV,CEN0595,Banco del Tiempo de Collado Villalba,Collado Villalba,Madrid,ES,Spain,Hora
+SELX,CEN0597,Selvam Exchange,Arakkonam,Tamil Nadu,IN,India,SX
+CRED,CEN0598,Exchange Unit CRED-IT,Uglas,,FR,France,CRED-IT
+BTEA,CEN0599,BdT Escorial Abierto,El Escorial,Madrid,ES,Spain,Earo
+AFMC,CEN0600,Asociación para el fomento de la moneda complementaria de Jimena de la Frontera,Jimena de la Frontera,Cádiz,ES,Spain,Ximeno
+VILA,CEN0601,Firavila Ontinyent,Ontinyent,Valencia,ES,Spain,Vila
+BDTO,CEN0603,Banc de Temps Olesa,Olesa de Montserrat,Barcelona,ES,Spain,Moreneta
+MDST,CEN0604,MundeStock,Murcia,Murcia,ES,Spain,Mubi
+ERMP,CEN0605,Ecored Mijares Palancia,Segorbe,Castellón,ES,Spain,Eco
+ERAX,CEN0607,Ecoxarxa Ribera Alta del Xuquer,Alberic,València,ES,Spain,Murte
+ABCD,CEN0608,Cybern Technologies,Chia,Colombia,CO,Colombia ,Talenco
+XALS,CEN0609,Xarxa Agroecològica La Sembra,Oliva,Valencia,ES,Spain,Eco
+MAHP,CEN0610,Malax Happy People,Malax,Österbotten,FI,Finland,Kotte
+ALBH,CEN0611,Alboraia L'Horta Nord,Alboraia,València,ES,Spain,Eco
+QBYS,CEN0613,Norte Del Valle y Eje Cafetero,Zarzal,Valle Del Cauca,CO,Colombia ,Quimbaya
+MOIB,CEN0614,Mercat online d'intercanvi de Bonastre,Bonastre,Tarragona,ES,Spain,Canvis Natural
+WFLO,CEN0615,WuFlow,Taos,New mexico,US,United States,WuFlow
+REDZ,CEN0616,NZ Red Hat Exchange,Thames,New Zealand,NZ,New Zealand,REDZ
+LVAR,CEN0617,LETS Vlaamse Ardennen,Ronse,Oost-Vlaanderen,BE,Belgium,Kassei
+LZMK,CEN0618,Menjalni krog,Zagorje ob Savi,Zasavje,SI,Slovenia,Kuolm
+HERB,CEN0619,Herbal Coaching Community Exchange,Ponca,Arkansas,US,United States,Sepal
+ASSO,CEN0620,Asociación Sociocultural Sámara,Sierra Oeste,Madrid,ES,Spain,Fresno
+ALIS,CEN0622,Collado Mediano,Collado mediano,España,ES,Spain,Mora
+NLCT,CEN0623,FTcredits New London,New London,Connecticut,US,United States,r$
+OZCE,CEN0624,Ozarks Community Exchange,Mountian Grove,Missouri,US,United States,Community Dollar
+CPHE,CEN0625,Copenhagen Community Exchange,Copenhagen,Sjælland,DK,Denmark,Spir
+DELE,CEN0626,Desert Empire Local Exchange Trading System,Joshua Tree,CA,US,United States,LETS
+KORO,CEN0627,Koro Island Community,Koro Island,-- All Provinces --,FJ,Fiji,Viti
+JMSA,CEN0628,Jämsä-Kuhmoinen,Jämsä,Länsi-Suomi,FI,Finland,Hour
+CCCC,CEN0630,Klientský portál CPA,Ústí nad Labem,,CZ,Czech Republic,CPA kredit
+SSTE,CEN0631,South Shore Time Exchange,South Lake Tahoe,CA,US,United States,Tahoe Hour
+PSLO,CEN0632,Pásalo-Puçol. Herramienta de pago social.,Puçol,Valencia,ES,Spain,Eco-Puçol
+HAAP,CEN0633,Hämeen Aikapankki,"Hämeenlinna, Hattula, Janakkala",,FI,Finland,Tovi
+ERAN,CEN0635,Sud Tarn Community Exchange,Castres,Tarn,FR,France,Autan
+BTCC,CEN0636,Banco de tiempo y cosas de Caspe,Caspe,Zaragoza,ES,Spain,talego
+UCAT,CEN0637,Unió d'Intercanvis de Catalunya,Cambrils,Catalunya,ES,Spain,Calçot
+SMSL,CEN0638,Sistema de Moneda Social de Lemos,Monforte de Lemos,Lugo,ES,Spain,Lemos
+SPFD,CEN0639,Springfield Community Exchange,Springfield,Missouri,US,United States,Plurant
+SMDE,CEN0640,Smoky Mountain Digital Exchange,Eastern Tennessee,Tennessee,US,United States,Mountain Credit
+COMS,CEN0641,Instituto Comenius,Monterrey,Nuevo Leon,MX,Mexico,Tolar
+BCLX,CEN0642,Baldwin/Lawrence Community Exchange,Lawrence,Kansas,US,United States,Talent
+BTEQ,CEN0644,Banco de Tempo Equilibrium,Brasil,Brasil,BR,Brazil,Créditos Hora
+SASE,CEN0645,Service d'échange locaux,Charleroi,Hainaut,BE,Belgium,SASpoint
+BMTT,CEN0647,Banco Mairinquense de Tempo e Trocas,Conselheiro Mairinck,Paraná,BR,Brazil,Trocado
+CHAP,CEN0648,Banco de Tempo da Chapada Diamantina,Lençóis,Bahia,BR,Brazil,Lua
+SVEX,CEN0649,Sierra de las Villas Exchange,Sierra de las Villas,Jaén,ES,Spain,EcoSierra
+BCHV,CEN0650,Hospital del Vendrell,Vendrell,Spain,ES,Spain,Hore
+WKTE,CEN0651,Kuumaana Trade Exchange,Windhoek,Namibia,NA,Namibia,Penny
+BHCE,CEN0652,Banco de Horas do Cerrado,Alto Paraíso de Goiás,Goiás,BR,Brazil,Indaiá
+CIGS,CEN0653,Ecored alberche tietar,Alberche / Tietar,Comarca tietar-alberche,ES,Spain,Vettona
+COBI,CEN0654,Comarca Bañezana Intercambia,La Bañeza,Leon,ES,Spain,BANTI
+MTBT,CEN0655,Monchique Troca e Banco do Tempo,Monchique,Algarve,PT,Portugal,Talento
+SRIV,CEN0657,Intercambio Social,Lima y a Nivel Nacional,Lima,PE,Peru,Sol Social
+CPCR,CEN0658,Colectivo Punto Critico,Coquimbo,REGIÓN DE COQUIMBO,CL,Chile,ECOQ
+KBYE,CEN0659,Kimberley Community Exchange,Kimberley,Northern Cape,ZA,South Africa,Diamond
+GCTB,CEN0660,Gold Coast Trading Bank,Los Pargos,Guanacaste,CR,Costa Rica,Beneficio
+SIND,CEN0661,Sindinerogranada,Granada,Granada,ES,Spain,Dirham
+MVAZ,CEN0662,Banco Casa dos 7,Lisboa,Lisboa,PT,Portugal,EUR
+DLLO,CEN0663,Grupo de intercambio de la Sierra,Sierra de Aracena,Huelva,ES,Spain,Durillo
+BDTT,CEN0664,Banc de temps del Tarragonès,Catalunya,Tarragona,ES,Spain,Hour
+EXPB,CEN0669,EcoXarxa de la Plana Baixa,Plana Baixa,Castellón,ES,Spain,Eco
+TROK,CEN0670,TROKAKI loja de trocas de Carnide,Carnide,Lisboa,PT,Portugal,Crédito
+UNCE,CEN0672,Unite Nelson Community Exchange,Nelson,British Columbia,CA,Canada,Unite Nelson
+UNEB,CEN0673,Unite El Bolson,El Bolson,Rio Negro,AR,Argentina,Unite El Bolson
+MIAL,CEN0676,Mercadillo de Intercambio Ambulante Libertario,Valencia,Valencia,ES,Spain,Eco
+ECSA,CEN0677,EcoRED Salamanca,Salamanca,Salamanca,ES,Spain,eco
+DCTE,CEN0681,Dolphin Coast Talent Exchange,Ballito,Kwa-Zulu Natal,ZA,South Africa,Talent
+RIER,CEN0682,Red de intercambio el Roble,,Cantabria,ES,Spain,Roble
+CISC,CEN0683,Comunidad de intercambio Santa Cruz,Santa Cruz de la Sierra,Andres Ibañez,BO,Bolivia ,Cruceño
+ALGO,CEN0684,Comunidade de trocas de Algoz,Algoz,Algarve,PT,Portugal,Escudo de Algoz
+GIAL,CEN0685,Grupo de Intercambio Ambulante Libertario,Valencia,Valencia,ES,Spain,Eco
+KRBG,CEN0687,Krakowski Bank Godzin,Kraków,Polska,PL,Poland,Hour
+CERC,CEN0688,Associació Cerc@,Tarragona,Catalunya,ES,Spain,Tarraco
+NCEC,CEN0689,Nurture | Peaceful Parents Exchange Circle,Johannesburg / Cape Town,Gauteng / Western Cape,ZA,South Africa,Value
+ECXT,CEN0690,Ecoxarxa Tàrrega,Terres de Ponent,Catalunya,ES,Spain,Eco
+FLTB,CEN0691,Friland Timebank,Friland,Djursland,DK,Denmark,FTB
+VALD,CEN0693,Banco del Tiempo Vistas a la Dehesa,Collado Villalba,Madrid,ES,Spain,Tempo
+CIGB,CEN0694,Comunidad de Intercambio de Guadalajara La Bellota,Guadalajara,Guadalajara,ES,Spain,Bellota
+OERU,CEN0696,Primorskyi Kray Russia,Vladivostok,Russia/Primorskyi krai/,RU,Russia,&#1077;&#1076;&#1080;&#1085;&#1080;&#1094;&#1099; &#1086;&#1073;&#1084;&#1077;&#1085;&#1072;
+EXVC,CEN0699,Ecoxarxa Valira Cadi,La Seu d'Urgell,Lleida,ES,Spain,Eco Cadi
+MSCE,CEN0700,Malaysian Community Exchange,Kuala Lumpur,Selangor,MY,Malaysia,Ringgit Malaysia
+ALTB,CEN0701,Alamogordo TimeBank,Alamogordo,NM,US,United States,Time Credit
+SLVF,CEN0703,S.E.L du Val de Fontenay,Fonteny-sous-Bois,Ile de France,FR,France,Plume
+DUBN,CEN0705,North County Dublin Community Exchange,North Dublin,Dublin,IE,Ireland,Credit
+MSSB,CEN0706,Moneda Social Sanluqueña,Sanlúcar de Barrameda,Cádiz,ES,Spain,-
+DARE,CEN0707,Dar,Canet de Mar,Barcelona,ES,Spain,Dar
+ECCS,CEN0709,Ecoxarxa de Castelló,Castellón,Castellon,ES,Spain,ECO
+CSIE,CEN0710,Cooperativa de Serveis Integrals Bellesa-Salut-Consciencia Espai SER,La Seu D'Urgell,Lleida,ES,Spain,KA
+CMTR,CEN0711,Compartir (BdT),Canet de Mar (Barcelona),,ES,Spain,Dar
+SAAI,CEN0712,Saarijärven Aikapankki,Saarijärvi,Keski-Suomi,FI,Finland,Tovi
+LSTB,CEN0713,Lakeshore TimeBank,St. Clair Shores,Michigan,US,United States,Hour
+DUSE,CEN0714,Duesseldorf CES,Duesseldorf,Nrw,DE,Germany,Stunde
+RIPA,CEN0716,Ecoxarxa Ripollès,Ripoll,Girona,ES,Spain,Trok
+AACV,CEN0717,Asociación de afectados por la crisis. Trueque y Trato,,,ES,Spain,Ortega
+BDTA,CEN0719,Banco de tiempo de Alicante [15M],Alicante,Alicante,ES,Spain,Tésera
+MEAN,CEN0720,Maine Coastal Means of Exchange,Coastal Maine,Maine,US,United States,Means of Exchange
+NRWF,CEN0722,North Rand Welfare Forum Exchange,Tshwane,Gauteng,ZA,South Africa,Jakaranda
+TEMA,CEN0731,Temptation,Volos,Magnisia,GR,Greece ,Temptation
+VAAL,CEN0733,Midvaal Community Exchange,Midvaal,Midvaal,ZA,South Africa,Value
+ROUE,CEN0734,Système d'Echange pour Vitaliser l'Economie,Le Beaucet,Vaucluse,FR,France,Roue
+PACA,CEN0735,Le Beausel,Carpentras,Vaucluse,FR,France,Grain
+MOTA,CEN0738,Asociación Cultural Serendipia - Castilla-La Mancha,Mota del Cuervo,Cuenca,ES,Spain,Quijote
+GAMV,CEN0740,Gamma-V,Volos,,GR,Greece ,Gee
+HFXE,CEN0742,Halifax Community Exchange,Halifax,NS,CA,Canada,Hour
+VOLT,CEN0743,VolosTest3,Volos,Greece,GR,Greece ,VolTest
+TEST,CEN0746,Test Community Exchange,Cape Town,Western Cape,ZA,South Africa,Talent
+PCAF,CEN0747,People Credit and Finance,Miami,FL,US,United States,Liberty
+PBCZ,CEN0748,Pozna&#324;ski Bank Czasu,Pozna&#324;,Polska,PL,Poland,Godzina
+PFTI,CEN0749,Polokwane Fair Trade Initiative,Polokwane,Limpopo,ZA,South Africa,Clean Green
+ROGE,CEN0750,Rock of Gibraltar Exchange,Gibraltar,Gibraltar,GI,Gibraltar ,Rock
+FNUA,CEN0751,Fis Nua,Ireland,Ireland,IE,Ireland,Nua
+ARCX,CEN0752,Architects Association Exchange,Johannesburg,Gauteng,ZA,South Africa,Arco
+WVME,CEN0757,The Mountaineer Exchange,Weston,West Virginia,US,United States,Stonewall Note
+TOCO,CEN0758,Tourcoin,Rio de Janeiro,Rio de Janeiro,BR,Brazil,Tourcoin
+MUMB,CEN0759,Mumbai Community Exchange,Mumbai,Maharashtra,IN,India,Gratiis
+KMUX,CEN0762,Kalpavrisha Mudra Exchange,Pune,Maharashtra,IN,India,Mudra
+GOOY,CEN0764,Gooybank Exchange System,Gambella,Ethiopia,ET,Ethiopia,Gooy
+ZSTR,CEN0765,Zeister handel,Zeist,Utrecht,NL,Netherlands,Zeister
+AMAM,CEN0767,AMA Mercado de Trueques,Alicante,Alicante,ES,Spain,Talento
+DENG,CEN0768,Gooy Bank,Guelph,ON,CA,Canada,Gooy
+CGDL,CEN0771,La Comunidad libre de Guadalajara,Guadalajara,Jalisco,MX,Mexico,Tlapatio
+KTMS,CEN0773,K2 Time Bank Siena Italy,Siena,Siena,IT,Italy,Ora
+MJOP,CEN0775,Mercado Joyas,Concepcion,Concepcion,CL,Chile,Pso
+CHAB,CEN0779,Chábir,Alcalá de Guadaíra,Sevilla,ES,Spain,Chábir
+EKOO,CEN0780,Ekotakas,Canakkale,Tr,TR,Turkey,Eko
+IDIC,CEN0781,Aevum Cordis,Icod de los Vinos,Tenerife,ES,Spain,Talento
+ACES,CEN0783,ACES Cooperativa,Valencia,Valencia,ES,Spain,Eco
+SELA,CEN0784,"SEL des artistes, reveurs, navigateurs et voyageurs du bout du monde",Rochefort,Charente maritime,FR,France,Pibale
+KRTB,CEN0785,Kearsarge Region Time Bank,New London,New Hampshire,US,United States,Time Hour
+CAEN,CEN0786,Central Arkansas Exchange Network,Conway,Arkansas,US,United States,ARCredit
+SBCE,CEN0787,&#1057;&#1090;&#1072;&#1085;&#1110;&#1089;&#1083;&#1072;&#1074;&#1089;&#1100;&#1082;&#1080;&#1081; &#1041;&#1072;&#1085;&#1082; &#1063;&#1072;&#1089;&#1091;,&#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;,&#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;,UA,Ukraine,&#1060;&#1088;&#1072;&#1085;&#1082;
+SICO,CEN0788,Sistema de Intercambios Comunitarios,Córdoba,Córdoba,ES,Spain,Hora
+PORI,CEN0790,Porin/Ulvilan aikapankki,Pori/Ulvila,Satakunta,FI,Finland,Tovi
+IFBT,CEN0791,Indianapolis Family (and Friends) Barter and Trade,Indianapolis,Indiana,US,United States,talent
+CIVA,CEN0792,Cooperativa Integral Valladolid,Valladolid,Valladolid,ES,Spain,Pucelin
+YSCB,CEN0793,Yscambau,Belo Horizonte,Minas Gerais,BR,Brazil,Ymaginário
+SALE,CEN0795,El Salero del Puerto: Red de Intercambio Social,El Puerto de Santa María,Cádiz,ES,Spain,Salero
+SEMO,CEN0796,Σικυώνιος Ανταλλακτική Κοινότητα,,Κόρινθος,GR,Greece ,Σ.Ε.Μ.
+BRLT,CEN0798,Bracknell LETS,Bracknell,Berkshire,UK,United Kingdom,Brick
+BPTT,CEN0799,Banco Paranaense de tempo e trocas,Conselheiro Mairinck,Paraná,BR,Brazil,Trocado
+OLVA,CEN0800,Red de Moneda Social Oliva,Sevilla,España,ES,Spain,Oliva
+COLT,CEN0801,Colectivo tierra,La rioja,Logroño,ES,Spain,Kurry
+FBTB,CEN0803,Film Bank,Los angeles,Ca,US,United States,Hour
+REBA,CEN0804,Red de Intercambio de Badajoz,Badajoz,Badajoz,ES,Spain,Guadiana
+CCDT,CEN0805,Huerta Urbana,Toledo,Toledo,ES,Spain,Greco
+MONT,CEN0807,Montequinto15M,Montequinto,Sevilla,ES,Spain,Quinto
+PMAP,CEN0808,Pieksämäen aikapankki,Pieksämäki,Etelä-Savo,FI,Finland,Tovi
+TRDG,CEN0809,Trocas de Graça,Graça e arredores,Lisboa,PT,Portugal,Minuto
+CCTE,CEN0810,Corpus Christi Exchange,Corpus Christi,Texas,US,United States,Gulf Dollar
+CAND,CEN0811,CooperACTYVA,Extremadura,Extremadura,ES,Spain,Candil
+BKYE,CEN0812,Boyd County KY Community Exchange,Boyd County,Kentucky,US,United States,Community Coupon
+UNIT,CEN0815,UNet Information Trading Accounting System,Los Angeles,California,US,United States,UNITAS
+KRED,CEN0817,Kredits,Albany,Auckland,NZ,New Zealand,Kredit
+VLCT,CEN0818,Erasmus and Tourists in Spain,All Spain,Comunidad Valenciana,ES,Spain,Eco
+ROAL,CEN0820,Rosario sin dinero,Rosario,Santa Fe,AR,Argentina,Algarrobo
+ITTL,CEN0821,International Technology Trading Liberia Inc.,Monrovia,Montserrado County,LR,Liberia,Repade Dollar
+FXQM,CEN0824,Fluxo Quintal Móbile,Vau cyberterra,,BR,Brazil,P<<*>>q
+VSCF,CEN0825,First Louisiana Community Exchange Network ,Baton Rouge,LA,US,United States,Exocentric
+CTIA,CEN0827,Proyecto Can Tia,Santa Eulalia del Rio,"Ibiza, Baleares",ES,Spain,Eco
+EXSV,CEN0829,Ecoxarxa La Safor - Valldigna,La Safor - Valldigna,Valencia,ES,Spain,Eco
+CURA,CEN0830,Curaçao Community Exchange,Willemstad,Curaçao,CW,Curaçao,Hour
+ECUC,CEN0831,ECU Complementary Private Currency,Madrid,Madrid,ES,Spain,ECU
+TDFE,CEN0832,The Dirty Farmer Exchange,Clinton,Arkansas,US,United States,Bud
+CSFB,CEN0833,Cape St Francis/St Francis Bay Community Exchange,Cape St Francis/St Francis Bay,Eastern Cape,ZA,South Africa,Talent
+KCEC,CEN0834,Community Exchange for Cooperatives,Seoul,Korea,KR,Korea (South),Coop
+PICE,CEN0835,PEORIA IL EXCHANGE,PEORIA,ILLINOIS,US,United States,GREEN DOLLAR
+FDCE,CEN0836,3coin Exchange NL,Netherlands,Netherlands,NL,Netherlands,3coin
+ECRC,CEN0837,Moneda alternativa,Rota,Cádiz,ES,Spain,Camaleones
+FCCE,CEN0838,Frederick Community College Exchange,Frederick,Maryland,US,United States,Social Hour
+THAD,CEN0839,Red 3 Sierras,"Sierras Alcaraz, Segura y del Segura",Jaen Albacete,ES,Spain,Thader
+EPTI,CEN0840,El Pahtio Indignado,L'Hospitalet,Barcelona,ES,Spain,Eco
+EMEN,CEN0841,Ecoxarxa de Menorca,Menorca,Illes Balears,ES,Spain,Talaiot
+OJOS,CEN0849,Banco de Intercambio Ojos de Guadiana,Villarrubia de los Ojos,Ciudad Real,ES,Spain,Ojos
+TLSE,CEN0859,Coopérative Intégrale Toulousaine,Toulouse,Haute-Garonne,FR,France,Ecotoulouse
+LEXC,CEN0861,Lichtenburg Community Exchange,Lichtenburg,North West,ZA,South Africa,Talent
+CBTT,CEN0862,The Community Builder Time Trade,"Canyon County, idaho",Idaho,US,United States,Time Trade Dollar
+FPMJ,CEN0865,Les Fondus du Petit Marais,Jemappes,Hainaut,BE,Belgium,Fondant
+SCCC,CEN0866,Stillbay/Riversdale Community Exchange,Stillbay,Western Cape,ZA,South Africa,Talent
+SNGL,CEN0867,Manticore,Las Palmas de Gran Canaria,España,ES,Spain,Mantícora
+LOMA,CEN0868,Comunidad de Intercambio de Jaen La Loma,Baeza,Jaen,ES,Spain,Loma
+FSMB,CEN0869,La Borrassa FSM,Montserratí,Catalunya,ES,Spain,Hore
+SATE,CEN0870,Moneda social de Santa Brígida,Santa Brígida,,ES,Spain,Sataute
+BDTB,CEN0871,Banco del Tiempo de Béjar,Béjar,Salamanca,ES,Spain,Hora
+EBBT,CEN0873,Economía del Bienestar. Banco del Tiempo Montevideo,Montevideo,Montevideo,UY,Uruguay,Minuto
+BDAC,CEN0874,Blue Dollar Argentino,Argentina,Argentina,AR,Argentina,Blue Dollar Argentino
+MRVD,CEN0875,Nadanta Moneda Interna,Valladolid,Valladolid,ES,Spain,Maravedi
+FFOH,CEN0876,Fern Forest Ohana,Fern Forest,Hawaii,US,United States,Coin
+DGCE,CEN0877,Daegu Community Exchange,Daegu,Gyeongsangbuk Do,KR,Korea (South),Klam
+EXMA,CEN0878,EcoXarxa Marina Alta,Dènia,Alacant,ES,Spain,Eco
+GCTA,CEN0879,Gran Canaria En Transición,Las Palmas,Las Palmas de Gran Canaria,ES,Spain,Demo
+PNGC,CEN0880,Pangjia Digital Currency,Portland,Oregon,US,United States,Pangjia Currency
+TTFR,CEN0881,"Talent-Tauschring e. V., Freiburg",Freiburg,Baden-Württemberg,DE,Germany,Talent
+ALKE,CEN0883,Moneda Social Atlántica,Las Palmas de Gran Canaria,Las Palmas,ES,Spain,Atlantica
+GPAY,CEN0884,Geopay.me Community Exchange,Sitia,"N. Lasithiou, Crete",GR,Greece ,eDrachmae
+BDTX,CEN0885,Banco del Tiempo Xabia y Moneda Social,Javea,Alicante,ES,Spain,Eco
+BOLO,CEN0886,Comunidad de Intercambio de Toledo El Bolo,Toledo,Toledo,ES,Spain,Bolo
+CTNE,CEN0887,Catan Community Exchange,Normanton,West Yorkshire,UK,United Kingdom,Cataneone
+FBIO,CEN0888,Organic Food/Service Co-op,Frankenmuth,"Frankenmuth, MI",US,United States,Tidbit
+LAND,CEN0889,"Aldea Integral, S. Cooperativa Galega",Vigo,Pontevedra,ES,Spain,Landra
+MEMO,CEN0890,MEMO-Exchange Budapest,Budapest,Budapest,HU,Hungary ,Time
+AMBR,CEN0891,Ambrona la Bella,Ambrona (Miño de Medinaceli),Spain/Soria,ES,Spain,Ambruno
+WFXG,CEN0892,White Fire Exchange,Boulder,Colorado,US,United States,Ruby
+LALL,CEN0893,Lappeenrannan Aikapankki,Lappeenranta,Etelï¿½-Karjala,FI,Finland,Tovi
+BTAR,CEN0894,Banca del Tempo di Arezzo,Arezzo,AR,IT,Italy,Ora
+MSSC,CEN0895,Mikeyville Self Sustainable Community,Benoni,Gauteng,ZA,South Africa,Leaf
+RTCL,CEN0896,Rede Trocacomum Lagos,Lagos,Algarve,PT,Portugal,ECO
+VLCC,CEN0897,EcoXarxa València Centre,Valencia,Spain,ES,Spain,Eco
+JYTY,CEN0898,Jyrkkälän Aikapankki,,,FI,Finland,Tovi
+RBTD,CEN0900,Red de Bancos de Tiempo de la República Dominicana,,República Dominicana,DO,Dominican Republic,Hour
+CCEX,CEN0901,Cedar-County Community Exchange,El Dorado Springs,MO,US,United States,Credit
+COBA,CEN0902,Ecoxarxa de la Conca de Barberà,,Conca de Barberà,ES,Spain,Tros
+SSPT,CEN0903,Solidaridad Para Todos,Stockholm,Stockholm,SE,Sweden,Corona
+JERO,CEN0905,Moneda Social Jer&#243;nimos,Sevilla,Sevilla,ES,Spain,Jer&#243;nimo
+MUCE,CEN0907,Mauritius Community Exchange,Mauritius,Mauritius,MU,Mauritius,Zupi
+MYYR,CEN0910,Myyrmäen Aikapankki,,Uusimaa,FI,Finland,Myyr-Tovi
+NSTB,CEN0911,Nova Scotia LETS Timebank,Dartmouth,Nova Scotia,CA,Canada,One Hour Bill
+GDWE,CEN0912,Bank Czasu Wisz&#261;ce Ogrody,Gda&#324;sk,,PL,Poland,Godzina
+NTCE,CEN0913,Sel Nice Azur Provence,Nice,Provence Alpes Côte d'Azur,FR,France,€
+ARTE,CEN0914,Arterra Bizimodu,Artieda,Navarra,ES,Spain,Terron
+GBEK,CEN0915,Gaborone Barter Exchange,Gaborone,Botswana,BW,Botswana ,Pula
+RYZE,CEN0916,The Ryze Community Exchange,London,London,UK,United Kingdom,Talent
+NUNB,CEN0917,Napoli Unione Natura Baratto,Afragola,Napoli,IT,Italy,Eco
+ASET,CEN0918,Banco de Tiempo de ASETRAD,None,None,ES,Spain,Hora
+KWKA,CEN0919,Kaiwaka Green Dollars,Kaiwaka,Northland,NZ,New Zealand,Green Dollar
+FEFP,CEN0921,Faith Exchange,Lodi,Ca,US,United States,Faith Points
+SPTB,CEN0922,Springfield Timebank,Springfield/Nixa/Ozark,Missouri,US,United States,Hour
+LPCE,CEN0923,Lahore Community Exchange,Lahore,Punjab,PK,Pakistan,Point
+SWAN,CEN0924,Swansea Within A Network,Swansea,Wales,UK,United Kingdom,Jack
+RISS,CEN0925,Red de Intercambio Solidario Saja,Cantabria Occidental,Cantabria,ES,Spain,Saja
+BTDA,CEN0926,Bosc de temps d'Ardericó,Berguedà,Barcelona,ES,Spain,Muray
+SWPC,CEN0927,SouthWest Peloponnese Community Exchange,Κρέστενα - Krestena,Ilias,GR,Greece ,Bit Community Currency Unit
+CIME,CEN0928,Comunidad de Intercambio Mediterraneo,Segorbe,Castellón,ES,Spain,Eco
+BCEX,CEN0929,Bath Community Exchange,Bath,Somerset,UK,United Kingdom,Community Credit
+THAI,CEN0930,Chiang Mai Community Exchange,Chiang Mai,Chiang Mai,TH,Thailand,CNX
+TRAP,CEN0931,Trapi EcoSocial,Ribagorza Oriental,Huesca,ES,Spain,Trapi
+TERE,CEN0932,Ecos,Castellon de la Plana,Castellon de la Planas,ES,Spain,Ecos
+CGTS,CEN0933,Cegep de Granby Time Share,Granby,Quebec,CA,Canada,Granbank
+MSSP,CEN0934,Moneda Social De Paterna,Paterna,Valencia,ES,Spain,Soles
+NVPL,CEN0937,Navapalos Comunidad de Intercambio,Navapalos,Soria,ES,Spain,Navapalito
+TECA,CEN0940,Time Exchange Yaounde Cameroon,Yaounde,Cameroon,CM,Cameroon,Hour
+COSP,CEN0941,Colorado Springs Community Exchange,Colorado Springs,Colorado,US,United States,Value
+VCES,CEN0942,Victoria Common Exchange System,Greater Victoria,BC,CA,Canada,Tokens
+CISA,CEN0943,Comunidad de Intercambio Sampo,,Santo Domingo,DO,Dominican Republic,Sampet
+APPL,CEN0946,Appleseed Recycling Trust,West Auckland,North Island,NZ,New Zealand,Hour
+TSVM,CEN0947,Tisnovska Sousedska Vypomoc,Tisnov,,CZ,Czech Republic,Minuta
+GPEX,CEN0948,General Post Exchange,Center Hill Township,Washington State,US,United States,Coubitt
+NHEB,CEN0949,New Heliopian Exchange,Miami,Florida,US,United States,New Heliopian Credit
+MATB,CEN0952,MaconAgora,Macon,Georgia,US,United States,Talent
+RIES,CEN0953,Red Intercambio Economico Sefarad,Baltimore,Maryland,US,United States,Maravedi
+DADO,CEN0954,Zagreb Community Exchange,,Dalnatinska,HR,Croatia,Papiric
+HCRE,CEN0955,Happy Camp Republic Exchange,,State of Jefferson,US,United States,Republic Tender
+PINO,CEN0956,Moneda social de Soria,Soria,Soria,ES,Spain,Piñon
+HTCE,CEN0957,Huntly Tuhookainuku Community Exchange,,,NZ,New Zealand,Pinga
+POPS,CEN0959,Pend Oreille Pledge System,Priest River,Idaho,US,United States,Pledge
+HIVE,CEN0960,The Hive,"Garberville, Redway",California,US,United States,Bee Buck
+BIOR,CEN0961,Bionatus,Terrassa,Barcelona,ES,Spain,Bioeco
+LFEK,CEN0962,Comunidad Kalanchoes,Pulpi - Almería.,,ES,Spain,Kalanchoe
+PIME,CEN0963,Scr Opa Andalucia,Sevilla,,ES,Spain,Pime
+TRCE,CEN0965,North West Community Exchange,Lichtenburg,North West,ZA,South Africa,Talent
+EDUT,CEN0967,Comunitat d'intercanvi Edutictac,,,ES,Spain,Tictac
+SCRE,CEN0968,Xarxa d'Intercanvi El Sacre,Elx,,ES,Spain,Dàtil
+BION,CEN0969,Ecoxarxa Bionatus Valles Occidental,Terrassa - Barcelona,,ES,Spain,Eco Bionatus
+ECOT,CEN0971,Ecotracte.org,Vic,Barcelona,ES,Spain,EcoPunt
+EXMB,CEN0973,EcoXarxa Marina Baixa,MARINA BAIXA,,ES,Spain,Eco
+MATT,CEN0974,M Beazley Inc,,,NZ,New Zealand,Maddy
+CETB,CEN0975,CET Time Bank,Buenos Aires,,AR,Argentina,SHour
+BELA,CEN0976,Banco Ético Libertaria de Argentina,Buenos Aires,CABA,AR,Argentina,Alegría
+ATEN,CEN0977,ARCOTEN Trade Exchange Network,,,JO,Jordan,TEN
+RAMS,CEN0978,Ramificats,Petrer,Alicante,ES,Spain,Rama
+PHXT,CEN0979,"Central & South Phoenix, Tempe",Phoenix,Arizona,US,United States,Point
+CISI,CEN0980,Circulo7,Mexico,,MX,Mexico,Circulo
+NEKZ,CEN0981,Nekopenmarket,,Vermont,US,United States,Zed
+MGMD,CEN0983,Macon Georgia Macon Credit,Macon,Georgia,US,United States,Macon Credit
+GIFT,CEN0984,Vanuatu Oanao Gift Pay,,,VU,Vanuatu,Virtue
+CCCE,CEN0985,Castle Coin Community Exchange,Edinburgh,Scotland,UK,United Kingdom,Castle Coin
+MRCM,CEN0986,Mercados Comunitarios,Tlalpan,Mexico,MX,Mexico,Crie
+ALCR,CEN0987,Red de Moneda Social El Alcor,El Viso del Alcor,Sevilla,ES,Spain,Alcor
+PRPO,CEN0988,Proudly Porterville,Porterville,,ZA,South Africa,Talent
+PSPL,CEN0989,Placeres sociales de Plasencia,Plasencia,,ES,Spain,Placer
+SAGE,CEN0990,Sacred Artisan's Gift Exchange,Richland,Missouri,US,United States,Talent
+SEBC,CEN0991,Schimb de Servicii Bacau,Bacau,,RO,Romania,Euroi
+EXVA,CEN0992,Ecoxarxa d'Intercanvis Vall d'Albaida,Ontinyent,Valencia,ES,Spain,Eco
+LIRI,CEN0993,LIBERI,Roma,,IT,Italy,LIBERI
+MERT,CEN0994,Merton Exchange Rural Trading Scheme,Merton,North Devon,UK,United Kingdom,MERT
+EMIE,CEN0995,Eco Mercado Ibiza Eivissa,Ibiza,Baleares,ES,Spain,ECO
+DRCE,CEN0997,Durham Region Community Exchange,Ajax,,CA,Canada,Eco
+OACX,CEN1002,One Art Community Exchange,Drexel Hill,PA,US,United States,Talent
+MLET,CEN1003,North Devon LETs,Bideford,Devon,UK,United Kingdom,MERT
+TOTO,CEN1005,Eco-nomy,Jerusalem,,IL,Israel ,Tomer
+SMAP,CEN1006,Moniäänisten aikapankki,Helsinki,,FI,Finland,Tovi
+MEJX,CEN1007,Mujeres Emprendedoras De Javea,Javea,Alicante,ES,Spain,Ecos
+AAAA,CEN1008,Intercambio Consciente para la Abundancia,Valencia,,ES,Spain,Liber
+RTSG,CEN1009,Red de Trueque Solidario de Guatemala,Quetzaltenango,,GT,Guatemala ,Nuevo
+TOVI,CEN1010,Maaret R,Helsinki,,FI,Finland,Tovi
+ACAX,CEN1013,Εναλλακτική Αποκορώνoυ / Alternative Apokoronas,Χανιά,Crete,GR,Greece ,Μονάδα
+AQUI,CEN1014,Laluzaquí,Querétaro,,MX,Mexico,Aquí
+GDEX,CEN1015,Geopay.me Community Exchange (USA),Clearwater,Florida,US,United States,eDrachmae
+BTIN,CEN1016,BTCoin Moneda Tecnológica Participativa,Murcia,Murcia,ES,Spain,BTcoin
+RCOQ,CEN1017,Red Intercambio Coquimbo,Coquimbo,Elqui,CL,Chile,Elqui
+EMIN,CEN1018,Eco Market International Nepal,Kathmandu,Nepal,NP,Nepal,ECO
+LTMC,CEN1020,la TRIBU me CUIDA,Santa eulalia del río,IBIZA,ES,Spain,Hora
+RSEE,CEN1021,Red solidaria de moneda social El Esquimo.,Arahal,SEVILLA,ES,Spain,Esquimo
+SOLC,CEN1022,Canarias Unida por el Autosostenimiento,Las Palmas,Las Palmas de Gran Canaria,ES,Spain,Sol Canario
+YOUR,CEN1023,YOurs,Kings Lynn,Norfolk,UK,United Kingdom,Hour
+HYVE,CEN1024,ARETE Networks,Espoo,,FI,Finland,Solidar
+TVCO,CEN1025,Tableview Urban farming Co-op,Parklands,,ZA,South Africa,Talent
+ICGT,CEN1026,The Integral Center Gift & Trade Circle,Lafayette,Colorado,US,United States,Hour
+MOGO,CEN1028,Man Of God Community Exchange,Athens,,GR,Greece ,ARC
+EKKP,CEN1029,Εναλλακτική Κρήτη /Alternative Crete,Κρήτη,Crete,GR,Greece ,Μονάδα
+HNOR,CEN1030,Honor,Malaga,,ES,Spain,Honor
+BENA,CEN1033,Bionatus Ecologisch Netwerk Achterhoek,,,NL,Netherlands,Eco
+PGNL,CEN1034,Παγανέλι,Corfu,,GR,Greece ,Παγανέλι
+TCHI,CEN1035,TimeCHI,Greenville,Rhode Island,US,United States,CHI
+EMIC,CEN1036,Eco Mercado Internacional Chile,La Serena,,CL,Chile,ECO
+SECC,CEN1037,SASKATOON Exchange Club Canada,Bonnyville Beach,Alberta,CA,Canada,Ton
+CELC,CEN1039,Community Exchange Limerick,Limerick,Limerick,IE,Ireland,CEL
+OHLE,CEN1041,South Jersey Holistic Exchange,Mantua,South Jersey,US,United States,Hour
+EBIC,CEN1042,EBICOM Cooperativa de Intercambios Equivalentes,San Miguel de Allende,Guanajuato,MX,Mexico,Caudal
+TICH,CEN1043,time-trade,Nidau,Seeland BE,CH,Switzerland,TICH
+BFBN,CEN1044,Bonners Ferry Barter Network,Bonners Ferry,Idaho,US,United States,BFbb
+PETC,CEN1045,Provo Talents Exchange,Providenciales,,TC,Turks and Caicos Islands,TC talent
+CXCI,CEN1046,Camino Xtremo Comunidad Intercambio,Mexico,Distrito Federal,MX,Mexico,Banco talentos
+GIFK,CEN1047,ΧΑΡΙΖΕ - GIFTS,Κρήτη,Crete,GR,Greece ,Δώρον
+MDTT,CEN1048,Mandala Group,Sevilla Compound,,TT,Trinidad & Tobago,Drop of Sap
+PECS,CEN1049,Puerto Escondido Cambio System,Puerto Escondido,Oaxaca,MX,Mexico,Cambio
+VLCA,CEN1051,Vilcabamba Community Trueque,Vilcabamba,Loja,EC,Ecuador,Vilca
+OZHA,CEN1053,Eureka Stress Busters,Eureka Springs,Select a State:Arkansas,US,United States,Sepal/Sepals
+CAMU,CEN1054,Comunità di scambi,Darfo Boario Terme,Bergamo,IT,Italy,EcoV
+SHES,CEN1055,Star Hours Exchange System,Macon,Georgia,US,United States,Star
+MMGC,CEN1056,Moneda Social Tatú,Montevideo,Montevideo,UY,Uruguay,TATÚ
+ECOO,CEN1058,Ecoopera Accion Integradora,Valladolid,Castilla y León,ES,Spain,Hour
+ECET,CEN1061,Edmonds Community Exchange,San Francisco,California,US,United States,Talent
+BIMF,CEN1062,Nuevo servicio recorte de letras adhesivas,Puebla de Alcocer,Badajoz,ES,Spain,Jaramago
+STEX,CEN1063,Stoerhuus Exchange Service,Brugge,,BE,Belgium,STEX
+CSGR,CEN1064,CaminasGreen,Castellón,Castellón,ES,Spain,As
+DTDT,CEN1065,Donostin Trukea,Donostia,Gipzkoa,ES,Spain,Truk
+SUSI,CEN1066,Serviusuaries Internal ECO xarxa,Valencia,Valencia,ES,Spain,Eco
+ENCB,CEN1067,Encinitas Barter & Exchange,Encinitas,California,US,United States,Trade
+ICTE,CEN1068,Iowa City Time Exchange,Iowa City,IA,US,United States,Hour
+KFPL,CEN1069,Kvit og Frit på Langeland,Nordenbro,Langeland,DK,Denmark,Kvit
+AKMA,CEN1070,Auckland Muslim Association,Auckland,Auckland,NZ,New Zealand,Sawab
+GMCE,CEN1071,Groot Marico Community Exchange,Groot Marico,North West Province,ZA,South Africa,Talent
+ININ,CEN1072,Infinite Infinity Light of God Technologies,Rüsselsheim,Hessen,DE,Germany,Infinity
+SIBP,CEN1073,Sistema de Intercambio Bolivar Progresa,Cartagena,Bolivar,CO,Colombia ,Bol
+DVDC,CEN1074,DIENSTENRUIL COMMUNITY,Doetinchem,Gelderland,NL,Netherlands,DVU
+CSCS,CEN1075,ComShap,Tel Aviv,,IL,Israel ,CS
+NLAR,CEN1076,Lokaal Geld Arnhem,Arnhem,Gelderland,NL,Netherlands,Arnhemse Florijn
+NLCX,CEN1077,Northeast London Community Exchange,London,Ontario,CA,Canada,Kipps Coin
+SARR,CEN1078,Comunidad Monetaria de Sarriguren,Sarriguren,Navarra,ES,Spain,Sarri
+VLNA,CEN1079,Волна,Киев,Украина,UA,Ukraine,Бал
+ASSV,CEN1080,Alternativni sporty Slavkov,Slavkov,Moravskoslezsky kraj,CZ,Czech Republic,Talent
+IFCE,CEN1082,I-Fundi Community Exchange,Sandton,Gauteng,ZA,South Africa,Hour
+COCO,CEN1083,Cornwall CONNECT Community Exchange,Cornwall Ontario,Ontario,CA,Canada,Talent
+VERM,CEN1084,Vermaaklikheid community exchange,Vermaaklikheid,Western Cape,ZA,South Africa,Talent
+STUV,CEN1085,New Service Exchange,Ahmedabad,Gujarat,IN,India,Rupee
+CHRC,CEN1086,Χριστιανική Πύλη Ανταλλαγών,Αθήνα,Αττική,GR,Greece ,Μνα
+GEEX,CEN1087,Genève Community Exchange,Meyrin,Genève,CH,Switzerland,ECO
+MCEX,CEN1088,Marco de Canaveses exchange,Marco de Canaveses,Porto,PT,Portugal,Marco
+TPCE,CEN1090,Tinley Park Community Exchange System,Tinley Park,IL,US,United States,Information
+CGCM,CEN1091,Creaciones Generosas Comunes,Nerja,Malaga,ES,Spain,Generos
+ESOB,CEN1092,3r ESO B SOCIALS,Ripoll,Gerona,ES,Spain,Vedruna Coin
+BCBN,CEN1093,Berkshire Community Barter Network,Great Barrington,Berkshire County / MA,US,United States,Eco-Change
+SENI,CEN1094,Ecoxarxa territori Sénia,Territori a banda I banda del riu Sénia,,ES,Spain,Eco
+ZMAJ,CEN1095,Kooperativa ROG,Ljubljana center,Ljubljan,SI,Slovenia,Zmaj
+CFRO,CEN1096,Grano pugliese,Barletta,Barletta-Andria-Trani,IT,Italy,Grano
+ABAD,CEN1097,Moneda Virtual de Sant Joan de les Abadesses,Sant Joan de les Abadesses,Ripollès,ES,Spain,Trok
+NMNI,CEN1098,Noocratic Open Market Exchange ,Karankawa (Houston),Tayas (Texas),US,United States,Nomni
+CDCE,CEN1099,Caledon & Dufferin County Exchange,Orangeville,"Caledon & Dufferin County, Ontario",CA,Canada,Hour
+TCFE,CEN1101,Clonakilty Favour Exchange,Clonakilty,Cork,IE,Ireland,Favour
+CSOM,CEN1102,CSO el Molí,La Font d'en Carròs,Valencia,ES,Spain,Eco
+SCEC,CEN1103,Searcy County Community Exchange,Harriet,Arkansas,US,United States,Riegel
+BOGR,CEN1106,Bognor Regis Community Exchange,Bognor Regis,West Sussex,UK,United Kingdom,Talent
+MVME,CEN1107,Miami Valley Maker Exchange,Dayton,Ohio,US,United States,FabBit
+TPUE,CEN1108,The Peoples University Exchange,Santa Rosa,"Sonoma, California",US,United States,United States Notes
+CSCA,CEN1109,Grupo de intercambio Matria ,Cabana-unquillo,Cordoba,AR,Argentina,Chañar
+TSCU,CEN1110,The Southern Currency Union,Atlanta,GA,US,United States,Sovereigncoin
+PSCC,CEN1111,Persian sharing community,Toronto,Ontario,CA,Canada,Persian dollar
+CARE,CEN1112,Bristol Community Exchange,Bristol,,UK,United Kingdom,Credit
+LWCE,CEN1114,Laguna Woods Community Exchange,Laguna Woods,"Orange County, CA",US,United States,LET
+POWX,CEN1115,Powell River Common Exchange,"Powell River,",British Columbia,CA,Canada,Loons
+KCEX,CEN1116,Kalen Community Exchange,Skopje,Skopje,MK,Macedonia,Hour
+ASAP,CEN1120,Asapcyl,Becerril,Castilla y leon,ES,Spain,Minuto
+DSST,CEN1121,Dublin Swap Shop,Dublin,Dublin,IE,Ireland,Tower
+LCDN,CEN1122,Le coin de neuilliens,Neuilly-Sur-Seine,Ile-de-France,FR,France,Timecoin
+LIPA,CEN1123,Living in Place,Albany,New York,US,United States,Talent
+HWPE,CEN1128,ZA Dinar Exchange,Cape Town,Western Province,ZA,South Africa,ZA Dinar
+LOVX,CEN1131,Laughing Oak Village Community Exchange,Fallbrook,CA,US,United States,LOVBuck
+EBAY,CEN1132,Eastern Bay of Plenty Community Exchange,Whakatane,Bay of Plenty,NZ,New Zealand,Koha
+UCAS,CEN1135,Gruppo Mutuo Aiuto PU,Fossombrone,Pesaro e Urbino,IT,Italy,Hora
+MIXI,CEN1136,Mixiuhca,Ciudad de Mèxico,Ciudad de Mèxico,MX,Mexico,Imix
+LLUM,CEN1137,"XCTIT, CES Red de ciencia, técnica y tecnologia",Mataro,Barcelona,ES,Spain,LLUM
+SEGA,CEN1138,Southeast Georgia exchange,Statesboro,Bulloch,US,United States,Buck
+TSAG,CEN1140,Banco del Tiempo de San Agustín del Guadalix,San Agustín del Guadalix,Madrid,ES,Spain,Hora
+USXC,CEN1142,Univest Skills Exchange (Swaziland),Manzini,Manzini,SZ,Swaziland,Univest Bucks
+CILS,CEN1144,Comunidad de intercambio Santa Elena,Medellín,Santa Elena,CO,Colombia ,Siembra
+TNGI,CEN1146,Talents Numériques Gaspésie et Iles-de-la-Madeleine,Gaspésie,Québec,CA,Canada,Talent Numérique
+SELG,CEN1148,Système d'Échange Libre Gaspé,Gaspé,Québec,CA,Canada,SEL
+HOUR,CEN1149,hOur Credits Time Exchange,U.K.,South West,UK,United Kingdom,hOur
+NPCE,CEN1150,North Peace Community Exchange Network,Fort St. John,BC,CA,Canada,Pax
+ROIS,CEN1151,Red Ocumareña Comunal de Intercambio Solidario,Ocumare del Tuy,Miranda,VE,Venezuela,Okumí
+HDTB,CEN1153,Harling and District Time Bank,East Harling,Norfolk,UK,United Kingdom,Harling Hour
+BENI,CEN1155,Benimaclet Grup de Moneda Social,Valencia,46020,ES,Spain,Ecos
+GMCX,CEN1157,GOLDMind Community Exchange,Enola,PA,US,United States,Seed
+SOCE,CEN1158,South Okanagan Community Exchange System,Oliver,BC,CA,Canada,Loon
+CIPP,CEN1159,Rete di scambio PU,Urbino,PU,IT,Italy,Ora
+BITS,CEN1160,Barter Income Technology System,Madison,Mississippi,US,United States,Bit
+COCE,CEN1161,Cornwall Community Exchange,Redruth,Cornwall,UK,United Kingdom,Talent
+SCEX,CEN1162,Santa Cruz Exchange,Santa Cruz,Santa Cruz,US,United States,Sand Dollar
+VIRA,CEN1167,Valencia Intercambia Red Autogestionada,Valencia,Valencia,ES,Spain,ECO
+ALCX,CEN1172,Mercat Alcalco,Alcala de xivert,Castellon,ES,Spain,Alcalco
+EDUC,CEN1173,EDUC,Burgos,Burgos,ES,Spain,EDU
+TERA,CEN1174,La Teranyina,Mediona-Miralles-Llacuna,Barcelona / Catalunya,ES,Spain,Tera
+MUNI,CEN1175,Munitario,Buenos Aires,Buenos Aires,AR,Argentina,Credictos Comunitarios
+CRUN,CEN1176,Petersburg Creative Union,Saint-Petersburg,SPB,RU,Russia,Unit
+FCEY,CEN1178,Facultad de Económicas Sevilla,Sevilla/Sevilla/RyC S/N,España/Andalucía/Sevilla,ES,Spain,Fceyeta
+LLCE,CEN1179,Living Light Circle,San Juan,PR,PR,Puerto Rico,Light Unit
+OCEX,CEN1180,Oasis Community Exchange,Sacramento,CA,US,United States,Clam
+ZOCO,CEN1187,Zoquito Red De Moneda Social,Jerez de la Frontera,Cádiz,ES,Spain,Zoquito
+HYMY,CEN1188,Lapuan Aikapankki - Hymyjä läheiselle,Lapua,Etelä-Pohjanmaa,FI,Finland,Hymy
+CRBE,CEN1189,Casa Rústica Bogotá,Bogotá,"Bogotá, D.C.",CO,Colombia ,Rústico
+GREN,CEN1190,Green community,Arcos de Valdevez,Portugal,PT,Portugal,Green
+MANA,CEN1191,Manawatu Community Exchange,Manawatu,,NZ,New Zealand,Koha
+TRCA,CEN1193,Trocador,São João da Madeira,Aveiro,PT,Portugal,Ceramic Hour
+DXBE,CEN1195,Dubai also exchanges,Dubai,Dubai,AE,United Arab Emirates,Service
+BBEC,CEN1197,Beira Baixa Community Exchange,Castelo Branco,Castelo Branco,PT,Portugal,Perma
+DGDS,CEN1200,Dukedom Grand Dollar,Houston,Texas,US,United States,Dukedom Grand Dollar
+ROKA,CEN1201,Republic Of Karos,Reus,Tarragona,ES,Spain,Soka
+MICR,CEN1202,PRINCIPALITY,Benoni,Gauteng,ZA,South Africa,DINAR
+MUYU,CEN1205,Red de Intercambio MUYU,Nacional,Nacional,EC,Ecuador,Muyu
+TRBR,CEN1207,Trocal Bragança,Bragança,Bragança,PT,Portugal,Hour
+BFST,CEN1208,BCE Goods Exchange,Belfast,ME,US,United States,Item
+LGAP,CEN1209,Laagri ajapank,Laagri,Saue vald,EE,Estonia,Tund
+PERN,CEN1227,LETS in PERNIK,Pernik,Sofia,BG,Bulgaria,Bob
+PAMM,CEN1240,Egara Exchange,Terrassa,Barcelona,ES,Spain,Bruce
+BVZA,CEN1241,Banka vremena - Živi atelje,Zagreb,Zagreb,HR,Croatia,Solidar
+DTDO,CEN1256,Dzielnik Twórców Dobra,Łbiska,Mazowieckie,PL,Poland,Dzielnik
+KCCE,CEN1266,Kent County Community Exchange,Rochester,Kent,UK,United Kingdom,Skills
+ECOB,CEN1294,Economics Basics FACDYC,San Nicolás,Nuevo León,MX,Mexico,ECOB
+NCMT,CEN1301,Northern Colorado Mutual Aid and trading society,Fort Collins,CO,US,United States,Geld
+BTAL,CEN1344,Banco de Tiempo Alcantara,Sella,Alicante,ES,Spain,Alcantara
+SITE,CEN1367,South Island Trade Exchange,east coast,South Island,NZ,New Zealand,Green Dollar
+CISB,CEN1450,Comunidad de Intercambio de Bienes y Servicios,Aviles,Asturias,ES,Spain,Dragon
+SWTI,CEN1469,Stockmoor & Wilstock Timebank,Bridgwater,Somerset,UK,United Kingdom,Time
+PVEX,CEN1476,Puerto Viejo Exchange,Puerto Viejo,Limón,CR,Costa Rica,Semilla
+WSCC,CEN1477,Worldschooling Central Community Exchange,Global,,WO,International,Coin
+GITC,CEN1482,"Grupo de Intercambio Solidario ""Tierra Conciencia""",San Cristóbal,Táchira,VE,Venezuela,Real Toche
+ZNCE,CEN1483,Zululand Community Exchange,Richards Bay,Kwazulu Natal,ZA,South Africa,Talent
+CBLD,CEN1484,Cumby Exchange,Cumberland,BC,CA,Canada,Point
+BTON,CEN1486,Brighton & Hove Community Exchange,Brighton & Hove,East Sussex,UK,United Kingdom,Offer
+XPER,CEN1487,#Xperience,Paris,,FR,France,XDollar
+MACH,CEN1490,Reg-Ceen Porvety,Mokhotlong,Lesotho,LS,Lesotho,Eco
