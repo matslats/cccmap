@@ -46,7 +46,8 @@ http://route-des-sel.org/geo.csv
 http://community-exchange.org/geo.csv (mocked)  
 http://timebanks.community.timebanks.org/geo.csv (mocked)  
 http://communityexchange.net.au/geo.csv (mocked)  
-http://hourworld.org/geo.csv (mocked)
+http://hourworld.org/geo.csv (mocked)  
+http://integralcecs.net/geo.csv (mocked)
 
 The aggregated map is currently being served from github, and it can be viewed directly https://github.com/matslats/cccmap/blob/master/all.json
 It can also be embedded into any web page with the following snippet
