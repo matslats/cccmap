@@ -1,4 +1,4 @@
-"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
+"url", "latitude", "longitude", "title"
 "http://community.timebanks.org/timebanks/chebucto-connections-timebank","44.612486","-63.619031","Chebucto Connections Timebank"
 "http://community.timebanks.org/node/791","49.261041","-123.054288","Volunteering can be two way street"
 "http://community.timebanks.org/node/797","39.322847","-82.09728","Athens Time Exchange"
