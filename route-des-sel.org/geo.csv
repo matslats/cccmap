@@ -1,786 +1,653 @@
-"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
-"","44.200417","-1.228009",,"SEL Route des SEL",,,,
-"","43.725563","7.254752",,"SEL 06 NICE BAIE DES ANGES",,,,
-"http://trokeztout.canalblog.com  ","48.488242","1.337106",,"SEL 28",,,,
-"http://selracan37.fr","47.498240","0.685423",,"SEL 37 RACAN CHOISILLE",,,,
-"","44.228132","0.431373",,"SEL 47 TERRE",,,,
-"","0.000000","0.000000",,"SEL DU VAL D'ADOUR",,,,
-"","42.616954","2.928322",,"SEL 66",,,,
-"http://7sel.free.fr","48.987202","2.187902",,"LE 7e SEL",,,,
-"","0.000000","0.000000",,"SEL 70",,,,
-"","0.000000","0.000000",,"SEL 72",,,,
-"http://sel.93.centre.free.fr","48.902475","2.479597",,"SEL 93 CENTRE",,,,
-"http://sel99.free.fr","48.010980","3.972518",,"SEL 99 (10+89)",,,,
-"","48.303215","-0.622496",,"AGITA'SEL",,,,
-"http://selamienois.free.fr/","49.870684","2.310090",,"SEL AMIENOIS",,,,
-"","46.937022","5.877943",,"SEL AMITIE SALINS",,,,
-"http://selangevin.fr","47.457059","-0.544204",,"SEL ANGEVIN",,,,
-"","43.132142","5.887844",,"ARC EN SEL (VAR)",,,,
-"http://selargoat.selidaire.org","0.000000","0.000000",,"SEL DE L'ARGOAT",,,,
-"","44.363565","5.140806",,"SEL QUI PEUT",,,,
-"","","",,"SEL AU TEMPS DU SEL",,,,
-"","43.561860","6.439689",,"SEL'AVENIR DRAGUIGNAN(83)",,,,
-"","46.556006","3.051684",,"B.O.I.S.",,,,
-"","0.000000","0.000000",,"BANCA DEL TEMPO MILANO CENTRO STORICO",,,,
-"","50.635815","3.098706",,"BARASEL",,,,
-"","46.238609","2.387820",,"SEL BEC",,,,
-"","44.967011","1.812332",,"SEL BELLOCOIS",,,,
-"http://www.boutsdefisel.be","50.633501","3.788273",,"BOUTS DE FISEL",,,,
-"http://sel01.hautetfort.com","46.209525","5.231916",,"SEL BRESSAN",,,,
-"","47.744324","7.331209",,"BRETSEL",,,,
-"","50.850000","4.350000",,"BRUSEL",,,,
-"","","",,"SEL BUSSIERES",,,,
-"","45.538499","4.868286",,"SEL CAFEUILLIERE",,,,
-"","45.719686","4.799937",,"SEL CAILLOULLIN",,,,
-"http://selcalade.communityforge.net","45.991471","4.718821",,"SEL CALADE",,,,
-"","43.307822","-0.354849",,"SEL CAMIN SALIER",,,,
-"http://carcassel.blog50.fr","43.218385","2.351753",,"CARCAS'SEL",,,,
-"","44.896812","1.501501",,"SEL SOUILLAGAIS",,,,
-"","46.409048","1.821443",,"CARROUSEL (23)",,,,
-"","43.414041","5.227957",,"SEL COEUR D'HERAULT",,,,
-"http://chartresensel.forumserv.com","48.441894","1.511077",,"CHARTRES EN SEL",,,,
-"","0.000000","0.000000",,"SEL CHAUMONT GISTOUX",,,,
-"","50.652073","3.041929",,"CAP'SEL",,,,
-"","","",,"SEL CIGALOIS",,,,
-"http://ciotatsel.free.fr","43.210756","5.624767",,"CIOTATSEL",,,,
-"http://cirosel.be","0.000000","0.000000",,"CIROSEL (BELGIQUE)",,,,
-"http://clefdesel17.free.fr","45.932830","-0.963384",,"CLEF DE SEL",,,,
-"","46.518338","4.597210",,"SEL CLUNISOIS",,,,
-"http://selcocagne.org/","0.000000","0.000000",,"SEL COCAGNE",,,,
-"","0.000000","0.000000",,"C.E.P. (CONVIVIALITE ECHANGE PARTAGE)",,,,
-"http://selcoupdepouce.be","50.582347","4.531059",,"SEL COUP D'POUCE",,,,
-"","","",,"COURNONSEL",,,,
-"","","",,"SEL COUSERANS",,,,
-"","48.817542","2.378028",,"SEL CRIC",,,,
-"http://cristauxdesel.free.fr","49.007379","2.387981",,"CRISTAUX DE SEL",,,,
-"http://crocosel.org/spip/","43.663327","5.347199",,"CROCOSEL",,,,
-"","43.384999","2.839036",,"LE SEL D'ABORD",,,,
-"http://terredadeles.org/wiki/","44.799637","-0.673825",,"SEL D'ADELES",,,,
-"https://sites.google.com/site/leselalbi/","43.932963","2.154847",,"SEL D'ALBI",,,,
-"","45.898506","6.111567",,"SEL D'ANNECY ET SA REGION",,,,
-"http://enselsaintlo.jimdo.com","49.104482","-1.083907",,"EN SEL DE SAINT LO",,,,
-"","48.286402","4.079971",,"SEL DE 3",,,,
-"","0.000000","0.000000",,"SEL DE BASSE TERRE",,,,
-"","46.280381","2.885157",,"SEL DE BEAUNE D'ALLIER",,,,
-"","","",,"SEL DE BEAUVAIS",,,,
-"http://besansel.free.fr","0.000000","0.000000",,"SEL DE BESANCON",,,,
-"","0.000000","0.000000",,"SEL DE BEZIERS",,,,
-"","43.227919","0.049887",,"SEL DE BIGORRE",,,,
-"http://seldebillom.voila.fr","45.721557","3.367729",,"SEL DE BILLOM",,,,
-"","45.637692","5.298404",,"SEL DE BOURGOIN JALLIEU",,,,
-"http://selchaponost.fr","45.714322","4.750182",,"SEL'AVIE (69)",,,,
-"http://www.selbroceliande.fr","0.000000","0.000000",,"SEL DE BROCELIANDE",,,,
-"","49.747949","0.373054",,"SEL DE CAUX",,,,
-"","49.030067","2.082705",,"SEL DE CERGY PONTOISE",,,,
-"","48.804689","2.289387",,"SEL DE CHATILLON",,,,
-"http://sel-de-clamart.org","48.799770","2.267841",,"SEL DE CLAMART",,,,
-"","47.905287","-3.914716",,"LES ECHANGEURS DE MENHIRS",,,,
-"http://seldecreteil.e-monsite.com","48.788664","2.466515",,"SEL DE CRETEIL",,,,
-"","48.287047","-4.461252",,"SEL DE CROZON",,,,
-"","47.478419","-0.563166",,"SEL DE DENEE",,,,
-"http://selentramis.communityforge.net","0.000000","0.000000",,"SEL ENTR'AMIS",,,,
-"http://dijon.communityforge.net","47.323799","5.038615",,"LE SELLIER DU DIJONNAIS",,,,
-"","45.188501","5.737538",,"SEL DE GRENOBLE",,,,
-"","43.901816","1.896506",,"GAILLA'SEL",,,,
-"","48.570432","-1.791936",,"ATOUT SEL (35)",,,,
-"","43.759093","0.311122",,"SEL DE JEGUN",,,,
-"","0.000000","0.000000",,"SEL'TY DE LORIENT",,,,
-"","48.928372","2.190948",,"SEL DE LA BOUCLE DE LA SEINE",,,,
-"http://leseldelabruche.seliweb.net","0.000000","0.000000",,"SEL DE LA BRUCHE",,,,
-"","0.000000","0.000000",,"SEL DE LA COTE D'ARGENT",,,,
-"","43.147764","6.073127",,"SEL DE LA CRAU",,,,
-"http://selhautil.unblog.fr","49.050413","2.099804",,"SEL DE LA FORET DE L'HAUTIL",,,,
-"","0.000000","0.000000",,"SEL DE LA FORET ET DES ENVIRONS",,,,
-"","43.448353","3.751958",,"SEL DE LA GARDIOLE",,,,
-"","","",,"SEL DE LA GARRIGUE",,,,
-"","48.678939","-1.868587",,"SEL DU PAYS DE CANCALE",,,,
-"","43.607077","3.866058",,"SEL DE LA MER",,,,
-"","46.364218","-0.109917",,"SEL DE LA MOTHE ST HERAY",,,,
-"http://seldespignes.org","43.955825","6.893658",,"SEL DES PIGNES (DE LA MOYENNE VALLEE DU VAR)",,,,
-"","","",,"SEL DE LA NAVETTE DE TOURCOING",,,,
-"http://seldelaterre11.over-blog.com","43.052465","2.221688",,"SEL DE LA TERRE (11)",,,,
-"","48.776930","0.342738",,"SEL DE LA TOUQUES",,,,
-"","46.780289","-1.466117",,"SEL DE LA VALLEE DE LA VIE",,,,
-"","48.749439","2.480369",,"SEL DU PLATEAU BRIARD",,,,
-"","","",,"SEL DE LA VALLEE DU COULAZOU",,,,
-"","43.499794","5.926147",,"SEL DE L'ARGENS",,,,
-"","43.292180","5.569336",,"SEL DE L'HUVEAUNE",,,,
-"http://www.seldeloire.org","47.393212","0.704568",,"SEL DE LOIRE",,,,
-"http://laclaiedechanges-sel-villeneuve.e-monsite.com","44.197374","0.842116",,"LA CLAIE D'ECHANGES SEL VILLENEUVOIS ",,,,
-"http://seletjeu.org","46.648097","5.225542",,"SEL DE SEILLE",,,,
-"http://sel.lyon.rivegauche.free.fr/","45.753583","4.845772",,"SEL LYON RIVE GAUCHE",,,,
-"http://sellyonsursaone.wordpress.com/","45.761113","4.826071",,"SEL DE LYON SUR SA&Atilde;”NE",,,,
-"http://malaksel.org","48.817275","2.297760",,"MALAK'SEL",,,,
-"http://www.seldemars.org/","43.298378","5.381106",,"SEL DE MARS",,,,
-"","","",,"SEL DE MAURES ESTEREL",,,,
-"","43.613127","3.828112",,"SEL DE MONTPELLIER",,,,
-"","48.074390","-1.839567",,"SEL DE MORDELLES",,,,
-"http://tauschringmuenchen.de","0.000000","0.000000",,"LETS TAUSCHRING M&Atilde;œNCHEN",,,,
-"","48.267733","2.698395",,"SEL DE NEMOURS",,,,
-"http://seldenoiseau.org","48.774991","2.543187",,"SEL DE NOISEAU",,,,
-"http://seldepaname.org","48.831841","2.295860",,"SEL DE PANAME",,,,
-"http://seldeparis.org","48.873549","2.390983",,"SEL DE PARIS",,,,
-"http://sel-du-neflier.blogspot.fr","44.573140","2.246619",,"LE NEFLIER SEL DU BASSIN DECAZEVILLOIS",,,,
-"","49.272810","4.012185",,"SEL DE REIMS",,,,
-"http:// ","49.354883","0.514299",,"SEL DE RISLE",,,,
-"","51.165691","10.451526",,"TAUSCHBORSE ROSENHEIM",,,,
-"","45.373255","4.811172",,"SEL DE ROUSSILLON",,,,
-"http://selrueil92.unblog.fr/","48.887390","2.170271",,"SEL DE RUEIL 92",,,,
-"http://sel-de-saone.blogspot.fr/p/accueil.html","46.780764","4.853947",,"SEL DE SA&Atilde;”NE",,,,
-"","0.000000","0.000000",,"SEL DE SAULT",,,,
-"http://seldeseine.eu","49.405844","1.096025",,"SEL DE SEINE",,,,
-"","44.194599","5.942981",,"SEL DES 3 RIVIERES DE SISTERON (04)",,,,
-"http://sel-strasbourg.org","48.578915","7.754231",,"SEL DE STRASBOURG",,,,
-"http://seldepoitiers.net","46.595350","0.343290",,"LE CHABIS SEL DE POITIERS",,,,
-"","0.000000","0.000000",,"SEL DU BASSIN MINIER ET DU LEMBRON",,,,
-"http://leseldevienne.org","0.000000","0.000000",,"SEL DE VIENNE",,,,
-"http://seldevilaine.jimdo.com","47.650397","-2.086035",,"SEL DE VILAINE (35)",,,,
-"","48.792716","2.359279",,"SEL DE VILLEJUIF",,,,
-"http://seldevizille.fr","45.081536","5.770329",,"SEL DE VIZILLE",,,,
-"","","",,"SEL DECLIC",,,,
-"","44.003485","4.925958",,"SEL D'ENTRAIGUES SUR LA SORGUE",,,,
-"","48.287677","6.970562",,"DEOSEL",,,,
-"","47.877397","-3.554513",,"SEL DES 3 RIVIERES",,,,
-"http://www.sel7collines.fr","45.430262","4.424888",,"SEL DES 7 COLLINES DE SAINT&Atilde;‰",,,,
-"","43.722615","7.117373",,"SEL DES BAOUS",,,,
-"","","",,"SEL DES BARONNIES",,,,
-"","51.046002","2.357928",,"SEL DES FLANDRES",,,,
-"","","",,"SEL DES GENETS LODEVOIS",,,,
-"","46.156871","3.082620",,"SEL DES GORGES DE LA SIOULE",,,,
-"http://selgrandesterres.free.fr","0.000000","0.000000",,"SEL DES GRANDES TERRES",,,,
-"","44.028941","5.975404",,"CARREFOUR DU SEL",,,,
-"http://selmontsdulyonnais.free.fr","45.592313","4.316916",,"SEL DES MONTS DU LYONNAIS",,,,
-"","","",,"SEL DES OLONNES",,,,
-"","","",,"SEL DES PIGNONS",,,,
-"","","",,"SEL DES PO",,,,
-"","43.691018","3.117756",,"SEL DES HAUTS CANTONS ",,,,
-"http://seldesrives.ch/","46.849977","6.719715",,"SEL DES RIVES",,,,
-"","50.798289","2.283541",,"SEL DES SAULES",,,,
-"http://sel-selistesinternautes.fr","0.000000","0.000000",,"SEL DES SELISTES INTERNAUTES",,,,
-"","55.378051","-3.435973",,"SEL HEMPLETS UK",,,,
-"http://dionyssel.communityforge.net","48.934160","2.356402",,"DIONYSSEL",,,,
-"","","",,"SEL D'ISSY LES MOULINEAUX",,,,
-"","","",,"SEL DORE",,,,
-"","47.245186","-1.582750",,"SEL D'ORVAULT &quot;LES ROUSINETTES&quot;",,,,
-"http://letsoostende.vsbnet.be","0.000000","0.000000",,"LETS OOSTENDE",,,,
-"http://selduconflent.pagesperso-orange.fr","42.614716","2.449271",,"SEL DU CONFLENT",,,,
-"","47.633986","-1.812188",,"SEL DU DON",,,,
-"","48.884613","2.311355",,"SEL DU FAUBOURG",,,,
-"","45.498029","4.256085",,"SEL DES BORDS DE LOIRE",,,,
-"","46.156902","6.269638",,"SEL DU GENEVOIS",,,,
-"","","",,"SEL DU GOELO",,,,
-"http://netoos.org/selgolfe","47.661706","-2.757462",,"SEL DU GOLFE DU MORBIHAN",,,,
-"","0.000000","0.000000",,"SEL DU GRAMATOIS",,,,
-"","0.000000","0.000000",,"SEL DU HAINAUT",,,,
-"","49.476996","0.163948",,"SEL DU HAVRE",,,,
-"http://seldulac.ch","46.204302","6.106168",,"SEL DU LAC SUISSE",,,,
-"","0.000000","0.000000",,"SEL DU LAC ROSE DE DAKAR",,,,
-"","48.566317","-4.324639",,"SEL DU LEON ET DES ABERS",,,,
-"","46.861533","0.813279",,"SILEX AND SEL (37)",,,,
-"http://emonsite seldumaconnais","0.000000","0.000000",,"SEL DU MACONNAIS",,,,
-"http://seldumaine.fr","48.015780","0.160927",,"SEL DU MAINE",,,,
-"","48.990374","1.715710",,"SEL DU MANTOIS",,,,
-"","44.568027","-0.115294",,"SEL DU MASCARET",,,,
-"","43.286728","2.965631",,"SEL DU MINERVOIS",,,,
-"http://www.loiret-sel.fr/","47.684624","2.630211",,"LOIRET SEL",,,,
-"","","",,"SEL DU PAYS D'AUGE",,,,
-"","44.860645","1.364530",,"SEL DU PAYS DE FENELON",,,,
-"","0.000000","0.000000",,"SEL DU PAYS DE FOIX",,,,
-"http://seldupaysdegex.fr","0.000000","0.000000",,"SEL DU PAYS DE GEX",,,,
-"http://seldupaysdeguingamp.blogspot.com","48.555790","-3.061645",,"SEL DU PAYS DE GUINGAMP",,,,
-"http://sel-des-deux-rives.org","45.043595","5.035169",,"SEL DES DEUX RIVES",,,,
-"","45.153957","5.323012",,"SEL DU SUD GRESIVAUDAN",,,,
-"","48.124746","-1.215430",,"SEL DU PAYS DE VITRE",,,,
-"http://seldesvans07.sitew.com","44.404688","4.131917",,"SEL DU PAYS DES VANS",,,,
-"","48.217723","3.922426",,"SEL DU PAYS D'OTHE",,,,
-"","","",,"SEL DU PAYS FOYEN",,,,
-"","48.427760","0.771693",,"SEL DU PERCHE",,,,
-"","43.194413","-0.605292",,"SEL DU PIEMONT OLORONAIS",,,,
-"","43.738874","4.170670",,"DU SEL ET DES NEFLES",,,,
-"http://selsenonais.jimdo.com","48.198657","3.273152",,"SEL DU SENONAIS",,,,
-"","43.283647","3.278297",,"SEL DU SUD BITERROIS",,,,
-"","48.684036","-3.623220",,"SEL DU TREGOR",,,,
-"","44.899725","5.611004",,"SEL DU TRIEVES",,,,
-"","45.261671","5.489309",,"SEL DU VOIRONNAIS",,,,
-"","45.946522","-0.525930",,"SELDY",,,,
-"","","",,"SEL D'YONNE",,,,
-"","46.931874","5.878137",,"L'ECHANGE SEL AMITIE",,,,
-"","45.038202","3.884348",,"ECHO DU VELAY",,,,
-"http://tauschring-markgraeflerland.de","0.000000","0.000000",,"TAUSCHRING EHRENKIRCHEN",,,,
-"","44.320796","4.945480",,"SEL'EIL VALREAS (84/26)",,,,
-"http:// ","48.455070","-4.254862",,"SEL ELORN",,,,
-"","43.695092","5.507340",,"SEL EN DURANCE",,,,
-"","0.000000","0.000000",,"SEL EN GASCOGNE",,,,
-"","43.523013","5.253467",,"SEL EN PROVENCE",,,,
-"http://selenvendomois.jimdo.com","0.000000","0.000000",,"SEL EN VENDOMOIS",,,,
-"http://selensemble.org","43.955694","4.869697",,"SEL ENSEMBLE AVIGNON ET ENVIRONS",,,,
-"","","",,"SEL ENTRE DEUX SEL",,,,
-"","47.533520","-1.241950",,"SEL ERDRE ET LOIRE",,,,
-"http://escarcelle74.over-blog.com","0.000000","0.000000",,"ESCARCELLE 74",,,,
-"","43.444815","3.755999",,"ESPRIT DE SEL DE FRONTIGNAN",,,,
-"","0.000000","0.000000",,"ESSEN'SEL",,,,
-"","48.860431","2.436948",,"SEL EST DE MONTREUIL",,,,
-"","","",,"SEL EST DE PARIS",,,,
-"","","",,"SEL ETOILES DE SEL",,,,
-"","44.652607","1.963467",,"SEL FIGEACOIS",,,,
-"","47.987605","-4.097302",,"FLEUR DE BLE NOIR",,,,
-"","47.278068","-2.206358",,"FLEUR DE SEL (44)",,,,
-"http://www.saintes-fleur-de-sel.fr/","45.744175","-0.633389",,"FLEUR DE SEL'SAINTES (17)",,,,
-"","43.351525","1.471716",,"LES FLEURS DE PASTEL",,,,
-"","","",,"SEL FRACASSIEN 84",,,,
-"","44.735269","4.599039",,"FRIC'ASSEZ PRIVAS",,,,
-"http://gabare.communityforge.net","44.800197","-0.624384",,"SEL GABARE",,,,
-"","","",,"SEL GARRIGUES",,,,
-"http://grain2sel.net","48.819677","1.571399",,"GRAIN DE SEL DES PAYS DROUAIS ET HOUDANAIS",,,,
-"http://seldebelfort.blogspot.fr","0.000000","0.000000",,"GRAIN DE SEL 90",,,,
-"http://grainedesel.fr ","0.000000","0.000000",,"GRAINE DE SEL (44)",,,,
-"http://selibourne.over-blog.com","44.912998","-0.243985",,"GRAINS DE SABLE DE LIBOURNE",,,,
-"","47.156161","2.341660",,"GRAINS DE SEL DE SAINT LAURENT",,,,
-"http://selduroannais.com","46.026984","4.091696",,"GRAINS DE SEL DU ROANNAIS",,,,
-"http://grattesel.free.fr","45.760103","4.880731",,"GRATTESEL",,,,
-"http://beaugensel.fr","47.778021","1.631356",,"GRENIER A SEL DE BEAUGENCY",,,,
-"http://www.seldecaen.com","49.179159","-0.351915",,"GUILLAUME SEL",,,,
-"","46.991343","4.513435",,"ISO SEL 129",,,,
-"","0.000000","0.000000",,"SEL HESBAYE",,,,
-"http://isosel.free.fr","0.000000","0.000000",,"ISOSEL 54",,,,
-"","48.744736","2.301814",,"SEL LA BIEVRE",,,,
-"","43.652234","5.258174",,"BOITE A SEL",,,,
-"http://accorderie.ca/mercier-hochelaga-m/","45.558957","-73.535832",,"ACCORDERIE DE MERCIER HOCHELAGA MAISONNEUVE",,,,
-"","48.786837","2.298335",,"SEL LA CLAIRE FONTAINE",,,,
-"","41.643114","13.347178",,"LA POMPE BOURBONNAISE",,,,
-"","50.653682","3.446861",,"SEL LA RAWETTE DE TOURNAI",,,,
-"","43.941588","-0.446748",,"SEL LANDAIS",,,,
-"","44.148991","4.082787",,"L'ARBRE CEVENOL",,,,
-"http://lesel-larochelle.hautetfort.com","46.166235","-1.134443",,"L'ARBRE (LA ROCHELLE)",,,,
-"http://sel-vascq.communityforge.net/home","50.623504","3.129227",,"L'ARBRE (VILLENEUVE D'ASCQ)",,,,
-"http://lebeausel.fr","44.057729","5.061817",,"LE BEAUSEL",,,,
-"http://lecarousel.be","50.379229","4.385964",,"SEL LE CAROUSEL (BELGIQUE)",,,,
-"","48.818391","2.377459",,"SEL CIEL",,,,
-"","45.262172","1.816416",,"SEL DES'CROISSANT",,,,
-"http://lenausel.fr","0.000000","0.000000",,"LE NAUSEL",,,,
-"http://reel.communityforge.net","43.298189","5.381694",,"REEL (13)",,,,
-"","","",,"LE SEL BAUGEOIS",,,,
-"http://selidje.be","0.000000","0.000000",,"SELIDJE",,,,
-"","","",,"SEL L'ECLIPSE",,,,
-"","","",,"SEL LES ARTS DANS LA CHAUSSURE (ADC)",,,,
-"http://www.tygraindesel.org","47.317487","-2.076454",,"TY GRAIN DE SEL",,,,
-"http://selidaritesnantaises.org/rigolettes/","47.229363","-1.532104",,"SEL LES RIGOLETTES DE NANTES",,,,
-"http://letsbrugge.be/","51.220810","3.224837",,"SEL BRUGES",,,,
-"http://letsgent.be","51.053863","3.762653",,"SEL LETS GENT VZW",,,,
-"","0.000000","0.000000",,"LETS GIRONE",,,,
-"","43.613927","1.088090",,"SEL LISLOIS",,,,
-"","47.679102","6.491278",,"LUROSEL",,,,
-"","43.445412","3.760987",,"SELIBAT",,,,
-"","48.631915","-1.981577",,"SEL MALOUIN",,,,
-"http://mancelle15.monsite-orange.fr","0.000000","0.000000",,"LA MANCELLE",,,,
-"http://tauschring-markgraeflerland.de","51.165691","10.451526",,"TAUSHRING SULZBACHTAL",,,,
-"","43.774385","7.189769",,"SEL MEDITERRANEE",,,,
-"","45.721762","-1.104726",,"SEL NACRE ET SEL",,,,
-"http://selnantais.org","47.221745","-1.556605",,"SEL NANTAIS",,,,
-"http://cean.nanterre.free.fr","0.000000","0.000000",,"NAN'TERRE DE SEL",,,,
-"","43.636180","7.056252",,"SEL NATURE, SCIENCE ET TRADITIONS",,,,
-"","43.706449","7.292265",,"SEL NICE AZUR PROVENCE",,,,
-"","43.848630","4.346718",,"NIMESEL",,,,
-"http://selniortais.free.fr","46.315560","-0.478001",,"SEL NIORTAIS",,,,
-"","45.284226","6.326793",,"LE PETIT RAMONEUR SEL DE MAURIENNE",,,,
-"http://assoinspiration.org/bulles/","48.700022","2.188165",,"SEL ORSAY",,,,
-"http://selovillois.free.fr","48.923901","2.183892",,"SEL OVILLOIS ET VOISINS",,,,
-"http://seldebourges.org","47.066501","2.387213",,"PAS SEUL EN SEL",,,,
-"","48.108709","7.198589",,"POTOSEL SEL DU CENTRE ALSACE",,,,
-"","45.420781","4.657464",,"LE PELUSSEL",,,,
-"","45.545498","1.052283",,"SEL PERIGORD LIMOUSIN",,,,
-"","44.854998","0.484398",,"SEL DU PERIGORD POURPRE",,,,
-"http://plougasel.infini.fr","48.379330","-4.369208",,"PLOUGA'SEL",,,,
-"","","",,"SEL PLUM D'ADOUR",,,,
-"","0.000000","0.000000",,"SEL POIVRE",,,,
-"","45.528236","-0.519061",,"PONSEL",,,,
-"","48.616950","0.661189",,"SEL DES FORETS",,,,
-"","49.907501","2.315020",,"POTES EN SEL",,,,
-"http://sel2salies.canalblog.com","43.498948","-0.962952",,"SANS SOU NI SOUCIS SEL DE SALIES DE BEARN",,,,
-"http://provensel.org","43.639297","5.108011",,"PROVENSEL",,,,
-"","43.088226","1.873725",,"SEL PYRENEEN",,,,
-"http://radisel.org","44.751375","5.370776",,"RADISEL DU DIOIS",,,,
-"","42.698684","2.895872",,"SEL REEL (66)",,,,
-"","0.000000","0.000000",,"SEL RELATION 3000",,,,
-"","47.953663","3.971264",,"SEL REVES",,,,
-"http://rijsel.org","50.613810","3.042360",,"RIJSEL",,,,
-"http://selritlaval.free.fr","48.067894","-0.764641",,"SEL'RIT (53)",,,,
-"http://sites.google.com/site/selrizmontpellier/","43.604728","3.901175",,"SELRIZ (34)",,,,
-"","48.057924","-1.791666",,"SEL'ECHANGE DE CHAVAGNE",,,,
-"http://royansel.com","45.628057","-1.028636",,"ROYANSEL",,,,
-"","45.276455","1.761882",,"SEL SANS ARGENT T'AS TROC",,,,
-"","45.678803","4.700643",,"SEL SANS SOUCI",,,,
-"","44.115826","4.052883",,"SEL'ALES",,,,
-"","43.445632","3.760893",,"SELAROUTE",,,,
-"","50.852644","4.388691",,"SELAVIE SCHAERBEEK (BE)",,,,
-"http://seleri.be","50.711754","4.535954",,"SELERI (BELGIQUE)",,,,
-"http://seldarcy.super-h.fr","47.603253","3.774687",,"SEL D'ARCY SUR CURE 89",,,,
-"","44.291374","4.152503",,"SELIBRE",,,,
-"http://selimar.org","44.561982","4.752956",,"SELIMAR",,,,
-"http://seloir.jimdo.com","45.949039","-0.891471",,"SELOIR",,,,
-"","48.082680","-4.319670",,"SELRIS (29)",,,,
-"","48.781028","2.057842",,"SELSERVICE 78",,,,
-"","","",,"SEL SELSQY",,,,
-"","43.905603","1.687194",,"SELVAGNAC",,,,
-"http://episel.communityforge.net/","48.193731","6.459218",,"EPISEL",,,,
-"","46.222556","-0.143487",,"SEL SUD DEUX SEVRES",,,,
-"","45.087932","-0.580039",,"SEL HAUTE GIRONDE",,,,
-"","47.461887","6.664663",,"SEL NORD DOUBS",,,,
-"http://www.talent.ch/","47.387958","8.044136",,"TALENT SCHWEIZ",,,,
-"http://talent-experiment.de","47.992282","7.854181",,"TALENT TAUSCHRING FREIBURG",,,,
-"","0.000000","0.000000",,"SEL CLAIR DE LUNE",,,,
-"http://tauschring-heilbronn.de/","49.137427","9.213497",,"TAUSCHRING HEILBRONN",,,,
-"http://thoredusel.meabilis.fr/","0.000000","0.000000",,"THORE DU SEL",,,,
-"","","",,"SEL TOULON 3000",,,,
-"http://sel-touraine.fr","47.404813","0.599971",,"SEL TOURAINE",,,,
-"","46.717041","2.507381",,"TOURNESEL (18)",,,,
-"","48.122473","-1.713409",,"SEL TOURNESOL",,,,
-"","","",,"SEL TRICAS'SEL",,,,
-"","","",,"SEL TROC EN SEL",,,,
-"","45.339990","-0.418621",,"TROC &Atilde;” SEL (17)",,,,
-"","43.959933","5.780712",,"TROC OLIVES",,,,
-"http://troctabille.over-blog.com","0.000000","0.000000",,"TROC TA BILLE",,,,
-"http://trocselcastres.fr","43.634782","2.243349",,"TROC SEL DE CASTRES",,,,
-"http://breizisel.infini.fr/","48.401220","-4.492127",,"BREIZ I SEL (BREST)",,,,
-"http://trocsel.pontivy.startigen.com","0.000000","0.000000",,"TROC'SEL DE PONTIVY",,,,
-"http://tuf.faluns.free.fr","0.000000","0.000000",,"SEL TUFFE ET FALUNS",,,,
-"","45.884020","-1.205015",,"UNE ILE VERS SEL",,,,
-"http://universel11.lescigales.org","43.183506","3.028518",,"UNIS VERS SEL (11)",,,,
-"","48.882767","2.176930",,"UNIS VERS SEL (92)",,,,
-"http://seldegap.com","44.559638","6.079758",,"LA BELLE SEL DE GAP",,,,
-"http://seldebriancon.communityforge.net/","44.889818","6.634426",,"SEL DE BRIANCON",,,,
-"","0.000000","0.000000",,"SEL EMBRUNAIS",,,,
-"","44.213362","5.698618",,"SEL EOURRES",,,,
-"http://SELTEST.BIDON.COM","46.323716","-0.464777",,"SEL TEST SOUCHE",,,,
-"http://www.seldeclamecy.org/","47.464365","3.502497",,"SEL DE CLAMECY",,,,
-"http://les-courts-circuits.communityforge.net/","0.000000","0.000000",,"ALEN'SEL COURTS CIRCUITS",,,,
-"http://seldille.org","48.326622","-1.687455",,"SELDILLE DE MONTREUIL SUR ILLE 35",,,,
-"","47.216673","-0.727526",,"SEL CAMOMILLE",,,,
-"http://selarizeleze.communityforge.net/","43.146507","1.424143",,"SEL ARIZE LEZE",,,,
-"","0.000000","0.000000",,"TAUSCHRING M&Atilde;œLLHEIM",,,,
-"http://www.sel-la-chaux-de-fonds.ch","47.108135","6.829043",,"SEL DE LA CHAUX DE FONDS",,,,
-"http://www.vivantsel.org","44.919651","4.900821",,"VIVANTSEL",,,,
-"","46.092386","3.380172",,"SEL SUD ALLIER",,,,
-"http://route-des-sel.org","0.000000","0.000000",,"_Mon SEL n'est pas dans la liste",,,,
-"https://sel-waterloo.be","50.703534","4.374733",,"SEL WATERLOO",,,,
-"","48.847082","-1.573691",,"SEL'IN",,,,
-"http://netoos.org/selymen/","47.625693","-2.407927",,"SELYMEN",,,,
-"","46.666521","4.290375",,"SEL'ESSENTIEL",,,,
-"","43.765194","1.990495",,"SEL A VIE (TARN)",,,,
-"http://universel87.free.fr","45.938083","1.458358",,"UNIVERSEL 87",,,,
-"","48.852310","2.427552",,"SEL'AVENTURE DU BAS MONTREUIL",,,,
-"","","",,"SEL VAUCLUSIEN",,,,
-"","","",,"SEL VIVARAIS PILAT",,,,
-"","-40.900557","174.885971",,"SEL WESTWIND",,,,
-"http://www.sel-vaudrusien.ch","47.067851","6.934364",,"SEL VAUDRUSIEN",,,,
-"","0.000000","0.000000",,"SEL DE LA COTE DES LEGENDES",,,,
-"","0.000000","0.000000",,"SEL des A&Atilde;&sect;ores TEST",,,,
-"","45.639736","4.130040",,"SEL DU FOREZ",,,,
-"http://leselderodez.free.fr","0.000000","0.000000",,"SEL DE RODEZ",,,,
-"http://www.clissel.fr","0.000000","0.000000",,"CLISSEL",,,,
-"","45.542321","0.632311",,"SEL DES CHANTERELLES",,,,
-"","46.208669","-1.099443",,"ECHO SEL",,,,
-"","0.000000","0.000000",,"SEL DU TOURNUGEOIS",,,,
-"","47.914541","-4.257814",,"BIGOUD'SEL",,,,
-"http://www.intersel.ch","46.190446","6.143286",,"INTERSEL.CH",,,,
-"http://www.seldemosellecentre.fr","0.000000","0.000000",,"SEL DE MOSELLE CENTRE",,,,
-"http://tauschring-freising.de","48.538833","11.806421",,"LETS TAUSCHRING FREISING",,,,
-"","0.000000","0.000000",,"SEL DE LOGNES",,,,
-"http://terrasalva.communityforge.net","45.006737","1.612347",,"SEL TERRA SALVA",,,,
-"http://univers-sel.be","49.883827","5.184357",,"UNIVERSEL DE BERTRIX PALISEUL ",,,,
-"http://sel-bourbon-lancy.fr/","46.619241","3.773050",,"SEL'LANCY ET ALENTOURS",,,,
-"","0.000000","0.000000",,"SEL DE L'UNION",,,,
-"","43.897714","4.212204",,"SEL EN GARDONNENQUE",,,,
-"http://sel-ondaine.org","45.400646","4.210581",,"SEL DE L'ONDAINE",,,,
-"","50.477922","4.838090",,"CAP'SEL NAMUROIS",,,,
-"","0.000000","0.000000",,"BANCA DEL TEMPO IDEA INZAGO",,,,
-"","0.000000","0.000000",,"SEL GLANOIS ET ALENTOURS",,,,
-"http://legaletdubuech.fr","44.315087","5.821689",,"LE GALET DU BUECH",,,,
-"","45.423432","9.100672",,"BANCA DEL TEMPO E DEI SAPERI BUCCINASCO",,,,
-"http://sel-lipsheim.org","48.493267","7.662645",,"SEL DE LIPSHEIM",,,,
-"","43.532598","2.857401",,"SEL WAGABOND",,,,
-"http://www.selsudoise.fr","0.000000","0.000000",,"SEL SUD OISE",,,,
-"","45.558033","5.523521",,"SEL DES VALS DU DAUPHINE",,,,
-"http://www.letstiel.nl","51.890535","5.433571",,"LETS TIEL",,,,
-"","47.930647","5.466322",,"SEL SUD 52",,,,
-"http://sel.dinan.free.fr","48.440613","-2.045312",,"SEL DU PAYS DE DINAN",,,,
-"","43.493790","-1.553891",,"AGORA SEL COTE BASQUE",,,,
-"http://macasel.be","50.693471","4.627837",,"MACASEL",,,,
-"http://sel-croixrousse.org","45.773851","4.835806",,"SEL CROIX ROUSSE (69)",,,,
-"http://bosseldeloire.communityforge.net","47.390224","0.060872",,"BOSSEL DE LOIRE",,,,
-"","48.556885","2.591108",,"SEL'AVENIR (CESSON 77)",,,,
-"http://seldelaria.fr","47.767163","-3.251584",,"SEL DE LA RIA D'ETEL",,,,
-"","0.000000","0.000000",,"SEL DU VAL DE MAULDRE",,,,
-"","0.000000","0.000000",,"THANN'SEL",,,,
-"http://www.clesdesel.be","50.550799","4.721073",,"CLES DE SEL (BELGIQUE)",,,,
-"http://selaudonien.asso.st","48.904048","2.326541",,"SEL AUDONIEN (SAINT OUEN)",,,,
-"http://patatedouce.org","48.620457","2.443608",,"PATATE DOUCE SEL D'EVRY",,,,
-"http://selvallespir.free.fr/","42.509256","2.708329",,"SEL DU VALLESPIR",,,,
-"","0.000000","0.000000",,"PERTH LETS",,,,
-"","41.164842","1.133376",,"BANCO DEL TIEMPO DE REUS",,,,
-"http://seldegresigne.jimdo.com/","44.183093","1.346925",,"SEL DE GRESIGNE",,,,
-"http://chambesel.wahost.org","45.560000","5.926355",,"CHAMBESEL",,,,
-"http://seldescombrailles.over-blog.com","0.000000","0.000000",,"SEL DES COMBRAILLES",,,,
-"http://www.seljogne.ch","0.000000","0.000000",,"SEL de LA VALLEE DE LA JOGNE",,,,
-"http://seldeleognan.wordpress.com/","44.725577","-0.598583",,"SEL DE LEOGNAN",,,,
-"http://selencoutancais.over-blog.fr/","49.039365","-1.443180",,"SEL EN COUTANCAIS",,,,
-"","41.381787","2.165304",,"SEL DE BARCELONE",,,,
-"http://www.fisel.be","50.476594","4.100349",,"FISEL LE ROEULX ",,,,
-"","0.000000","0.000000",,"SEL EN VIE 84                                                    ",,,,
-"","43.645538","0.584656",,"SEL D'AUCH",,,,
-"http://fontaine.communityforge.net","45.588739","5.153234",,"SEL DE VILLEFONTAINE ET SES VOISINS",,,,
-"http://seldulac40.fr","43.724148","-1.051113",,"SEL DU LAC (40)",,,,
-"","45.479590","2.154244",,"SEL DE PUISAYE",,,,
-"","0.000000","0.000000",,"SEL SUR CORDES",,,,
-"","49.630047","2.284122",,"EN SELLE ECHANGES",,,,
-"http://selbulle.ch","0.000000","0.000000",,"SEL DE BULLE &amp; ALENTOURS",,,,
-"","0.000000","0.000000",,"MINES DE SEL",,,,
-"","0.000000","0.000000",,"SELISSOIRE",,,,
-"http://selgarrekin.com","43.424849","-1.569305",,"SELGARREKIN",,,,
-"http://lupactifs.over-blog.com","49.221577","2.419622",,"LUP'ACTIFS",,,,
-"http://sites.google.com/site/selsaintmartin","44.344504","4.603723",,"SEL DES GORGES DE L'ARDECHE",,,,
-"","47.330762","-1.555990",,"TROC AU SEL CHAPELAIN",,,,
-"","48.637701","7.444554",,"TOURNESEL (67)",,,,
-"http://asso.des.familles-monsite.com","47.286674","-1.190453",,"SEL LAURENTAIS",,,,
-"http://emansel.fr","48.590768","1.730876",,"EMANSEL",,,,
-"http://seldesecluses.fr","48.388016","2.806626",,"SEL DES ECLUSES",,,,
-"http://selduberange.wordpress.com ","43.713924","4.010855",,"SEL DU BERANGE",,,,
-"http://selbrece.no-ip.org","48.110388","-1.482637",,"SEL DE BRECE",,,,
-"http://sel-en-pevele.e-monsite.com","50.522847","3.113295",,"SEL EN PEVELE",,,,
-"","43.848140","0.130780",,"SEL DU GABARDAN",,,,
-"http://zepole.org","0.000000","0.000000",,"POT'SEL",,,,
-"","45.202271","5.838336",,"SEL AU FIL DE LAMBRE",,,,
-"","47.516936","-1.746555",,"SEL DU GAVRE",,,,
-"http://hb-sel.be/","0.000000","0.000000",,"HOU L'BEAU SEL",,,,
-"http://sel.flibuste.net","0.000000","0.000000",,"SEL VILLEFRANCHOIS",,,,
-"http://sel-fevesdulauragais.org","0.000000","0.000000",,"LES FEVES DU LAURAGAIS",,,,
-"","44.830665","-0.621794",,"SEL SUD OUEST SEL TERRE",,,,
-"http://selonnous.communityforge.net/","43.843408","5.039923",,"SELONS-NOUS",,,,
-"","48.837507","2.001553",,"HARMONIE SEL",,,,
-"http://selittre.be","0.000000","0.000000",,"SELITTRE LA FLEUR DE SEL",,,,
-"","0.000000","0.000000",,"SEL'ACTIF",,,,
-"","0.000000","0.000000",,"SEL SUD ESTUAIRE",,,,
-"","45.565269","6.666471",,"SEL TARENTAISE",,,,
-"http://selrise.com","0.000000","0.000000",,"SEL'RISE",,,,
-"","48.204858","3.016551",,"SEL DU BOCAGE DU GATINAIS",,,,
-"","46.996214","1.160667",,"FLEUR DE SEL EN CHATILLONNAIS",,,,
-"","0.000000","0.000000",,"SELANESTER",,,,
-"","48.628532","2.314442",,"SEL DU VAL D'ORGE",,,,
-"","0.000000","0.000000",,"SEL DU PAYS ROCHOIS",,,,
-"http://netoos.org/lochsel","0.000000","0.000000",,"LOCH SEL (56)",,,,
-"","50.481093","2.590308",,"SEL'IDEE",,,,
-"http://seldenoyal.fr","0.000000","0.000000",,"SEL DE NOYAL",,,,
-"","46.962304","4.643375",,"SEL DE CORMOT",,,,
-"http://entre-sel-et-terre.fr","0.000000","0.000000",,"ENTRE SEL ET TERRE 57",,,,
-"","47.975408","7.197690",,"RADISEL (68)",,,,
-"http://www.selsarine.ch","0.000000","0.000000",,"SEL SARINE (VILLE ET CAMPAGNE)",,,,
-"http://www.selvf.fr ","0.000000","0.000000",,"SEL VAL DE FONTENAY",,,,
-"","0.000000","0.000000",,"SEL DE L'ARMAGNAC",,,,
-"http://talensel.communityforge.net/","0.000000","0.000000",,"TALENSEL",,,,
-"","47.408473","-1.959814",,"ARC EN SEL de CAMPBON",,,,
-"http://selechange.org/public/fr","0.000000","0.000000",,"SEL'ECHANGE 71",,,,
-"http://csetain.org","49.213442","5.641210",,"ETAIN SEL (55)",,,,
-"http://espritdesel.over-blog.com","49.197656","-0.347471",,"ESPRIT DE SEL CAEN",,,,
-"","50.779762","3.125153",,"SELYS",,,,
-"","0.000000","0.000000",,"SEL DES GAYETTES",,,,
-"http://seldeladune.org","44.633517","-1.132731",,"SEL DE LA DUNE",,,,
-"","48.809977","2.391168",,"SEL D'IVRY",,,,
-"http:// poivreetselbm.free.fr","0.000000","0.000000",,"POIVRE ET SEL",,,,
-"","47.351809","-0.762418",,"BO'SEL  ",,,,
-"http://sel.athis.free.fr","48.707499","2.389168",,"SEL EN SEINE",,,,
-"","50.837048","4.415810",,"SELOUVERTURE",,,,
-"http://www.solidarsel.be","50.427329","3.740378",,"SOLIDARSEL",,,,
-"","44.261037","1.154496",,"SEL QUEGEMME",,,,
-"http://selduhautgiffre.communityforge.net","46.076000","6.694575",,"SEL DU HAUT GIFFRE",,,,
-"","50.465037","1.764404",,"SEL GRAINES DE SEL",,,,
-"http://valensel.org","44.922720","4.908712",,"VALENSEL",,,,
-"","45.771042","-0.057522",,"LA RICHESSE DU SEL",,,,
-"","44.114205","1.483329",,"SEL PAYS MIDI QUERCY",,,,
-"http://leseldesjalles.org","44.942333","-0.620417",,"SEL DES JALLES",,,,
-"http://bdtpamplona.org","42.819460","-1.643700",,"BANCO DEL TIEMPO DE PAMPLONA IRUNA",,,,
-"http://selermont.free.fr","48.989042","2.258457",,"SEL D'ERMONT",,,,
-"http://sites.google.com/site/ssancyel/home","45.557759","2.885851",,"S.SANCYEL",,,,
-"http://selardenne.be","0.000000","0.000000",,"SEL'ARDENNE",,,,
-"","47.139110","-2.198687",,"SEL DE JADE",,,,
-"","0.000000","0.000000",,"SEL DE LA MOLIERE",,,,
-"http://wasquehal-lien.fr","50.664909","3.106131",,"WASQUEHAL LIEN",,,,
-"","42.615831","2.758070",,"SEL DES ASPRES",,,,
-"","46.245494","0.667833",,"FARSEL",,,,
-"http://leseldemaubeuge.over-blog.com/","50.310689","3.994508",,"SEL DE MAUBEUGE",,,,
-"","50.613811","3.042360",,"SEL DES FAUBOURGS",,,,
-"","46.123850","6.605890",,"SEL DE LA VALLEE DU GIFFRE",,,,
-"","43.958544","2.857824",,"SEL SAINT AFFRICAIN",,,,
-"http://saliere-de-romilly.e-monsite.com","48.519324","3.725111",,"SALIERE DE ROMILLY SUR SEINE",,,,
-"http://www.lamaille.fr","48.864808","2.292869",,"SEL WWF FRANCE",,,,
-"http://www.leprunier.blogspot.fr","44.472464","2.203993",,"LE PRUNIER",,,,
-"","47.439552","-1.500919",,"SEL DE CHATEAUBRIAND",,,,
-"","47.194931","-0.277082",,"TROGLO'SEL",,,,
-"http://bankwremeni.wordpress.com","0.000000","0.000000",,"BANK WREMENI",,,,
-"http://selethik.org/","43.242593","5.393168",,"SEL'ETHIK ",,,,
-"","43.418178","5.211009",,"SEL DE MARIGNANE",,,,
-"http://ecorelaisdeletoile.over-blog.fr","43.414552","5.593239",,"SEL DE L'ETOILE",,,,
-"","45.970395","4.333037",,"SEL DES SAPINS",,,,
-"","47.852487","-4.270087",,"7&Atilde;&uml;me SEL DE L'ODET",,,,
-"http://www.nouka.fr","0.000000","0.000000",,"SEL NOU KA",,,,
-"","46.804448","0.580155",,"SEL DE CHATELLERAULT &quot;LE MANU&quot;",,,,
-"","-25.462010","-49.289220",,"BRASEL (Br&Atilde;&copy;sil)",,,,
-"http://www.selbonheur.be","50.717977","4.699286",,"SEL'BONHEUR (BELGIQUE)",,,,
-"http://selaviegaume.be","49.587191","5.586295",,"SELAVIE GAUME (BE)",,,,
-"","45.041073","1.747383",,"MOSAIQUE",,,,
-"http://www.selogazion.org","50.423207","5.021139",,"SEL'OGAZION",,,,
-"http://selofan.be","0.000000","0.000000",,"SELOFAN",,,,
-"","46.263751","-0.807216",,"LA PIGOUILLE",,,,
-"http://monbeausel.org","44.865166","4.945480",,"MONBEAUSEL",,,,
-"http://selsudsaintebaume.fr","43.195375","5.798840",,"SEL SUD SAINTE BAUME",,,,
-"http://bdtsalamanca.org","0.000000","0.000000",,"BANCO DEL TIEMPO DE SALAMANCA",,,,
-"http://sel-saintchamond.communityforge.net/","0.000000","0.000000",,"SEL DE ST CHAMOND",,,,
-"http://niversel.communityforge.net","46.983792","3.152421",,"NIVER SEL",,,,
-"http://ramisel.be","0.000000","0.000000",,"RAMISEL",,,,
-"","49.922597","4.193168",,"SEL DE THIERACHE",,,,
-"http://fr.groups.yahoo.com/group/PhaSELia/","46.964511","-1.580804",,"PHASELIA",,,,
-"","49.090050","-0.639536",,"SEL DE L'ODON",,,,
-"http://sel2mers.infini.fr","48.397804","-4.484288",,"SEL2MERS (29)",,,,
-"http://st-jean.sel-ondaine.org","45.450276","4.433337",,"SEL DE SAINT JEAN",,,,
-"http://www.reunisel.com","-20.946162","55.654130",,"REUNISEL",,,,
-"http://www.selserein.be","0.000000","0.000000",,"SEL SEREIN",,,,
-"http://www.monselhamois.be","0.000000","0.000000",,"MonSelHamois",,,,
-"http://sites.google.com/site/selbbh/home","51.051858","2.526616",,"A TRAVERS SEL",,,,
-"","48.771557","7.586863",,"EVOLUSEL",,,,
-"","45.201053","6.670859",,"SEL EN TERRA MODANA",,,,
-"","0.000000","0.000000",,"SEL BEGIJNENDIJK ",,,,
-"http://sel.lespetitsboutons.fr","48.684817","2.111134",,"SEL DU PAYS DE LIMOURS &quot;LES PETITS BOUTONS&quot;",,,,
-"http://charasel.blogspot.fr","47.192808","3.067710",,"CHARASEL",,,,
-"","48.362747","-1.185282",,"SEL DU PAYS DE FOUGERES",,,,
-"","44.374184","1.192911",,"SEL DES CABANES",,,,
-"http://selcrocmais.e-monsite.com","43.548157","-1.113320",,"SEL CROC MAIS",,,,
-"","43.782779","4.872809",,"REMYSEL",,,,
-"","0.000000","0.000000",,"SEL A VIE (SOMME)",,,,
-"","0.000000","0.000000",,"GWENN SEL",,,,
-"https://etchangeons16.wordpress.com/","45.647878","0.143344",,"ET CHANGEONS 16",,,,
-"","45.379937","2.268661",,"UNISOVERT",,,,
-"http://sel-de-la-saye.jimdo.com","45.305814","-0.935190",,"SEL DE LA SAYE",,,,
-"http://seldeslauzes.communityforge.net","45.725412","5.275230",,"SEL DES LAUZES",,,,
-"http://www.seldugobanais.webou.net","49.597661","3.378740",,"SEL DU GOBANAIS",,,,
-"http://www.noppes.nl","52.363844","4.870895",,"SEL NOPPES",,,,
-"http://valensel.org","44.845518","4.748452",,"ARBRE A SEL (07)",,,,
-"","49.177038","1.159148",,"CROQU'EN SEL (27)",,,,
-"","46.031981","6.104918",,"SEL DU PAYS DE CRUSEILLES",,,,
-"","46.132838","6.141905",,"ECHANGES IN",,,,
-"http://www.saintmacaireenmauges.fr/","47.112045","-1.036851",,"SEL MAUGES",,,,
-"","46.170577","0.272938",,"L'ALIGIER",,,,
-"","44.892804","-0.729688",,"SEL DE SAINT MEDARD EN JALLES",,,,
-"","46.152982","2.501747",,"SEL D'AY ET PROJET",,,,
-"","43.827949","1.723837",,"SEL LES RAISINS",,,,
-"http://sel-thonon-alpnet.fr","46.340224","6.520186",,"SEL THONON LEMAN",,,,
-"http://www.nivanet.org/asso/","50.515259","2.106274",,"RADISEL (62)",,,,
-"","48.519207","-2.765272",,"SEL BRIOCHIN",,,,
-"","47.098300","-1.497255",,"LE BIGN'EN SEL",,,,
-"http://letseindhoven.nl","52.132633","5.291266",,"LETS EINDHOVEN",,,,
-"","45.652703","4.992794",,"MIONSEL",,,,
-"http://banchetempo-flash.it","0.000000","0.000000",,"BANCA DEL TEMPO MILANO NIGUARDA",,,,
-"http://lejardindepoissy.org/","48.929801","2.044000",,"LE GRENIER A SEL (Poissy 78)",,,,
-"http://WWW.LETSNIJMEGEN.NL","51.829802","5.870648",,"LETS NIJMEGEN  'DE ZONNETJES'",,,,
-"http://unisverssel.fr","0.000000","0.000000",,"UNI VERS SEL (47)",,,,
-"http://selentraide.org","47.180889","-1.588557",,"SEL'ENTRAIDE DE BOUGUENAIS ",,,,
-"","45.464899","6.117223",,"LE SELPERLIPOPETTE",,,,
-"","43.775568","7.505942",,"SEL DU CITRON",,,,
-"http://estunsel.fr","48.445648","-1.738278",,"ESTUNSEL (35)",,,,
-"","48.965699","-1.073645",,"ENTRE SEL ET TERRE (50)",,,,
-"http://sel.marche.be","0.000000","0.000000",,"MARCH'SEL",,,,
-"","45.821878","-1.108313",,"MARENN'SEL (17)",,,,
-"","47.409308","6.887538",,"UNIS VERS SEL SEL D'ABBEVILLERS",,,,
-"http://tauschring-muenstertal-staufen.de","0.000000","0.000000",,"TAUSCHRING BAD KROZINGEN",,,,
-"","44.561107","1.346925",,"TROC LOT",,,,
-"http://leselrit.jimdo.com","43.927696","4.945307",,"LE SEL RIT (84)",,,,
-"","49.653558","3.791877",,"SEL DU MARAIS DE LA SOUCHE",,,,
-"http://selmillau.org","44.099521","3.084660",,"SEL DE MILLAU",,,,
-"","49.564224","3.621066",,"SEL DE LAON",,,,
-"","45.744501","5.670189",,"ET AIN SEL (01)",,,,
-"","49.820641","1.778778",,"SEL DE BEAUCAMPS LE VIEUX",,,,
-"http://vallons.communityforge.net","47.947098","-1.815737",,"SEL DES VALLONS",,,,
-"","0.000000","0.000000",,"SEL'OURS",,,,
-"http://www.seldejargeau.sitew.fr","47.833075","2.120864",,"SEL DE JARGEAU",,,,
-"","45.833837","3.422639",,"GRAINES DE SEL (63)",,,,
-"http://seldubredenarde.fr","50.892634","2.128644",,"SEL DU BREDENARDE",,,,
-"http://amicaledusel.over-blog.com","44.862152","-0.558556",,"AMICALE DU SEL",,,,
-"","47.859090","-2.130570",,"SEL DE GUER",,,,
-"","50.944829","2.192932",,"SEL DE LA CHICOREE",,,,
-"","0.000000","0.000000",,"LES GRAINES DE L'OSTREVENT",,,,
-"http://.lelien-lislois.fr/les_associations/sel_des_sorgues.html","43.926246","5.080692",,"SEL DES SORGUES",,,,
-"http://selvos.free.fr","49.112299","2.218079",,"SELVOS SEL DE LA VALLEE DE L'OISE ET DU SAUSSERON",,,,
-"http://www.enlien.ch","46.530867","6.617880",,"LOUSONNA INTERSEL",,,,
-"http://bdtvigo.es/","0.000000","0.000000",,"BANCO DO TEMPO VIGO",,,,
-"","45.932719","-0.962998",,"SEL DES ARTISTES, R&Atilde;ŠVEURS, NAVIGATEURS ET VOYAGEURS DU BOUT DU MONDE",,,,
-"","44.703094","5.018246",,"LE SEL DE CREST",,,,
-"","0.000000","0.000000",,"BANCA DEL TEMPO CUCCAGNA",,,,
-"http://www.brin2selgif.fr/","48.680366","2.103698",,"BRIN DE SEL",,,,
-"http://www.letsroeselare.be","0.000000","0.000000",,"LETS ROESELARE (BELGI&Atilde;‹)",,,,
-"","49.100444","0.585196",,"SEL DE BERNAY CHARENTONNE",,,,
-"http://letsvlaanderen.be","0.000000","0.000000",,"LETSAALTER",,,,
-"http://memo.communityforge.net","45.758499","4.875143",,"MEMO (MOBILISATION POUR DES ECHANGES MULTIPLES ET OUVERTS)",,,,
-"http://seldelagondoire.org","48.854569","2.739478",,"SEL DE LA GONDOIRE",,,,
-"","44.598167","4.377070",,"AUBENASEL",,,,
-"","43.318032","1.965552",,"CASTEL SEL",,,,
-"","47.186215","5.990339",,"SELIV 25",,,,
-"http://montselrouge.org/","48.815789","2.307890",,"MONTSELROUGE",,,,
-"","44.829917","-0.519463",,"TROC O SEL (33)",,,,
-"","0.000000","0.000000",,"RADI'SEL (55)",,,,
-"","48.574017","1.048114",,"SEL DE SENONCHES",,,,
-"http://oudenaarde.letst.be/","0.000000","0.000000",,"LETS REGIO OUDENAARDE",,,,
-"","46.901224","6.362022",,"HAUT DOUBS SEL",,,,
-"","44.111010","0.819126",,"ECHANGES EN BRULHOIS",,,,
-"","48.701768","2.463455",,"SEL DU VAL D'YERRES",,,,
-"","50.617047","2.465415",,"SEL DE LA LYS ROMANE",,,,
-"http://letsturnhout.tk/","51.334234","4.958706",,"LETS TURNHOUT",,,,
-"http://seldesomme.be","50.298635","5.327281",,"SEL DE SOMME (BELGIQUE)",,,,
-"","50.254105","4.442068",,"SELAWATTS SEL DE WALCOURT",,,,
-"http://tahitiselavenir.wordpress.com","0.000000","0.000000",,"POLYSEL TAHITI SEL'AVENIR",,,,
-"http://www.sel-evere.be","50.869873","4.396401",,"SEL EVERE",,,,
-"http://www.ruilkringschagen.nl","0.000000","0.000000",,"SEL RUILKRINGSCHAGEN",,,,
-"","50.970211","2.430786",,"LE P&Atilde;‚TE A SEL",,,,
-"http://orleans.communityforge.net","47.901789","1.865415",,"SEL ASSOCIATION TEMPOBANK",,,,
-"http://www.letsmol.be ","0.000000","0.000000",,"LETS MOL",,,,
-"http://www.sel-fm.ch","0.000000","0.000000",,"SEL FRANCHES MONTAGNES",,,,
-"http://lets.clearwater.com.au/","0.000000","0.000000",,"TABLELANDS LETS",,,,
-"http://sites.google.com/site/selzeceux/","48.488318","2.170260",,"SELZECEUX",,,,
-"http://letsvlaanderen.be/Groepen/Limburg/Limburg/","50.952294","5.242026",,"LETS LIMBURG",,,,
-"http://LETSLEIE.BE","50.819278","3.284908",,"LETS LEIE",,,,
-"http://lespritdesel.be","0.000000","0.000000",,"ESPRIT DE SEL (Belgique)",,,,
-"","44.839135","-0.686794",,"SEL ESCALE",,,,
-"","0.000000","0.000000",,"SEL HUY",,,,
-"http://seldicietdailleurs.communityforge.net","44.395530","0.813160",,"SEL D'ICI ET D'AILLEURS",,,,
-"http://asso-quercysel-le-quesnoy.blogspot.fr/","0.000000","0.000000",,"QUERCYSEL",,,,
-"","49.043138","2.126982",,"SEL de CERGY",,,,
-"","0.000000","0.000000",,"TERSEL",,,,
-"http://seldemer.net","49.538033","0.186254",,"SEL DE MER (76)",,,,
-"","47.361488","0.718479",,"SELAVIE 37",,,,
-"http://selcastillon.free.fr    (site en construction)","43.804436","7.470594",,"SEL DE CASTILLON ET DE L'ARRIERE PAYS MENTONNAIS ",,,,
-"","45.246048","0.789568",,"SEL DU PERIGORD CENTRAL",,,,
-"http://forumcitoyen.net/SEL","48.632722","-2.990930",,"SEL LEFF AR MOR",,,,
-"","47.180860","-1.526976",,"SEL DE SEVRE",,,,
-"http://selansois.be","50.660987","5.496202",,"SELANSOIS",,,,
-"http://sellaveu.be","50.629740","5.553657",,"SEL LAVEU",,,,
-"http://selenjoue.org","47.339380","0.663026",,"SELENJOUE",,,,
-"http://www.letssint-niklaas.be","51.113829","4.154395",,"LETS SINT NIKLAAS",,,,
-"http://www.dinasel.net/","50.261051","4.907072",,"SEL DINASEL",,,,
-"http://www.seldesgrandslacs.fr","44.386446","-1.163212",,"SEL DES GRANDS LACS",,,,
-"","46.210501","4.177338",,"SEL DU HAUT FOREZ",,,,
-"http://sel-services.be","50.770080","4.344428",,"SEL SERVICES LINKEBEEK",,,,
-"http://WWW.AMAYENTRANSITION.BE","50.539335","5.293465",,"AMAY EN TRANSITION",,,,
-"http://tauschring-muenstertal-staufen.de","47.879500","7.734180",,"TAUSCHRING MUNSTERTAL-STAUFEN",,,,
-"","49.901351","5.385097",,"SEL CHEVIGNY",,,,
-"http://forestdesel.be","50.802398","4.340670",,"FOREST DE SEL",,,,
-"","45.670293","6.357697",,"SELAVOIE",,,,
-"","48.878422","2.487122",,"SEL LA VIE 93",,,,
-"http://seldes3roses.fr","45.189430","5.716541",,"SEL DES 3 ROSES",,,,
-"","44.479117","4.238932",,"SELAJOIE 07",,,,
-"http://www.tousensel.com","48.948503","2.133077",,"TOUS EN SEL 78",,,,
-"http://www.seldechateau-thierry.fr","49.052917","3.367425",,"LE CHATEAU DE SEL",,,,
-"http://selduverdon-jimdo.com","43.815061","6.642121",,"SEL DU VERDON",,,,
-"http://seldelamballe.fr-bb.com","48.511784","-2.494212",,"SEL DU PAYS DE LAMBALLE",,,,
-"http://sel-aywaille.org","50.473180","5.675840",,"SEL AYWAILLE",,,,
-"","50.335054","5.434562",,"DURBUY SEL",,,,
-"http://selliffrechange.jimdo.com/","48.215239","-1.502759",,"LIFFR'ECHANGE",,,,
-"http://monssel.be","50.439817","4.011172",,"MONSSEL",,,,
-"http://www.unyversel.ch","46.788003","6.638461",,"UNYVERSEL SEL d'YVERDON",,,,
-"","43.526810","-0.361109",,"SEL'APT",,,,
-"","48.526226","-1.699342",,"SEL TERRE DES 2 MARAIS",,,,
-"http://SOURI.COMMUNITYFORGE.NET/","47.748367","7.405031",,"SOURI'SEL",,,,
-"http://selfleurdeseine.communityforge.net","48.480504","2.695902",,"SEL FLEUR DE SEINE",,,,
-"http://selcomblain.be","50.492179","5.564990",,"SEL COMBLAIN",,,,
-"http://selcentre2607.seliweb.net","44.703094","5.018246",,"LA TOURASEL",,,,
-"","48.943941","2.037413",,"SEL LES GENS DU PARTAGE",,,,
-"http://justesel-mettet.be","50.279128","4.749801",,"LE JUSTE SEL de METTET",,,,
-"http://selidher.1s.fr","47.004442","-2.245783",,"SELIDHER",,,,
-"","48.257515","-1.801278",,"SELGOUET",,,,
-"http://www.mjclorraine.com/","48.689646","6.173720",,"CABOSSEL",,,,
-"","48.215526","4.118853",,"HOZAIN SEL",,,,
-"","47.219825","-1.551130",,"NANTES EN SEL",,,,
-"http://seldesbiotherapeutes.org/","45.991011","-1.020776",,"SEL DES BIO THERAPEUTES",,,,
-"","48.415817","0.827566",,"SEL DES COLLINES PERCHERONNES",,,,
-"","47.658629","-2.994657",,"SEL DU PAYS D'AURAY",,,,
-"","50.649140","2.876930",,"COEUR DE SEL",,,,
-"","44.594988","4.459379",,"BA&Atilde;LA SEL",,,,
-"http://selalabonneheure.fr","44.583873","5.940971",,"SEL A LA BONNE HEURE",,,,
-"http://www.soigiessel.be","50.554855","4.041448",,"SOIGNIES SEL",,,,
-"http://vertcheznous.blogspot.fr","42.644635","2.341887",,"SEL DE LA SOURIS VERTE",,,,
-"","46.421719","-0.211670",,"SEL RIT 79",,,,
-"http://seletpoivre58.canalblog.com","46.821858","3.759313",,"SEL ET POIVRE",,,,
-"http://selunivers.be/","44.395530","0.813160",,"SEL UNIVERS",,,,
-"http://ourthsel.be","44.395530","0.813160",,"OURTH'SEL",,,,
-"","48.424973","-2.342353",,"SEL DE L'ARGUENON",,,,
-"http://selmureth.communityforge.net","43.457454","1.269848",,"SEL MURETH",,,,
-"http://mortuasel.communityforge.net","47.055572","6.598875",,"MORTUASEL SEL DE MORTEAU (25)",,,,
-"http://selmontredonnais@communityforge.net","43.709897","2.322162",,"SEL MONTREDONNAIS",,,,
-"","46.334993","3.271542",,"SEL EN PAYS SAINT POURCINOIS",,,,
-"http://selteplait.be","50.862361","4.306275",,"SEL TE PLAIT",,,,
-"","49.926421","1.093692",,"SELAVIE (PAYS DIEPPOIS)",,,,
-"http://seldetrets.blog.free.fr","43.449705","5.689345",,"LA MINE SEL DE TRETS",,,,
-"http://selesneux.be/home","50.568670","5.580854",,"SELESNEUX",,,,
-"http://selomans.fr","47.987685","0.162510",,"SELOMANS",,,,
-"","47.145885","-0.130878",,"SEL DES AMMONITES",,,,
-"","45.997602","4.710826",,"SEL BEAUJOLAIS VAL DE SA&Atilde;”NE",,,,
-"","47.608454","1.317628",,"LOIRE ET SEL BLOIS",,,,
-"http://letsbeveren.vsbnet.be","51.179658","4.239755",,"LETS BEVEREN",,,,
-"http://croquausel.fr","45.946150","4.594162",,"SEL DES PIERRES DOREES",,,,
-"http://marisel.fr","47.534659","5.047567",,"MARISEL",,,,
-"","45.427090","4.587387",,"SEL DORLAY",,,,
-"http://archidusel.be","50.788157","4.418007",,"ARCHIDUSEL",,,,
-"http://www.seldelacotesaintandre.fr","45.395339","5.268903",,"SEL DE LA COTE SAINT ANDRE",,,,
-"http://selarden.communityforge.net/","49.739530","4.747444",,"SEL'ARDEN 08",,,,
-"http://la-filature.ch/index.php/vie-associative/sel-des-3-vallons","46.654073","6.504777",,"SEL DES 3 VALLONS",,,,
-"","44.813063","-0.475062",,"LE SEL DES ECOPAINS",,,,
-"","45.711964","4.938697",,"SEL SAN PRI",,,,
-"http://seldebeaurepaire.fr","45.339215","5.058015",,"SEL DE BEAUREPAIRE",,,,
-"http://moineetsel.blogspot.fr","47.112045","-1.036851",,"MOINE ET SEL",,,,
-"http://gedisel.be","49.977764","4.884626",,"GEDISEL",,,,
-"http://unisverselpaysdebazellecommunityforge.net/","47.182077","1.704778",,"UNIS VERS SEL en PAYS de BAZELLE",,,,
-"","46.659910","-1.430622",,"SEL'YON",,,,
-"","50.826912","4.395973",,"SEL AUDERGHEM",,,,
-"http://selcholetais.blogspot.com","47.045196","-0.880697",,"FI'SEL SEL DE CHOLET",,,,
-"http://marsel.communityforge.net","43.298189","5.381694",,"MARSEL",,,,
-"http://seldelaa.hol.es","50.684225","2.228176",,"SEL DE L'AA",,,,
-"http://www.sel-alternative.org","48.769184","1.537379",,"SEL'ALTERNATIVE",,,,
-"","44.677195","0.402699",,"SEL DES BASTIDES",,,,
-"","48.453968","-0.011430",,"SEL ARTHON",,,,
-"http://etinsel.communityforge.fr","48.754264","1.942139",,"L'ETINSEL (78)",,,,
-"","46.363120","3.614165",,"SEL EST ALLIER",,,,
-"http://arcensel.wordpress.com","47.425026","-1.006679",,"ARC EN SEL LIGERIEN",,,,
-"","47.366263","-1.188437",,"ANCENI'SEL",,,,
-"http://abrayliens.communityforge.net/home","47.912995","1.965411",,"SEL ABRAYLIENS",,,,
-"http://sel-delemont.communityforge.net","47.368519","7.348361",,"SEL REGION DELEMONT",,,,
-"","46.113299","-0.252874",,"SEL D'ICI (79)",,,,
-"http://sites.google.com/site/seldeversailles/home","48.791099","2.146616",,"SEL DE VERSAILLES",,,,
-"http://seljaime.communityforge.net","43.608596","1.420683",,"SEL J'AIME",,,,
-"http://seldenacre.communityforge.net","49.317805","-0.355780",,"SEL COEUR DE NACRE",,,,
-"","45.312860","5.199584",,"SEL DES CHAMBARANS",,,,
-"","0.000000","0.000000",,"SEL DU CIRON",,,,
-"","50.767461","2.546833",,"SELAVIE 59",,,,
-"","45.328390","3.856924",,"SEL DU PLATEAU DE CRAPONNE",,,,
-"","50.425216","1.912637",,"SEL DE LA CANCHE",,,,
-"http://legrenierasel.seliweb.net/public/fr/index.php","43.813430","4.089991",,"LE GRENIER A SEL",,,,
-"","45.320023","1.313665",,"TROCSEL 19",,,,
-"http://selpowaimes.be","50.411744","6.101489",,"SELPOWAIMES",,,,
-"http://selcastelmoissac.wordpress.com","44.102843","1.089592",,"SEL CASTEL MOISSAC",,,,
-"http://seldeclermont.free.fr","45.795064","3.117231",,"SEL DE CLERMONT FERRAND",,,,
-"http://seldelaconfluence.fr","48.997465","2.074278",,"SEL DE LA CONFLUENCE",,,,
-"","43.393370","-0.915205",,"SEL DE LA LEGENDE 64",,,,
-"http://unis-vers-sel.net","0.000000","0.000000",,"UNIS VERS SEL HESBAYE BRABANCONNE ASLB",,,,
-"https://enlien.ch","46.109187","7.466052",,"SEL D'HERENS",,,,
-"http://seltitude.fr","47.347491","-1.284338",,"SELTITUDE",,,,
-"","43.652846","5.258863",,"LA BOITE A SEL",,,,
-"http://fi-sel.communityforge.net","44.685397","-0.365596",,"FI SEL 33",,,,
-"","0.000000","0.000000",,"SEL DE SETE ET DU BASSIN DE THAU",,,,
-"","0.000000","0.000000",,"SEL TOTOUT'ARTS",,,,
-"http://www.asso-reciprocite.fr/","0.000000","0.000000",,"SEL ENTRAIDE ET RECIPROCITE",,,,
-"","48.292154","4.055651",,"SEL DES VIENNES",,,,
-"http://seldecarbonne.fr","0.000000","0.000000",,"SEL DE CARBONNE",,,,
-"http://suresnesensel.org","0.000000","0.000000",,"SURESNES EN SEL",,,,
-"http://galiote.communityforge.net","0.000000","0.000000",,"SEL LA GALIOTE",,,,
-"","43.755858","-1.328495",,"SEL DE L'OCEAN",,,,
-"http://begles.org","44.801424","-0.562348",,"BEGLESEL",,,,
-"HTTP://seldesathonay.fr","0.000000","0.000000",,"SEL DE SATHONAY",,,,
-"http://lecub2.wixsite.com/accueil","0.000000","0.000000",,"SEL LE CUB",,,,
-"","43.596915","7.069723",,"SEL DES 100 BOULES",,,,
-"http://decisel.fr","45.764223","4.957413",,"DECI'SEL",,,,
-"http://falaisel.org","0.000000","0.000000",,"FALAI'SEL",,,,
+"url", "latitude", "longitude", "WKT", "title"
+"","44.200417","-1.228009",,"SEL Route des SEL"
+"","43.725563","7.254752",,"SEL 06 NICE BAIE DES ANGES"
+"http://trokeztout.canalblog.com  ","48.488242","1.337106",,"SEL 28"
+"http://selracan37.fr","47.498240","0.685423",,"SEL 37 RACAN CHOISILLE"
+"","44.228132","0.431373",,"SEL 47 TERRE"
+"","42.616954","2.928322",,"SEL 66"
+"http://7sel.free.fr","48.987202","2.187902",,"LE 7e SEL"
+"http://sel.93.centre.free.fr","48.902475","2.479597",,"SEL 93 CENTRE"
+"http://sel99.free.fr","48.010980","3.972518",,"SEL 99 (10+89)"
+"","48.303215","-0.622496",,"AGITA'SEL"
+"http://selamienois.free.fr/","49.870684","2.310090",,"SEL AMIENOIS"
+"","46.937022","5.877943",,"SEL AMITIE SALINS"
+"http://selangevin.fr","47.457059","-0.544204",,"SEL ANGEVIN"
+"","43.132142","5.887844",,"ARC EN SEL (VAR)"
+"http://selargoat.selidaire.org","0.000000","0.000000",,"SEL DE L'ARGOAT"
+"","44.363565","5.140806",,"SEL QUI PEUT"
+"","","",,"SEL AU TEMPS DU SEL"
+"","43.561860","6.439689",,"SEL'AVENIR DRAGUIGNAN(83)"
+"","46.556006","3.051684",,"B.O.I.S."
+"","0.000000","0.000000",,"BANCA DEL TEMPO MILANO CENTRO STORICO"
+"","50.635815","3.098706",,"BARASEL"
+"","46.238609","2.387820",,"SEL BEC"
+"","44.967011","1.812332",,"SEL BELLOCOIS"
+"http://www.boutsdefisel.be","50.633501","3.788273",,"BOUTS DE FISEL"
+"http://sel01.hautetfort.com","46.209525","5.231916",,"SEL BRESSAN"
+"","47.744324","7.331209",,"BRETSEL"
+"","50.850000","4.350000",,"BRUSEL"
+"","","",,"SEL BUSSIERES"
+"","45.538499","4.868286",,"SEL CAFEUILLIERE"
+"","45.719686","4.799937",,"SEL CAILLOULLIN"
+"http://selcalade.communityforge.net","45.991471","4.718821",,"SEL CALADE"
+"","43.307822","-0.354849",,"SEL CAMIN SALIER"
+"http://carcassel.blog50.fr","43.218385","2.351753",,"CARCAS'SEL"
+"","44.896812","1.501501",,"SEL SOUILLAGAIS"
+"","46.409048","1.821443",,"CARROUSEL (23)"
+"","43.414041","5.227957",,"SEL COEUR D'HERAULT"
+"http://chartresensel.forumserv.com","48.441894","1.511077",,"CHARTRES EN SEL"
+"","0.000000","0.000000",,"SEL CHAUMONT GISTOUX"
+"","50.652073","3.041929",,"CAP'SEL"
+"http://ciotatsel.free.fr","43.210756","5.624767",,"CIOTATSEL"
+"http://cirosel.be","0.000000","0.000000",,"CIROSEL (BELGIQUE)"
+"http://clefdesel17.free.fr","45.932830","-0.963384",,"CLEF DE SEL"
+"","46.518338","4.597210",,"SEL CLUNISOIS"
+"http://selcocagne.org/","0.000000","0.000000",,"SEL COCAGNE"
+"","0.000000","0.000000",,"C.E.P. (CONVIVIALITE ECHANGE PARTAGE)"
+"http://selcoupdepouce.be","50.582347","4.531059",,"SEL COUP D'POUCE"
+"","","",,"COURNONSEL"
+"","","",,"SEL COUSERANS"
+"","48.817542","2.378028",,"SEL CRIC"
+"http://cristauxdesel.free.fr","49.007379","2.387981",,"CRISTAUX DE SEL"
+"http://crocosel.org/spip/","43.663327","5.347199",,"CROCOSEL"
+"","43.384999","2.839036",,"LE SEL D'ABORD"
+"http://terredadeles.org/wiki/","44.799637","-0.673825",,"SEL D'ADELES"
+"https://sites.google.com/site/leselalbi/","43.932963","2.154847",,"SEL D'ALBI"
+"","45.898506","6.111567",,"SEL D'ANNECY ET SA REGION"
+"http://enselsaintlo.jimdo.com","49.104482","-1.083907",,"EN SEL DE SAINT LO"
+"","48.286402","4.079971",,"SEL DE 3"
+"","46.280381","2.885157",,"SEL DE BEAUNE D'ALLIER"
+"","","",,"SEL DE BEAUVAIS"
+"http://besansel.free.fr","0.000000","0.000000",,"SEL DE BESANCON"
+"","43.227919","0.049887",,"SEL DE BIGORRE"
+"http://seldebillom.voila.fr","45.721557","3.367729",,"SEL DE BILLOM"
+"","45.637692","5.298404",,"SEL DE BOURGOIN JALLIEU"
+"http://selchaponost.fr","45.714322","4.750182",,"SEL'AVIE (69)"
+"http://www.selbroceliande.fr","0.000000","0.000000",,"SEL DE BROCELIANDE"
+"","49.747949","0.373054",,"SEL DE CAUX"
+"","49.030067","2.082705",,"SEL DE CERGY PONTOISE"
+"","48.804689","2.289387",,"SEL DE CHATILLON"
+"http://sel-de-clamart.org","48.799770","2.267841",,"SEL DE CLAMART"
+"","47.905287","-3.914716",,"LES ECHANGEURS DE MENHIRS"
+"http://seldecreteil.e-monsite.com","48.788664","2.466515",,"SEL DE CRETEIL"
+"","48.287047","-4.461252",,"SEL DE CROZON"
+"","47.478419","-0.563166",,"SEL DE DENEE"
+"http://selentramis.communityforge.net","0.000000","0.000000",,"SEL ENTR'AMIS"
+"http://dijon.communityforge.net","47.323799","5.038615",,"LE SELLIER DU DIJONNAIS"
+"","45.188501","5.737538",,"SEL DE GRENOBLE"
+"","43.901816","1.896506",,"GAILLA'SEL"
+"","48.570432","-1.791936",,"ATOUT SEL (35)"
+"","43.759093","0.311122",,"SEL DE JEGUN"
+"","48.928372","2.190948",,"SEL DE LA BOUCLE DE LA SEINE"
+"http://leseldelabruche.seliweb.net","0.000000","0.000000",,"SEL DE LA BRUCHE"
+"","43.147764","6.073127",,"SEL DE LA CRAU"
+"http://selhautil.unblog.fr","49.050413","2.099804",,"SEL DE LA FORET DE L'HAUTIL"
+"","43.448353","3.751958",,"SEL DE LA GARDIOLE"
+"","","",,"SEL DE LA GARRIGUE"
+"","48.678939","-1.868587",,"SEL DU PAYS DE CANCALE"
+"","43.607077","3.866058",,"SEL DE LA MER"
+"","46.364218","-0.109917",,"SEL DE LA MOTHE ST HERAY"
+"http://seldespignes.org","43.955825","6.893658",,"SEL DES PIGNES (DE LA MOYENNE VALLEE DU VAR)"
+"","","",,"SEL DE LA NAVETTE DE TOURCOING"
+"http://seldelaterre11.over-blog.com","43.052465","2.221688",,"SEL DE LA TERRE (11)"
+"","48.776930","0.342738",,"SEL DE LA TOUQUES"
+"","46.780289","-1.466117",,"SEL DE LA VALLEE DE LA VIE"
+"","48.749439","2.480369",,"SEL DU PLATEAU BRIARD"
+"","","",,"SEL DE LA VALLEE DU COULAZOU"
+"","43.499794","5.926147",,"SEL DE L'ARGENS"
+"","43.292180","5.569336",,"SEL DE L'HUVEAUNE"
+"http://www.seldeloire.org","47.393212","0.704568",,"SEL DE LOIRE"
+"http://laclaiedechanges-sel-villeneuve.e-monsite.com","44.197374","0.842116",,"LA CLAIE D'ECHANGES SEL VILLENEUVOIS "
+"http://seletjeu.org","46.648097","5.225542",,"SEL DE SEILLE"
+"http://sel.lyon.rivegauche.free.fr/","45.753583","4.845772",,"SEL LYON RIVE GAUCHE"
+"http://sellyonsursaone.wordpress.com/","45.761113","4.826071",,"SEL DE LYON SUR SA&Atilde;”NE"
+"http://malaksel.org","48.817275","2.297760",,"MALAK'SEL"
+"http://www.seldemars.org/","43.298378","5.381106",,"SEL DE MARS"
+"","","",,"SEL DE MAURES ESTEREL"
+"","43.613127","3.828112",,"SEL DE MONTPELLIER"
+"","48.074390","-1.839567",,"SEL DE MORDELLES"
+"","48.267733","2.698395",,"SEL DE NEMOURS"
+"http://seldenoiseau.org","48.774991","2.543187",,"SEL DE NOISEAU"
+"http://seldepaname.org","48.831841","2.295860",,"SEL DE PANAME"
+"http://seldeparis.org","48.873549","2.390983",,"SEL DE PARIS"
+"http://sel-du-neflier.blogspot.fr","44.573140","2.246619",,"LE NEFLIER SEL DU BASSIN DECAZEVILLOIS"
+"","49.272810","4.012185",,"SEL DE REIMS"
+"http:// ","49.354883","0.514299",,"SEL DE RISLE"
+"","51.165691","10.451526",,"TAUSCHBORSE ROSENHEIM"
+"","45.373255","4.811172",,"SEL DE ROUSSILLON"
+"http://selrueil92.unblog.fr/","48.887390","2.170271",,"SEL DE RUEIL 92"
+"http://sel-de-saone.blogspot.fr/p/accueil.html","46.780764","4.853947",,"SEL DE SA&Atilde;”NE"
+"http://seldeseine.eu","49.405844","1.096025",,"SEL DE SEINE"
+"","44.194599","5.942981",,"SEL DES 3 RIVIERES DE SISTERON (04)"
+"http://sel-strasbourg.org","48.578915","7.754231",,"SEL DE STRASBOURG"
+"http://seldepoitiers.net","46.595350","0.343290",,"LE CHABIS SEL DE POITIERS"
+"http://seldevilaine.jimdo.com","47.650397","-2.086035",,"SEL DE VILAINE (35)"
+"","48.792716","2.359279",,"SEL DE VILLEJUIF"
+"http://seldevizille.fr","45.081536","5.770329",,"SEL DE VIZILLE"
+"","","",,"SEL DECLIC"
+"","44.003485","4.925958",,"SEL D'ENTRAIGUES SUR LA SORGUE"
+"","48.287677","6.970562",,"DEOSEL"
+"","47.877397","-3.554513",,"SEL DES 3 RIVIERES"
+"http://www.sel7collines.fr","45.430262","4.424888",,"SEL DES 7 COLLINES DE SAINT&Atilde;‰"
+"","43.722615","7.117373",,"SEL DES BAOUS"
+"","","",,"SEL DES BARONNIES"
+"","51.046002","2.357928",,"SEL DES FLANDRES"
+"","","",,"SEL DES GENETS LODEVOIS"
+"","46.156871","3.082620",,"SEL DES GORGES DE LA SIOULE"
+"","44.028941","5.975404",,"CARREFOUR DU SEL"
+"http://selmontsdulyonnais.free.fr","45.592313","4.316916",,"SEL DES MONTS DU LYONNAIS"
+"","","",,"SEL DES OLONNES"
+"","","",,"SEL DES PIGNONS"
+"","","",,"SEL DES PO"
+"","43.691018","3.117756",,"SEL DES HAUTS CANTONS "
+"http://seldesrives.ch/","46.849977","6.719715",,"SEL DES RIVES"
+"","50.798289","2.283541",,"SEL DES SAULES"
+"","55.378051","-3.435973",,"SEL HEMPLETS UK"
+"http://dionyssel.communityforge.net","48.934160","2.356402",,"DIONYSSEL"
+"","","",,"SEL D'ISSY LES MOULINEAUX"
+"","","",,"SEL DORE"
+"","47.245186","-1.582750",,"SEL D'ORVAULT &quot;LES ROUSINETTES&quot;"
+"http://selduconflent.pagesperso-orange.fr","42.614716","2.449271",,"SEL DU CONFLENT"
+"","47.633986","-1.812188",,"SEL DU DON"
+"","48.884613","2.311355",,"SEL DU FAUBOURG"
+"","45.498029","4.256085",,"SEL DES BORDS DE LOIRE"
+"","46.156902","6.269638",,"SEL DU GENEVOIS"
+"","","",,"SEL DU GOELO"
+"http://netoos.org/selgolfe","47.661706","-2.757462",,"SEL DU GOLFE DU MORBIHAN"
+"","49.476996","0.163948",,"SEL DU HAVRE"
+"http://seldulac.ch","46.204302","6.106168",,"SEL DU LAC SUISSE"
+"","48.566317","-4.324639",,"SEL DU LEON ET DES ABERS"
+"","46.861533","0.813279",,"SILEX AND SEL (37)"
+"http://seldumaine.fr","48.015780","0.160927",,"SEL DU MAINE"
+"","48.990374","1.715710",,"SEL DU MANTOIS"
+"","44.568027","-0.115294",,"SEL DU MASCARET"
+"","43.286728","2.965631",,"SEL DU MINERVOIS"
+"http://www.loiret-sel.fr/","47.684624","2.630211",,"LOIRET SEL"
+"","","",,"SEL DU PAYS D'AUGE"
+"","44.860645","1.364530",,"SEL DU PAYS DE FENELON"
+"http://seldupaysdeguingamp.blogspot.com","48.555790","-3.061645",,"SEL DU PAYS DE GUINGAMP"
+"http://sel-des-deux-rives.org","45.043595","5.035169",,"SEL DES DEUX RIVES"
+"","45.153957","5.323012",,"SEL DU SUD GRESIVAUDAN"
+"","48.124746","-1.215430",,"SEL DU PAYS DE VITRE"
+"http://seldesvans07.sitew.com","44.404688","4.131917",,"SEL DU PAYS DES VANS"
+"","48.217723","3.922426",,"SEL DU PAYS D'OTHE"
+"","","",,"SEL DU PAYS FOYEN"
+"","48.427760","0.771693",,"SEL DU PERCHE"
+"","43.194413","-0.605292",,"SEL DU PIEMONT OLORONAIS"
+"","43.738874","4.170670",,"DU SEL ET DES NEFLES"
+"http://selsenonais.jimdo.com","48.198657","3.273152",,"SEL DU SENONAIS"
+"","43.283647","3.278297",,"SEL DU SUD BITERROIS"
+"","48.684036","-3.623220",,"SEL DU TREGOR"
+"","44.899725","5.611004",,"SEL DU TRIEVES"
+"","45.261671","5.489309",,"SEL DU VOIRONNAIS"
+"","45.946522","-0.525930",,"SELDY"
+"","","",,"SEL D'YONNE"
+"","46.931874","5.878137",,"L'ECHANGE SEL AMITIE"
+"","45.038202","3.884348",,"ECHO DU VELAY"
+"","44.320796","4.945480",,"SEL'EIL VALREAS (84/26)"
+"http:// ","48.455070","-4.254862",,"SEL ELORN"
+"","43.695092","5.507340",,"SEL EN DURANCE"
+"","43.523013","5.253467",,"SEL EN PROVENCE"
+"http://selensemble.org","43.955694","4.869697",,"SEL ENSEMBLE AVIGNON ET ENVIRONS"
+"","","",,"SEL ENTRE DEUX SEL"
+"","47.533520","-1.241950",,"SEL ERDRE ET LOIRE"
+"","43.444815","3.755999",,"ESPRIT DE SEL DE FRONTIGNAN"
+"","48.860431","2.436948",,"SEL EST DE MONTREUIL"
+"","","",,"SEL EST DE PARIS"
+"","","",,"SEL ETOILES DE SEL"
+"","44.652607","1.963467",,"SEL FIGEACOIS"
+"","47.987605","-4.097302",,"FLEUR DE BLE NOIR"
+"","47.278068","-2.206358",,"FLEUR DE SEL (44)"
+"http://www.saintes-fleur-de-sel.fr/","45.744175","-0.633389",,"FLEUR DE SEL'SAINTES (17)"
+"","43.351525","1.471716",,"LES FLEURS DE PASTEL"
+"","","",,"SEL FRACASSIEN 84"
+"","44.735269","4.599039",,"FRIC'ASSEZ PRIVAS"
+"http://gabare.communityforge.net","44.800197","-0.624384",,"SEL GABARE"
+"","","",,"SEL GARRIGUES"
+"http://grain2sel.net","48.819677","1.571399",,"GRAIN DE SEL DES PAYS DROUAIS ET HOUDANAIS"
+"http://selibourne.over-blog.com","44.912998","-0.243985",,"GRAINS DE SABLE DE LIBOURNE"
+"","47.156161","2.341660",,"GRAINS DE SEL DE SAINT LAURENT"
+"http://selduroannais.com","46.026984","4.091696",,"GRAINS DE SEL DU ROANNAIS"
+"http://grattesel.free.fr","45.760103","4.880731",,"GRATTESEL"
+"http://beaugensel.fr","47.778021","1.631356",,"GRENIER A SEL DE BEAUGENCY"
+"http://www.seldecaen.com","49.179159","-0.351915",,"GUILLAUME SEL"
+"","46.991343","4.513435",,"ISO SEL 129"
+"","48.744736","2.301814",,"SEL LA BIEVRE"
+"","43.652234","5.258174",,"BOITE A SEL"
+"http://accorderie.ca/mercier-hochelaga-m/","45.558957","-73.535832",,"ACCORDERIE DE MERCIER HOCHELAGA MAISONNEUVE"
+"","48.786837","2.298335",,"SEL LA CLAIRE FONTAINE"
+"","41.643114","13.347178",,"LA POMPE BOURBONNAISE"
+"","50.653682","3.446861",,"SEL LA RAWETTE DE TOURNAI"
+"","43.941588","-0.446748",,"SEL LANDAIS"
+"","44.148991","4.082787",,"L'ARBRE CEVENOL"
+"http://lesel-larochelle.hautetfort.com","46.166235","-1.134443",,"L'ARBRE (LA ROCHELLE)"
+"http://sel-vascq.communityforge.net/home","50.623504","3.129227",,"L'ARBRE (VILLENEUVE D'ASCQ)"
+"http://lebeausel.fr","44.057729","5.061817",,"LE BEAUSEL"
+"http://lecarousel.be","50.379229","4.385964",,"SEL LE CAROUSEL (BELGIQUE)"
+"","48.818391","2.377459",,"SEL CIEL"
+"","45.262172","1.816416",,"SEL DES'CROISSANT"
+"http://reel.communityforge.net","43.298189","5.381694",,"REEL (13)"
+"","","",,"LE SEL BAUGEOIS"
+"","","",,"SEL L'ECLIPSE"
+"","","",,"SEL LES ARTS DANS LA CHAUSSURE (ADC)"
+"http://www.tygraindesel.org","47.317487","-2.076454",,"TY GRAIN DE SEL"
+"http://selidaritesnantaises.org/rigolettes/","47.229363","-1.532104",,"SEL LES RIGOLETTES DE NANTES"
+"http://letsbrugge.be/","51.220810","3.224837",,"SEL BRUGES"
+"http://letsgent.be","51.053863","3.762653",,"SEL LETS GENT VZW"
+"","43.613927","1.088090",,"SEL LISLOIS"
+"","47.679102","6.491278",,"LUROSEL"
+"","43.445412","3.760987",,"SELIBAT"
+"","48.631915","-1.981577",,"SEL MALOUIN"
+"http://tauschring-markgraeflerland.de","51.165691","10.451526",,"TAUSHRING SULZBACHTAL"
+"","43.774385","7.189769",,"SEL MEDITERRANEE"
+"","45.721762","-1.104726",,"SEL NACRE ET SEL"
+"http://selnantais.org","47.221745","-1.556605",,"SEL NANTAIS"
+"","43.636180","7.056252",,"SEL NATURE, SCIENCE ET TRADITIONS"
+"","43.706449","7.292265",,"SEL NICE AZUR PROVENCE"
+"","43.848630","4.346718",,"NIMESEL"
+"http://selniortais.free.fr","46.315560","-0.478001",,"SEL NIORTAIS"
+"","45.284226","6.326793",,"LE PETIT RAMONEUR SEL DE MAURIENNE"
+"http://assoinspiration.org/bulles/","48.700022","2.188165",,"SEL ORSAY"
+"http://selovillois.free.fr","48.923901","2.183892",,"SEL OVILLOIS ET VOISINS"
+"http://seldebourges.org","47.066501","2.387213",,"PAS SEUL EN SEL"
+"","48.108709","7.198589",,"POTOSEL SEL DU CENTRE ALSACE"
+"","45.420781","4.657464",,"LE PELUSSEL"
+"","45.545498","1.052283",,"SEL PERIGORD LIMOUSIN"
+"","44.854998","0.484398",,"SEL DU PERIGORD POURPRE"
+"http://plougasel.infini.fr","48.379330","-4.369208",,"PLOUGA'SEL"
+"","","",,"SEL PLUM D'ADOUR"
+"","45.528236","-0.519061",,"PONSEL"
+"","48.616950","0.661189",,"SEL DES FORETS"
+"","49.907501","2.315020",,"POTES EN SEL"
+"http://sel2salies.canalblog.com","43.498948","-0.962952",,"SANS SOU NI SOUCIS SEL DE SALIES DE BEARN"
+"http://provensel.org","43.639297","5.108011",,"PROVENSEL"
+"","43.088226","1.873725",,"SEL PYRENEEN"
+"http://radisel.org","44.751375","5.370776",,"RADISEL DU DIOIS"
+"","42.698684","2.895872",,"SEL REEL (66)"
+"","47.953663","3.971264",,"SEL REVES"
+"http://rijsel.org","50.613810","3.042360",,"RIJSEL"
+"http://selritlaval.free.fr","48.067894","-0.764641",,"SEL'RIT (53)"
+"http://sites.google.com/site/selrizmontpellier/","43.604728","3.901175",,"SELRIZ (34)"
+"","48.057924","-1.791666",,"SEL'ECHANGE DE CHAVAGNE"
+"http://royansel.com","45.628057","-1.028636",,"ROYANSEL"
+"","45.276455","1.761882",,"SEL SANS ARGENT T'AS TROC"
+"","45.678803","4.700643",,"SEL SANS SOUCI"
+"","44.115826","4.052883",,"SEL'ALES"
+"","43.445632","3.760893",,"SELAROUTE"
+"","50.852644","4.388691",,"SELAVIE SCHAERBEEK (BE)"
+"http://seleri.be","50.711754","4.535954",,"SELERI (BELGIQUE)"
+"http://seldarcy.super-h.fr","47.603253","3.774687",,"SEL D'ARCY SUR CURE 89"
+"","44.291374","4.152503",,"SELIBRE"
+"http://selimar.org","44.561982","4.752956",,"SELIMAR"
+"http://seloir.jimdo.com","45.949039","-0.891471",,"SELOIR"
+"","48.082680","-4.319670",,"SELRIS (29)"
+"","48.781028","2.057842",,"SELSERVICE 78"
+"","","",,"SEL SELSQY"
+"","43.905603","1.687194",,"SELVAGNAC"
+"http://episel.communityforge.net/","48.193731","6.459218",,"EPISEL"
+"","46.222556","-0.143487",,"SEL SUD DEUX SEVRES"
+"","45.087932","-0.580039",,"SEL HAUTE GIRONDE"
+"","47.461887","6.664663",,"SEL NORD DOUBS"
+"http://www.talent.ch/","47.387958","8.044136",,"TALENT SCHWEIZ"
+"http://talent-experiment.de","47.992282","7.854181",,"TALENT TAUSCHRING FREIBURG"
+"http://tauschring-heilbronn.de/","49.137427","9.213497",,"TAUSCHRING HEILBRONN"
+"","","",,"SEL TOULON 3000"
+"http://sel-touraine.fr","47.404813","0.599971",,"SEL TOURAINE"
+"","46.717041","2.507381",,"TOURNESEL (18)"
+"","48.122473","-1.713409",,"SEL TOURNESOL"
+"","","",,"SEL TRICAS'SEL"
+"","","",,"SEL TROC EN SEL"
+"","45.339990","-0.418621",,"TROC &Atilde;” SEL (17)"
+"","43.959933","5.780712",,"TROC OLIVES"
+"http://trocselcastres.fr","43.634782","2.243349",,"TROC SEL DE CASTRES"
+"http://breizisel.infini.fr/","48.401220","-4.492127",,"BREIZ I SEL (BREST)"
+"","45.884020","-1.205015",,"UNE ILE VERS SEL"
+"http://universel11.lescigales.org","43.183506","3.028518",,"UNIS VERS SEL (11)"
+"","48.882767","2.176930",,"UNIS VERS SEL (92)"
+"http://seldegap.com","44.559638","6.079758",,"LA BELLE SEL DE GAP"
+"http://seldebriancon.communityforge.net/","44.889818","6.634426",,"SEL DE BRIANCON"
+"","44.213362","5.698618",,"SEL EOURRES"
+"http://SELTEST.BIDON.COM","46.323716","-0.464777",,"SEL TEST SOUCHE"
+"http://www.seldeclamecy.org/","47.464365","3.502497",,"SEL DE CLAMECY"
+"http://seldille.org","48.326622","-1.687455",,"SELDILLE DE MONTREUIL SUR ILLE 35"
+"","47.216673","-0.727526",,"SEL CAMOMILLE"
+"http://selarizeleze.communityforge.net/","43.146507","1.424143",,"SEL ARIZE LEZE"
+"http://www.sel-la-chaux-de-fonds.ch","47.108135","6.829043",,"SEL DE LA CHAUX DE FONDS"
+"http://www.vivantsel.org","44.919651","4.900821",,"VIVANTSEL"
+"","46.092386","3.380172",,"SEL SUD ALLIER"
+"https://sel-waterloo.be","50.703534","4.374733",,"SEL WATERLOO"
+"","48.847082","-1.573691",,"SEL'IN"
+"http://netoos.org/selymen/","47.625693","-2.407927",,"SELYMEN"
+"","46.666521","4.290375",,"SEL'ESSENTIEL"
+"","43.765194","1.990495",,"SEL A VIE (TARN)"
+"http://universel87.free.fr","45.938083","1.458358",,"UNIVERSEL 87"
+"","48.852310","2.427552",,"SEL'AVENTURE DU BAS MONTREUIL"
+"","","",,"SEL VAUCLUSIEN"
+"","","",,"SEL VIVARAIS PILAT"
+"","-40.900557","174.885971",,"SEL WESTWIND"
+"http://www.sel-vaudrusien.ch","47.067851","6.934364",,"SEL VAUDRUSIEN"
+"","45.639736","4.130040",,"SEL DU FOREZ"
+"","45.542321","0.632311",,"SEL DES CHANTERELLES"
+"","46.208669","-1.099443",,"ECHO SEL"
+"","47.914541","-4.257814",,"BIGOUD'SEL"
+"http://www.intersel.ch","46.190446","6.143286",,"INTERSEL.CH"
+"http://tauschring-freising.de","48.538833","11.806421",,"LETS TAUSCHRING FREISING"
+"http://terrasalva.communityforge.net","45.006737","1.612347",,"SEL TERRA SALVA"
+"http://univers-sel.be","49.883827","5.184357",,"UNIVERSEL DE BERTRIX PALISEUL "
+"http://sel-bourbon-lancy.fr/","46.619241","3.773050",,"SEL'LANCY ET ALENTOURS"
+"","43.897714","4.212204",,"SEL EN GARDONNENQUE"
+"http://sel-ondaine.org","45.400646","4.210581",,"SEL DE L'ONDAINE"
+"","50.477922","4.838090",,"CAP'SEL NAMUROIS"
+"http://legaletdubuech.fr","44.315087","5.821689",,"LE GALET DU BUECH"
+"","45.423432","9.100672",,"BANCA DEL TEMPO E DEI SAPERI BUCCINASCO"
+"http://sel-lipsheim.org","48.493267","7.662645",,"SEL DE LIPSHEIM"
+"","43.532598","2.857401",,"SEL WAGABOND"
+"","45.558033","5.523521",,"SEL DES VALS DU DAUPHINE"
+"http://www.letstiel.nl","51.890535","5.433571",,"LETS TIEL"
+"","47.930647","5.466322",,"SEL SUD 52"
+"http://sel.dinan.free.fr","48.440613","-2.045312",,"SEL DU PAYS DE DINAN"
+"","43.493790","-1.553891",,"AGORA SEL COTE BASQUE"
+"http://macasel.be","50.693471","4.627837",,"MACASEL"
+"http://sel-croixrousse.org","45.773851","4.835806",,"SEL CROIX ROUSSE (69)"
+"http://bosseldeloire.communityforge.net","47.390224","0.060872",,"BOSSEL DE LOIRE"
+"","48.556885","2.591108",,"SEL'AVENIR (CESSON 77)"
+"http://seldelaria.fr","47.767163","-3.251584",,"SEL DE LA RIA D'ETEL"
+"http://www.clesdesel.be","50.550799","4.721073",,"CLES DE SEL (BELGIQUE)"
+"http://selaudonien.asso.st","48.904048","2.326541",,"SEL AUDONIEN (SAINT OUEN)"
+"http://patatedouce.org","48.620457","2.443608",,"PATATE DOUCE SEL D'EVRY"
+"http://selvallespir.free.fr/","42.509256","2.708329",,"SEL DU VALLESPIR"
+"","41.164842","1.133376",,"BANCO DEL TIEMPO DE REUS"
+"http://seldegresigne.jimdo.com/","44.183093","1.346925",,"SEL DE GRESIGNE"
+"http://chambesel.wahost.org","45.560000","5.926355",,"CHAMBESEL"
+"http://seldeleognan.wordpress.com/","44.725577","-0.598583",,"SEL DE LEOGNAN"
+"http://selencoutancais.over-blog.fr/","49.039365","-1.443180",,"SEL EN COUTANCAIS"
+"","41.381787","2.165304",,"SEL DE BARCELONE"
+"http://www.fisel.be","50.476594","4.100349",,"FISEL LE ROEULX"       "
+"","43.645538","0.584656",,"SEL D'AUCH"
+"http://fontaine.communityforge.net","45.588739","5.153234",,"SEL DE VILLEFONTAINE ET SES VOISINS"
+"http://seldulac40.fr","43.724148","-1.051113",,"SEL DU LAC (40)"
+"","45.479590","2.154244",,"SEL DE PUISAYE"
+"","49.630047","2.284122",,"EN SELLE ECHANGES"
+"http://selgarrekin.com","43.424849","-1.569305",,"SELGARREKIN"
+"http://lupactifs.over-blog.com","49.221577","2.419622",,"LUP'ACTIFS"
+"http://sites.google.com/site/selsaintmartin","44.344504","4.603723",,"SEL DES GORGES DE L'ARDECHE"
+"","47.330762","-1.555990",,"TROC AU SEL CHAPELAIN"
+"","48.637701","7.444554",,"TOURNESEL (67)"
+"http://asso.des.familles-monsite.com","47.286674","-1.190453",,"SEL LAURENTAIS"
+"http://emansel.fr","48.590768","1.730876",,"EMANSEL"
+"http://seldesecluses.fr","48.388016","2.806626",,"SEL DES ECLUSES"
+"http://selduberange.wordpress.com ","43.713924","4.010855",,"SEL DU BERANGE"
+"http://selbrece.no-ip.org","48.110388","-1.482637",,"SEL DE BRECE"
+"http://sel-en-pevele.e-monsite.com","50.522847","3.113295",,"SEL EN PEVELE"
+"","43.848140","0.130780",,"SEL DU GABARDAN"
+"","45.202271","5.838336",,"SEL AU FIL DE LAMBRE"
+"","47.516936","-1.746555",,"SEL DU GAVRE"
+"","44.830665","-0.621794",,"SEL SUD OUEST SEL TERRE"
+"http://selonnous.communityforge.net/","43.843408","5.039923",,"SELONS-NOUS"
+"","48.837507","2.001553",,"HARMONIE SEL"
+"","45.565269","6.666471",,"SEL TARENTAISE"
+"","48.204858","3.016551",,"SEL DU BOCAGE DU GATINAIS"
+"","46.996214","1.160667",,"FLEUR DE SEL EN CHATILLONNAIS"
+"","48.628532","2.314442",,"SEL DU VAL D'ORGE"
+"","50.481093","2.590308",,"SEL'IDEE"
+"","46.962304","4.643375",,"SEL DE CORMOT"
+"","47.975408","7.197690",,"RADISEL (68)"
+"","47.408473","-1.959814",,"ARC EN SEL de CAMPBON"
+"http://csetain.org","49.213442","5.641210",,"ETAIN SEL (55)"
+"http://espritdesel.over-blog.com","49.197656","-0.347471",,"ESPRIT DE SEL CAEN"
+"","50.779762","3.125153",,"SELYS"
+"http://seldeladune.org","44.633517","-1.132731",,"SEL DE LA DUNE"
+"","48.809977","2.391168",,"SEL D'IVRY"
+"","47.351809","-0.762418",,"BO'SEL  "
+"http://sel.athis.free.fr","48.707499","2.389168",,"SEL EN SEINE"
+"","50.837048","4.415810",,"SELOUVERTURE"
+"http://www.solidarsel.be","50.427329","3.740378",,"SOLIDARSEL"
+"","44.261037","1.154496",,"SEL QUEGEMME"
+"http://selduhautgiffre.communityforge.net","46.076000","6.694575",,"SEL DU HAUT GIFFRE"
+"","50.465037","1.764404",,"SEL GRAINES DE SEL"
+"http://valensel.org","44.922720","4.908712",,"VALENSEL"
+"","45.771042","-0.057522",,"LA RICHESSE DU SEL"
+"","44.114205","1.483329",,"SEL PAYS MIDI QUERCY"
+"http://leseldesjalles.org","44.942333","-0.620417",,"SEL DES JALLES"
+"http://bdtpamplona.org","42.819460","-1.643700",,"BANCO DEL TIEMPO DE PAMPLONA IRUNA"
+"http://selermont.free.fr","48.989042","2.258457",,"SEL D'ERMONT"
+"http://sites.google.com/site/ssancyel/home","45.557759","2.885851",,"S.SANCYEL"
+"","47.139110","-2.198687",,"SEL DE JADE"
+"http://wasquehal-lien.fr","50.664909","3.106131",,"WASQUEHAL LIEN"
+"","42.615831","2.758070",,"SEL DES ASPRES"
+"","46.245494","0.667833",,"FARSEL"
+"http://leseldemaubeuge.over-blog.com/","50.310689","3.994508",,"SEL DE MAUBEUGE"
+"","50.613811","3.042360",,"SEL DES FAUBOURGS"
+"","46.123850","6.605890",,"SEL DE LA VALLEE DU GIFFRE"
+"","43.958544","2.857824",,"SEL SAINT AFFRICAIN"
+"http://saliere-de-romilly.e-monsite.com","48.519324","3.725111",,"SALIERE DE ROMILLY SUR SEINE"
+"http://www.lamaille.fr","48.864808","2.292869",,"SEL WWF FRANCE"
+"http://www.leprunier.blogspot.fr","44.472464","2.203993",,"LE PRUNIER"
+"","47.439552","-1.500919",,"SEL DE CHATEAUBRIAND"
+"","47.194931","-0.277082",,"TROGLO'SEL"
+"http://selethik.org/","43.242593","5.393168",,"SEL'ETHIK "
+"","43.418178","5.211009",,"SEL DE MARIGNANE"
+"http://ecorelaisdeletoile.over-blog.fr","43.414552","5.593239",,"SEL DE L'ETOILE"
+"","45.970395","4.333037",,"SEL DES SAPINS"
+"","47.852487","-4.270087",,"7&Atilde;&uml;me SEL DE L'ODET"
+"","46.804448","0.580155",,"SEL DE CHATELLERAULT &quot;LE MANU&quot;"
+"","-25.462010","-49.289220",,"BRASEL (Br&Atilde;&copy;sil)"
+"http://www.selbonheur.be","50.717977","4.699286",,"SEL'BONHEUR (BELGIQUE)"
+"http://selaviegaume.be","49.587191","5.586295",,"SELAVIE GAUME (BE)"
+"","45.041073","1.747383",,"MOSAIQUE"
+"http://www.selogazion.org","50.423207","5.021139",,"SEL'OGAZION"
+"","46.263751","-0.807216",,"LA PIGOUILLE"
+"http://monbeausel.org","44.865166","4.945480",,"MONBEAUSEL"
+"http://selsudsaintebaume.fr","43.195375","5.798840",,"SEL SUD SAINTE BAUME"
+"http://niversel.communityforge.net","46.983792","3.152421",,"NIVER SEL"
+"","49.922597","4.193168",,"SEL DE THIERACHE"
+"http://fr.groups.yahoo.com/group/PhaSELia/","46.964511","-1.580804",,"PHASELIA"
+"","49.090050","-0.639536",,"SEL DE L'ODON"
+"http://sel2mers.infini.fr","48.397804","-4.484288",,"SEL2MERS (29)"
+"http://st-jean.sel-ondaine.org","45.450276","4.433337",,"SEL DE SAINT JEAN"
+"http://www.reunisel.com","-20.946162","55.654130",,"REUNISEL"
+"http://sites.google.com/site/selbbh/home","51.051858","2.526616",,"A TRAVERS SEL"
+"","48.771557","7.586863",,"EVOLUSEL"
+"","45.201053","6.670859",,"SEL EN TERRA MODANA"
+"http://sel.lespetitsboutons.fr","48.684817","2.111134",,"SEL DU PAYS DE LIMOURS &quot;LES PETITS BOUTONS&quot;"
+"http://charasel.blogspot.fr","47.192808","3.067710",,"CHARASEL"
+"","48.362747","-1.185282",,"SEL DU PAYS DE FOUGERES"
+"","44.374184","1.192911",,"SEL DES CABANES"
+"http://selcrocmais.e-monsite.com","43.548157","-1.113320",,"SEL CROC MAIS"
+"","43.782779","4.872809",,"REMYSEL"
+"https://etchangeons16.wordpress.com/","45.647878","0.143344",,"ET CHANGEONS 16"
+"","45.379937","2.268661",,"UNISOVERT"
+"http://sel-de-la-saye.jimdo.com","45.305814","-0.935190",,"SEL DE LA SAYE"
+"http://seldeslauzes.communityforge.net","45.725412","5.275230",,"SEL DES LAUZES"
+"http://www.seldugobanais.webou.net","49.597661","3.378740",,"SEL DU GOBANAIS"
+"http://www.noppes.nl","52.363844","4.870895",,"SEL NOPPES"
+"http://valensel.org","44.845518","4.748452",,"ARBRE A SEL (07)"
+"","49.177038","1.159148",,"CROQU'EN SEL (27)"
+"","46.031981","6.104918",,"SEL DU PAYS DE CRUSEILLES"
+"","46.132838","6.141905",,"ECHANGES IN"
+"http://www.saintmacaireenmauges.fr/","47.112045","-1.036851",,"SEL MAUGES"
+"","46.170577","0.272938",,"L'ALIGIER"
+"","44.892804","-0.729688",,"SEL DE SAINT MEDARD EN JALLES"
+"","46.152982","2.501747",,"SEL D'AY ET PROJET"
+"","43.827949","1.723837",,"SEL LES RAISINS"
+"http://sel-thonon-alpnet.fr","46.340224","6.520186",,"SEL THONON LEMAN"
+"http://www.nivanet.org/asso/","50.515259","2.106274",,"RADISEL (62)"
+"","48.519207","-2.765272",,"SEL BRIOCHIN"
+"","47.098300","-1.497255",,"LE BIGN'EN SEL"
+"http://letseindhoven.nl","52.132633","5.291266",,"LETS EINDHOVEN"
+"","45.652703","4.992794",,"MIONSEL"
+"http://lejardindepoissy.org/","48.929801","2.044000",,"LE GRENIER A SEL (Poissy 78)"
+"http://WWW.LETSNIJMEGEN.NL","51.829802","5.870648",,"LETS NIJMEGEN  'DE ZONNETJES'"
+"http://selentraide.org","47.180889","-1.588557",,"SEL'ENTRAIDE DE BOUGUENAIS "
+"","45.464899","6.117223",,"LE SELPERLIPOPETTE"
+"","43.775568","7.505942",,"SEL DU CITRON"
+"http://estunsel.fr","48.445648","-1.738278",,"ESTUNSEL (35)"
+"","48.965699","-1.073645",,"ENTRE SEL ET TERRE (50)"
+"","45.821878","-1.108313",,"MARENN'SEL (17)"
+"","47.409308","6.887538",,"UNIS VERS SEL SEL D'ABBEVILLERS"
+"","44.561107","1.346925",,"TROC LOT"
+"http://leselrit.jimdo.com","43.927696","4.945307",,"LE SEL RIT (84)"
+"","49.653558","3.791877",,"SEL DU MARAIS DE LA SOUCHE"
+"http://selmillau.org","44.099521","3.084660",,"SEL DE MILLAU"
+"","49.564224","3.621066",,"SEL DE LAON"
+"","45.744501","5.670189",,"ET AIN SEL (01)"
+"","49.820641","1.778778",,"SEL DE BEAUCAMPS LE VIEUX"
+"http://vallons.communityforge.net","47.947098","-1.815737",,"SEL DES VALLONS"
+"http://www.seldejargeau.sitew.fr","47.833075","2.120864",,"SEL DE JARGEAU"
+"","45.833837","3.422639",,"GRAINES DE SEL (63)"
+"http://seldubredenarde.fr","50.892634","2.128644",,"SEL DU BREDENARDE"
+"http://amicaledusel.over-blog.com","44.862152","-0.558556",,"AMICALE DU SEL"
+"","47.859090","-2.130570",,"SEL DE GUER"
+"","50.944829","2.192932",,"SEL DE LA CHICOREE"
+"http://.lelien-lislois.fr/les_associations/sel_des_sorgues.html","43.926246","5.080692",,"SEL DES SORGUES"
+"http://selvos.free.fr","49.112299","2.218079",,"SELVOS SEL DE LA VALLEE DE L'OISE ET DU SAUSSERON"
+"http://www.enlien.ch","46.530867","6.617880",,"LOUSONNA INTERSEL"
+"","45.932719","-0.962998",,"SEL DES ARTISTES, R&Atilde;ŠVEURS, NAVIGATEURS ET VOYAGEURS DU BOUT DU MONDE"
+"","44.703094","5.018246",,"LE SEL DE CREST"
+"http://www.brin2selgif.fr/","48.680366","2.103698",,"BRIN DE SEL"
+"","49.100444","0.585196",,"SEL DE BERNAY CHARENTONNE"
+"http://memo.communityforge.net","45.758499","4.875143",,"MEMO (MOBILISATION POUR DES ECHANGES MULTIPLES ET OUVERTS)"
+"http://seldelagondoire.org","48.854569","2.739478",,"SEL DE LA GONDOIRE"
+"","44.598167","4.377070",,"AUBENASEL"
+"","43.318032","1.965552",,"CASTEL SEL"
+"","47.186215","5.990339",,"SELIV 25"
+"http://montselrouge.org/","48.815789","2.307890",,"MONTSELROUGE"
+"","44.829917","-0.519463",,"TROC O SEL (33)"
+"","48.574017","1.048114",,"SEL DE SENONCHES"
+"","46.901224","6.362022",,"HAUT DOUBS SEL"
+"","44.111010","0.819126",,"ECHANGES EN BRULHOIS"
+"","48.701768","2.463455",,"SEL DU VAL D'YERRES"
+"","50.617047","2.465415",,"SEL DE LA LYS ROMANE"
+"http://letsturnhout.tk/","51.334234","4.958706",,"LETS TURNHOUT"
+"http://seldesomme.be","50.298635","5.327281",,"SEL DE SOMME (BELGIQUE)"
+"","50.254105","4.442068",,"SELAWATTS SEL DE WALCOURT"
+"http://www.sel-evere.be","50.869873","4.396401",,"SEL EVERE"
+"","50.970211","2.430786",,"LE P&Atilde;‚TE A SEL"
+"http://orleans.communityforge.net","47.901789","1.865415",,"SEL ASSOCIATION TEMPOBANK"
+"http://sites.google.com/site/selzeceux/","48.488318","2.170260",,"SELZECEUX"
+"http://letsvlaanderen.be/Groepen/Limburg/Limburg/","50.952294","5.242026",,"LETS LIMBURG"
+"http://LETSLEIE.BE","50.819278","3.284908",,"LETS LEIE"
+"","44.839135","-0.686794",,"SEL ESCALE"
+"http://seldicietdailleurs.communityforge.net","44.395530","0.813160",,"SEL D'ICI ET D'AILLEURS"
+"","49.043138","2.126982",,"SEL de CERGY"
+"http://seldemer.net","49.538033","0.186254",,"SEL DE MER (76)"
+"","47.361488","0.718479",,"SELAVIE 37"
+"http://selcastillon.free.fr    (site en construction)","43.804436","7.470594",,"SEL DE CASTILLON ET DE L'ARRIERE PAYS MENTONNAIS "
+"","45.246048","0.789568",,"SEL DU PERIGORD CENTRAL"
+"http://forumcitoyen.net/SEL","48.632722","-2.990930",,"SEL LEFF AR MOR"
+"","47.180860","-1.526976",,"SEL DE SEVRE"
+"http://selansois.be","50.660987","5.496202",,"SELANSOIS"
+"http://sellaveu.be","50.629740","5.553657",,"SEL LAVEU"
+"http://selenjoue.org","47.339380","0.663026",,"SELENJOUE"
+"http://www.letssint-niklaas.be","51.113829","4.154395",,"LETS SINT NIKLAAS"
+"http://www.dinasel.net/","50.261051","4.907072",,"SEL DINASEL"
+"http://www.seldesgrandslacs.fr","44.386446","-1.163212",,"SEL DES GRANDS LACS"
+"","46.210501","4.177338",,"SEL DU HAUT FOREZ"
+"http://sel-services.be","50.770080","4.344428",,"SEL SERVICES LINKEBEEK"
+"http://WWW.AMAYENTRANSITION.BE","50.539335","5.293465",,"AMAY EN TRANSITION"
+"http://tauschring-muenstertal-staufen.de","47.879500","7.734180",,"TAUSCHRING MUNSTERTAL-STAUFEN"
+"","49.901351","5.385097",,"SEL CHEVIGNY"
+"http://forestdesel.be","50.802398","4.340670",,"FOREST DE SEL"
+"","45.670293","6.357697",,"SELAVOIE"
+"","48.878422","2.487122",,"SEL LA VIE 93"
+"http://seldes3roses.fr","45.189430","5.716541",,"SEL DES 3 ROSES"
+"","44.479117","4.238932",,"SELAJOIE 07"
+"http://www.tousensel.com","48.948503","2.133077",,"TOUS EN SEL 78"
+"http://www.seldechateau-thierry.fr","49.052917","3.367425",,"LE CHATEAU DE SEL"
+"http://selduverdon-jimdo.com","43.815061","6.642121",,"SEL DU VERDON"
+"http://seldelamballe.fr-bb.com","48.511784","-2.494212",,"SEL DU PAYS DE LAMBALLE"
+"http://sel-aywaille.org","50.473180","5.675840",,"SEL AYWAILLE"
+"","50.335054","5.434562",,"DURBUY SEL"
+"http://selliffrechange.jimdo.com/","48.215239","-1.502759",,"LIFFR'ECHANGE"
+"http://monssel.be","50.439817","4.011172",,"MONSSEL"
+"http://www.unyversel.ch","46.788003","6.638461",,"UNYVERSEL SEL d'YVERDON"
+"","43.526810","-0.361109",,"SEL'APT"
+"","48.526226","-1.699342",,"SEL TERRE DES 2 MARAIS"
+"http://SOURI.COMMUNITYFORGE.NET/","47.748367","7.405031",,"SOURI'SEL"
+"http://selfleurdeseine.communityforge.net","48.480504","2.695902",,"SEL FLEUR DE SEINE"
+"http://selcomblain.be","50.492179","5.564990",,"SEL COMBLAIN"
+"http://selcentre2607.seliweb.net","44.703094","5.018246",,"LA TOURASEL"
+"","48.943941","2.037413",,"SEL LES GENS DU PARTAGE"
+"http://justesel-mettet.be","50.279128","4.749801",,"LE JUSTE SEL de METTET"
+"http://selidher.1s.fr","47.004442","-2.245783",,"SELIDHER"
+"","48.257515","-1.801278",,"SELGOUET"
+"http://www.mjclorraine.com/","48.689646","6.173720",,"CABOSSEL"
+"","48.215526","4.118853",,"HOZAIN SEL"
+"","47.219825","-1.551130",,"NANTES EN SEL"
+"http://seldesbiotherapeutes.org/","45.991011","-1.020776",,"SEL DES BIO THERAPEUTES"
+"","48.415817","0.827566",,"SEL DES COLLINES PERCHERONNES"
+"","47.658629","-2.994657",,"SEL DU PAYS D'AURAY"
+"","50.649140","2.876930",,"COEUR DE SEL"
+"","44.594988","4.459379",,"BA&Atilde;LA SEL"
+"http://selalabonneheure.fr","44.583873","5.940971",,"SEL A LA BONNE HEURE"
+"http://www.soigiessel.be","50.554855","4.041448",,"SOIGNIES SEL"
+"http://vertcheznous.blogspot.fr","42.644635","2.341887",,"SEL DE LA SOURIS VERTE"
+"","46.421719","-0.211670",,"SEL RIT 79"
+"http://seletpoivre58.canalblog.com","46.821858","3.759313",,"SEL ET POIVRE"
+"http://selunivers.be/","44.395530","0.813160",,"SEL UNIVERS"
+"http://ourthsel.be","44.395530","0.813160",,"OURTH'SEL"
+"","48.424973","-2.342353",,"SEL DE L'ARGUENON"
+"http://selmureth.communityforge.net","43.457454","1.269848",,"SEL MURETH"
+"http://mortuasel.communityforge.net","47.055572","6.598875",,"MORTUASEL SEL DE MORTEAU (25)"
+"http://selmontredonnais@communityforge.net","43.709897","2.322162",,"SEL MONTREDONNAIS"
+"","46.334993","3.271542",,"SEL EN PAYS SAINT POURCINOIS"
+"http://selteplait.be","50.862361","4.306275",,"SEL TE PLAIT"
+"","49.926421","1.093692",,"SELAVIE (PAYS DIEPPOIS)"
+"http://seldetrets.blog.free.fr","43.449705","5.689345",,"LA MINE SEL DE TRETS"
+"http://selesneux.be/home","50.568670","5.580854",,"SELESNEUX"
+"http://selomans.fr","47.987685","0.162510",,"SELOMANS"
+"","47.145885","-0.130878",,"SEL DES AMMONITES"
+"","45.997602","4.710826",,"SEL BEAUJOLAIS VAL DE SA&Atilde;”NE"
+"","47.608454","1.317628",,"LOIRE ET SEL BLOIS"
+"http://letsbeveren.vsbnet.be","51.179658","4.239755",,"LETS BEVEREN"
+"http://croquausel.fr","45.946150","4.594162",,"SEL DES PIERRES DOREES"
+"http://marisel.fr","47.534659","5.047567",,"MARISEL"
+"","45.427090","4.587387",,"SEL DORLAY"
+"http://archidusel.be","50.788157","4.418007",,"ARCHIDUSEL"
+"http://www.seldelacotesaintandre.fr","45.395339","5.268903",,"SEL DE LA COTE SAINT ANDRE"
+"http://selarden.communityforge.net/","49.739530","4.747444",,"SEL'ARDEN 08"
+"http://la-filature.ch/index.php/vie-associative/sel-des-3-vallons","46.654073","6.504777",,"SEL DES 3 VALLONS"
+"","44.813063","-0.475062",,"LE SEL DES ECOPAINS"
+"","45.711964","4.938697",,"SEL SAN PRI"
+"http://seldebeaurepaire.fr","45.339215","5.058015",,"SEL DE BEAUREPAIRE"
+"http://moineetsel.blogspot.fr","47.112045","-1.036851",,"MOINE ET SEL"
+"http://gedisel.be","49.977764","4.884626",,"GEDISEL"
+"http://unisverselpaysdebazellecommunityforge.net/","47.182077","1.704778",,"UNIS VERS SEL en PAYS de BAZELLE"
+"","46.659910","-1.430622",,"SEL'YON"
+"","50.826912","4.395973",,"SEL AUDERGHEM"
+"http://selcholetais.blogspot.com","47.045196","-0.880697",,"FI'SEL SEL DE CHOLET"
+"http://marsel.communityforge.net","43.298189","5.381694",,"MARSEL"
+"http://seldelaa.hol.es","50.684225","2.228176",,"SEL DE L'AA"
+"http://www.sel-alternative.org","48.769184","1.537379",,"SEL'ALTERNATIVE"
+"","44.677195","0.402699",,"SEL DES BASTIDES"
+"","48.453968","-0.011430",,"SEL ARTHON"
+"http://etinsel.communityforge.fr","48.754264","1.942139",,"L'ETINSEL (78)"
+"","46.363120","3.614165",,"SEL EST ALLIER"
+"http://arcensel.wordpress.com","47.425026","-1.006679",,"ARC EN SEL LIGERIEN"
+"","47.366263","-1.188437",,"ANCENI'SEL"
+"http://abrayliens.communityforge.net/home","47.912995","1.965411",,"SEL ABRAYLIENS"
+"http://sel-delemont.communityforge.net","47.368519","7.348361",,"SEL REGION DELEMONT"
+"","46.113299","-0.252874",,"SEL D'ICI (79)"
+"http://sites.google.com/site/seldeversailles/home","48.791099","2.146616",,"SEL DE VERSAILLES"
+"http://seljaime.communityforge.net","43.608596","1.420683",,"SEL J'AIME"
+"http://seldenacre.communityforge.net","49.317805","-0.355780",,"SEL COEUR DE NACRE"
+"","45.312860","5.199584",,"SEL DES CHAMBARANS"
+"","50.767461","2.546833",,"SELAVIE 59"
+"","45.328390","3.856924",,"SEL DU PLATEAU DE CRAPONNE"
+"","50.425216","1.912637",,"SEL DE LA CANCHE"
+"http://legrenierasel.seliweb.net/public/fr/index.php","43.813430","4.089991",,"LE GRENIER A SEL"
+"","45.320023","1.313665",,"TROCSEL 19"
+"http://selpowaimes.be","50.411744","6.101489",,"SELPOWAIMES"
+"http://selcastelmoissac.wordpress.com","44.102843","1.089592",,"SEL CASTEL MOISSAC"
+"http://seldeclermont.free.fr","45.795064","3.117231",,"SEL DE CLERMONT FERRAND"
+"http://seldelaconfluence.fr","48.997465","2.074278",,"SEL DE LA CONFLUENCE"
+"","43.393370","-0.915205",,"SEL DE LA LEGENDE 64"
+"https://enlien.ch","46.109187","7.466052",,"SEL D'HERENS"
+"http://seltitude.fr","47.347491","-1.284338",,"SELTITUDE"
+"","43.652846","5.258863",,"LA BOITE A SEL"
+"http://fi-sel.communityforge.net","44.685397","-0.365596",,"FI SEL 33"
+"","48.292154","4.055651",,"SEL DES VIENNES"
+"","43.755858","-1.328495",,"SEL DE L'OCEAN"
+"http://begles.org","44.801424","-0.562348",,"BEGLESEL"
+"","43.596915","7.069723",,"SEL DES 100 BOULES"
+"http://decisel.fr","45.764223","4.957413",,"DECI'SEL"
