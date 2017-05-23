@@ -61,10 +61,10 @@ Ensure the list is kept up to date either with cron or with caching strategy.
 Now your sites exist in a standard format, you can publish the geojson. Next you probably want to render these point on your own site. This can be done again with the help of mapbox.com and the access token you created above.
 
 ## 2 Render the geojson on your site.
-Add these to your `<header>`: 
-`<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
+Add these to your `<header>` tag: 
+```<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
 <link href="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css" rel="stylesheet" />
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />`
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />```
 Then this to your body:
 `<div id="map" style="width: 90%; height: 600px;"></div>`
 And AFTER that, in the body, this:
