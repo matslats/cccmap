@@ -61,7 +61,7 @@ Ensure the list is kept up to date either with cron or with caching strategy.
 Now your sites exist in a standard format, you can publish the geojson. Next you probably want to render these point on your own site. This can be done again with the help of mapbox.com and the access token you created above.
 
 ## 2 Render the geojson on your site.
-Add these to your `<header>`:  
+Add these to your `<header>`: 
 `<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
 <link href="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css" rel="stylesheet" />
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />`
@@ -86,9 +86,10 @@ and the points should now render on the map. Note that this map is centred on la
 `AddType application/x-httpd-php .html`
 Nginx is a bit more complicated.
 
-##3. Share your site data for others (Such as the Credit Commons Collective) to aggregate and process.  
-Construct and (ideally) 'file_put_contents' a file called geo.csv in your web root with the following columns:  
-|fieldname|Description|Example|
+## 3. Share your site data for others (Such as the Credit Commons Collective) to aggregate and process.  
+Construct and (ideally) `file_put_contents` a file called geo.csv in your web root with the following columns:  
+
+|Fieldname|Description|Example|
 |--- |---| ---|
 | url|the address for use in a link. the 'http' is not needed, and usually not the www |mysite.com|
 | latitude|a floating point number between -90 and +90| 45.93836|
