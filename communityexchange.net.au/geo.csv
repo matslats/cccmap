@@ -1,74 +1,73 @@
-url, latitude, longitude, WKT, title, description
-
+url,latitude,longitude,WKT,title,description
 https://communityexchange.net.au,-34.9284989,138.6007456,"Adelaide, Australia",Adelaide Local Exchange Trading System,"Adelaide LETS is a non profit community exchange system that allows its members to trade goods & services without the need for direct bartering or money.
-www.letsadelaide.org/",https://communityexchange.net.au/offerings.asp?xid=ALSA&cat=all
-https://communityexchange.net.au,-25.3444277,131.0368822,"Uluru, Australia",Australian Central Exchange,,https://communityexchange.net.au/offerings.asp?xid=AUCE&cat=all
-https://communityexchange.net.au,-36.3533015,146.6877247,"Beechworth, Australia",Beechworth Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=BWCE&cat=all
+www.letsadelaide.org/"
+https://communityexchange.net.au,-25.3444277,131.0368822,"Uluru, Australia",Australian Central Exchange,
+https://communityexchange.net.au,-36.3533015,146.6877247,"Beechworth, Australia",Beechworth Community Exchange,
 https://communityexchange.net.au,-36.6889097,149.8416404,"Bega, Australia","Bega Valley LETS, NSW","Bega Valley LETSystem is a trading network supported by its own internal currency. It is self-regulating and allows its users to manage and issue their own 'money supply' within the boundaries of the network.
-www.bvlets.org.au",https://communityexchange.net.au/offerings.asp?xid=BVCE&cat=all
-https://communityexchange.net.au,-33.4999973,150.2499997,"Blue Mountains, Australia",Blue Mountains Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=BMCE&cat=all
-https://communityexchange.net.au,-27.4697707,153.0251235,"Brisbane, Queensland",BrisLETS Community Exchange,brislets.com,https://communityexchange.net.au/offerings.asp?xid=BLCE&cat=all
-https://communityexchange.net.au,-37.685,144.925,Broadmeadows,Broadmeadows Timebank,www.broadmeadowstimebank.org.au,https://communityexchange.net.au/offerings.asp?xid=BMTB&cat=all
+www.bvlets.org.au"
+https://communityexchange.net.au,-33.4999973,150.2499997,"Blue Mountains, Australia",Blue Mountains Community Exchange,
+https://communityexchange.net.au,-27.4697707,153.0251235,"Brisbane, Queensland",BrisLETS Community Exchange,brislets.com
+https://communityexchange.net.au,-37.685,144.925,Broadmeadows,Broadmeadows Timebank,www.broadmeadowstimebank.org.au
 https://communityexchange.net.au,-28.6533749,153.5334025,"Byron, New South Wales",Byron Shire Community Exchange,"Byron Shire Community Exchange is a LETS organisation that services the beautiful coastal districts of Byron Shire and Northern Rivers operating online.
-www.bsce.com.au",https://communityexchange.net.au/offerings.asp?xid=BSCE&cat=all
-https://communityexchange.net.au,-27.066667,152.966667,"Caboolutre, Queensland",Caboolture & District L.E.T.S. Assoc Inc.,,https://communityexchange.net.au/offerings.asp?xid=CDLA&cat=all
-https://communityexchange.net.au,-33.518,151.31,"Umina Beach, New South Wales",Central Coast LETS,www.centralcoastlets.org/,https://communityexchange.net.au/offerings.asp?xid=CCAU&cat=all
-https://communityexchange.net.au,-31.38,116.097,"Bindoon, Western Australia",Chittering Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=CCEX&cat=all
+www.bsce.com.au"
+https://communityexchange.net.au,-27.066667,152.966667,"Caboolutre, Queensland",Caboolture & District L.E.T.S. Assoc Inc.,
+https://communityexchange.net.au,-33.518,151.31,"Umina Beach, New South Wales",Central Coast LETS,www.centralcoastlets.org/
+https://communityexchange.net.au,-31.38,116.097,"Bindoon, Western Australia",Chittering Community Exchange,
 https://communityexchange.net.au,-42.778444,147.2358022,"Tasmania (Statewide),Tasmania",Community Exchange Network Tasmania (CENTs),"cent0000
-www.cent.net.au",https://communityexchange.net.au/offerings.asp?xid=CENT&cat=all
+www.cent.net.au"
 https://communityexchange.net.au,-26.9282743,150.1318588,"Condamine, Queensland",Condamine Community Exchange - Southern Inland Queensland,"Covers rural areas and townships of the Darling Downs and Condamine Catchment.
-condamine.my-local-lets-ces.org",https://communityexchange.net.au/offerings.asp?xid=COND&cat=all
-https://communityexchange.net.au,-33.8688197,151.2092955,"Sydney, New South Wales",Demonstration Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=DEMO&cat=all
-https://communityexchange.net.au,-37.733535,145.14185,"Diamond Valley, Victoria",Diamond Valley/Northern Suburbs Lets,dvns-lets.org.au/public/,https://communityexchange.net.au/offerings.asp?xid=DVNS&cat=all
-https://communityexchange.net.au,-33.58,115.82,DonnybrookWestern Australia,Donnybrook Balingup Barter Group,,https://communityexchange.net.au/offerings.asp?xid=DBBG&cat=all
-https://communityexchange.net.au,-32.2315018,148.6329645,"Dubbo, New South Wales",Dubbo Community Exchange System,"Covers the areas: Brocklehurst, Delroy Heights, Dubbo, Mugga Downs",https://communityexchange.net.au/offerings.asp?xid=DCES&cat=all
+condamine.my-local-lets-ces.org"
+https://communityexchange.net.au,-33.8688197,151.2092955,"Sydney, New South Wales",Demonstration Community Exchange,
+https://communityexchange.net.au,-37.733535,145.14185,"Diamond Valley, Victoria",Diamond Valley/Northern Suburbs Lets,dvns-lets.org.au/public/
+https://communityexchange.net.au,-33.58,115.82,DonnybrookWestern Australia,Donnybrook Balingup Barter Group,
+https://communityexchange.net.au,-32.2315018,148.6329645,"Dubbo, New South Wales",Dubbo Community Exchange System,"Covers the areas: Brocklehurst, Delroy Heights, Dubbo, Mugga Downs"
 https://communityexchange.net.au,-35.5,138.5,"Fleurieu, South Australia",Fleurieu LETS SA,"LETS South trading as Fleurieu LETS
-www.letssouth.com.au",https://communityexchange.net.au/offerings.asp?xid=FLET&cat=all
+www.letssouth.com.au"
 https://communityexchange.net.au,-17.2660801,145.4858599,"Atherton, Queensland",FNQ Community Exchange,"FNQ Community Exchange has been trading (fomerly as Tableland LETS) since 1991 in Far North Queensland, Australia.
-www.tablelandlets.org/",https://communityexchange.net.au/offerings.asp?xid=TBCE&cat=all
+www.tablelandlets.org/"
 https://communityexchange.net.au,-28.016667,153.4,"Gold Coast, Queensland",Gold Coast Exchange QLD,"Gold Coast CES covers the areas from Southport to Coolangatta and inland 
-www.communityexchange.net.au",https://communityexchange.net.au/offerings.asp?xid=GOLD&cat=all
+www.communityexchange.net.au"
 https://communityexchange.net.au,-26.4702146,151.6070583,"South Burnett, Queensland",Gympie & Sth Burnett LETS QLD,"Gympie & Sth Burnett LETS on the Community Exchange System. No $joining fee; No ongoing $fees. https://www.facebook.com/groups/243017992775237/ https://www.facebook.com/groups/773429576139630/
-www.communityexchange.net.au",https://communityexchange.net.au/offerings.asp?xid=GYMP&cat=all
-https://communityexchange.net.au,-32.9275343,151.7682612,"Newcastle & Hunter Valley, New South Wales",Hunter LETS,"250 Members not all active. Picnic & Trade Day every three months, mini trades in between. Coffee mornings monthly in Newcastle & Maitland.",https://communityexchange.net.au/offerings.asp?xid=HUNT&cat=all
+www.communityexchange.net.au"
+https://communityexchange.net.au,-32.9275343,151.7682612,"Newcastle & Hunter Valley, New South Wales",Hunter LETS,"250 Members not all active. Picnic & Trade Day every three months, mini trades in between. Coffee mornings monthly in Newcastle & Maitland."
 https://communityexchange.net.au,-37.8136276,144.9630576,"Melbourne, Victoria",Inner West Commons LETS,"A local community sharing and exchange system for Melbourne's Inner West
-innerwestcommons.org.au",https://communityexchange.net.au/offerings.asp?xid=IWCO&cat=all
-https://communityexchange.net.au,-31.9505269,115.8604572,PerthWestern Australia,Lots of Valuable Energy,,https://communityexchange.net.au/offerings.asp?xid=LOVE&cat=all
+innerwestcommons.org.au"
+https://communityexchange.net.au,-31.9505269,115.8604572,PerthWestern Australia,Lots of Valuable Energy,
 https://communityexchange.net.au,-37.2769748,144.728396,LancefieldVictoria,Macedon Ranges Community Exchange,"Macedon Ranges Community Exchange offers an alternative way to participate in the local economy by trading skills, services and products without using cash. Participating in the Community Exchange strengthens your local community and can improve your 
-www.mrce.net.au",https://communityexchange.net.au/offerings.asp?xid=MRCE&cat=all
-https://communityexchange.net.au,-21.1424956,149.1821469,"Mackay, Queensland",Mackay Homegrown Trading Place,FB Page,https://communityexchange.net.au/offerings.asp?xid=MHGT&cat=all
-https://communityexchange.net.au,-26.7626299,152.8522429,"Maleny, Queensland",Maleny Local Energy Trading System,"Maleny LETS covers the areas of Conondale, Witta, Reesville, Landsborough and the Blackall Range",https://communityexchange.net.au/offerings.asp?xid=MALO&cat=all
-https://communityexchange.net.au,-37.8136276,144.9630576,"Melbourne, Victoria",Melbourne Eastern Region LETS,www.merlets.org.au/,https://communityexchange.net.au/offerings.asp?xid=WWLL&cat=all
-https://communityexchange.net.au,-37.8136276,144.9630576,"Melbourne, Victoria",Melbourne Vegetable Exchange,,https://communityexchange.net.au/offerings.asp?xid=MVEX&cat=all
+www.mrce.net.au"
+https://communityexchange.net.au,-21.1424956,149.1821469,"Mackay, Queensland",Mackay Homegrown Trading Place,FB Page
+https://communityexchange.net.au,-26.7626299,152.8522429,"Maleny, Queensland",Maleny Local Energy Trading System,"Maleny LETS covers the areas of Conondale, Witta, Reesville, Landsborough and the Blackall Range"
+https://communityexchange.net.au,-37.8136276,144.9630576,"Melbourne, Victoria",Melbourne Eastern Region LETS,www.merlets.org.au/
+https://communityexchange.net.au,-37.8136276,144.9630576,"Melbourne, Victoria",Melbourne Vegetable Exchange,
 https://communityexchange.net.au,-37.7240653,144.9501708,"Moreland, Victoria",Moreland (Melbourne) LETS,"Moreland (Melbourne) LETS is the only LETS group in the inner suburbs of Melbourne. Headquarters are at CERES Environment Park in East Brunswick.
-www.ceres.org.au/node/28",https://communityexchange.net.au/offerings.asp?xid=MORE&cat=all
-https://communityexchange.net.au,-38.2275886,146.4146185,"Morewell, Victoria",Morwell Community Exchange,The Morwell Community Exchange is a system which allows members of the Morwell community to trade goods and services with one another without using typical federal currency (Australian Dollars). It is a system of local currency that makes local trade poss,https://communityexchange.net.au/offerings.asp?xid=MOSE&cat=all
+www.ceres.org.au/node/28"
+https://communityexchange.net.au,-38.2275886,146.4146185,"Morewell, Victoria",Morwell Community Exchange,The Morwell Community Exchange is a system which allows members of the Morwell community to trade goods and services with one another without using typical federal currency (Australian Dollars). It is a system of local currency that makes local trade poss
 https://communityexchange.net.au,-32.016,115.762,"Mosman Park, Western Australia",Mosman Park Hour Exchange,"Give an hour, receive an hour. It's neighbours helping neighbours in Mosman Park.
-MosmanParkHourExchange.com.au",https://communityexchange.net.au/offerings.asp?xid=TBMP&cat=all
-https://communityexchange.net.au,-26.6236983,152.9587706,"Nambour, Queensland",Nambour Sunshine Coast Community QLD,"Incorporating The Entire Sunshine Coast, we encourage friendly local (and beyond) non-Federal-Dollar exchanges of Goods and Services",https://communityexchange.net.au/offerings.asp?xid=NSCC&cat=all
+MosmanParkHourExchange.com.au"
+https://communityexchange.net.au,-26.6236983,152.9587706,"Nambour, Queensland",Nambour Sunshine Coast Community QLD,"Incorporating The Entire Sunshine Coast, we encourage friendly local (and beyond) non-Federal-Dollar exchanges of Goods and Services"
 https://communityexchange.net.au,-26.65,153.066667,"Noosa, Sunshine Coast, Qld, Queensland",Noosa Community Exchange (LETS) Qld,"Noosa LETS on the Community Exchange System. No $joining fee; No ongoing $fees. https://www.facebook.com/groups/1829276630654960/
-www.communityexchange.net.au",https://communityexchange.net.au/offerings.asp?xid=UBUN&cat=all
-https://communityexchange.net.au,-31.9505269,115.8604572,"Perth, Western Australia",Perth L.E.T.S. Inc. Western Australia,Perth became a L.E.T.S. CES Exchange on 9th October 2011 Currency changed from CEX to CC April 2013: Perth L.E.T.S. Inc.,https://communityexchange.net.au/offerings.asp?xid=PCEX&cat=all
-https://communityexchange.net.au,-38.3810122,142.2292907,"Port Fairy, Victoria",Port Fairy Warrnambool LETS,,https://communityexchange.net.au/offerings.asp?xid=PFWL&cat=all
-https://communityexchange.net.au,-35.0275298,117.883959,"Albany, Western Australia",Rainbow Coast Community Exchange,"A LETS exchange for the Rainbow Coast of WA, covering Denmark, Albany and Mt Barker.",https://communityexchange.net.au/offerings.asp?xid=RCCE&cat=all
+www.communityexchange.net.au"
+https://communityexchange.net.au,-31.9505269,115.8604572,"Perth, Western Australia",Perth L.E.T.S. Inc. Western Australia,Perth became a L.E.T.S. CES Exchange on 9th October 2011 Currency changed from CEX to CC April 2013: Perth L.E.T.S. Inc.
+https://communityexchange.net.au,-38.3810122,142.2292907,"Port Fairy, Victoria",Port Fairy Warrnambool LETS,
+https://communityexchange.net.au,-35.0275298,117.883959,"Albany, Western Australia",Rainbow Coast Community Exchange,"A LETS exchange for the Rainbow Coast of WA, covering Denmark, Albany and Mt Barker."
 https://communityexchange.net.au,-28.595833,153.223056,"Nimbin, New South Wales",Rainbow Region LETS,"Rainbow Region LETS covers the Caldera area including Nimbin, Lismore, Kyogle. Please email admin with any request. Admin is Dolph Cooke dolph@biocharproject.org 
-www.communityexchange.net.au",https://communityexchange.net.au/offerings.asp?xid=RRLA&cat=all
-https://communityexchange.net.au,-32.281,115.727,RockinghamWestern Australia,RockyLETS,,https://communityexchange.net.au/offerings.asp?xid=ROCK&cat=all
+www.communityexchange.net.au"
+https://communityexchange.net.au,-32.281,115.727,RockinghamWestern Australia,RockyLETS,
 https://communityexchange.net.au,-35.0810677,150.4892292,"NSW Shoalhaven local government, New South Wales",Shoalhaven Community Exchange,"The Shoalhaven Community Exchange covers the Shoalhaven local government boundaries on the NSW south coast. It holds regular Trade Days as well as fostering an active trading network outside of Trade Days.
-www.shoalhavenexchange.net",https://communityexchange.net.au/offerings.asp?xid=SHCE&cat=all
-https://communityexchange.net.au,-34.9284989,138.6007456,"Adelaide, South Australia",Southern Inner Suburbs LETS,www.sislets.net,https://communityexchange.net.au/offerings.asp?xid=SISA&cat=all
-https://communityexchange.net.au,-28.6599726,151.9375602,"Stanthorpe, Queensland",Stanthorpe LETS,,https://communityexchange.net.au/offerings.asp?xid=SLET&cat=all
-https://communityexchange.net.au,-26.7172175,153.064907,"Sunshine Coast, New South Wales","Sunshine Coast Lets, Qld",,https://communityexchange.net.au/offerings.asp?xid=RAYS&cat=all
-https://communityexchange.net.au,-26.7172175,153.064907,"Sunshine Coast, New South Wales",Sunshine Coast Social Work,www.communityexchange.net.au,https://communityexchange.net.au/offerings.asp?xid=SCSW&cat=all
+www.shoalhavenexchange.net"
+https://communityexchange.net.au,-34.9284989,138.6007456,"Adelaide, South Australia",Southern Inner Suburbs LETS,www.sislets.net
+https://communityexchange.net.au,-28.6599726,151.9375602,"Stanthorpe, Queensland",Stanthorpe LETS,
+https://communityexchange.net.au,-26.7172175,153.064907,"Sunshine Coast, New South Wales","Sunshine Coast Lets, Qld",
+https://communityexchange.net.au,-26.7172175,153.064907,"Sunshine Coast, New South Wales",Sunshine Coast Social Work,www.communityexchange.net.au
 https://communityexchange.net.au,-33.8688197,151.2092955,"Sydney, New South Wales",Sydney LETS,"Sydney LETS (Local Energy Trading System) is an alternative trading network of people who trade goods and services using a community currency called ?Operas?.
-www.auslets.org/sydney",https://communityexchange.net.au/offerings.asp?xid=SYCE&cat=all
-https://communityexchange.net.au,28.687536,-81.3465982,EverywhereEverywhere,The Community Market Place,,https://communityexchange.net.au/offerings.asp?xid=TCMP&cat=all
-https://communityexchange.net.au,-27.5598212,151.9506696,"Toowoomba, Queensland",Toowoomba Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=TWMA&cat=all
-https://communityexchange.net.au,-19.2589635,146.8169483,"Townsville, Queensland",Townsville Community Exchange,Townsville Community Exchange aims to bring the Townsville community together with exchanging products and services without the direct use of money.,https://communityexchange.net.au/offerings.asp?xid=TSVL&cat=all
+www.auslets.org/sydney"
+https://communityexchange.net.au,28.687536,-81.3465982,EverywhereEverywhere,The Community Market Place,
+https://communityexchange.net.au,-27.5598212,151.9506696,"Toowoomba, Queensland",Toowoomba Community Exchange,
+https://communityexchange.net.au,-19.2589635,146.8169483,"Townsville, Queensland",Townsville Community Exchange,Townsville Community Exchange aims to bring the Townsville community together with exchanging products and services without the direct use of money.
 https://communityexchange.net.au,-33.2360138,151.5638387,"Twin Lakes, New South Wales",Twin Lakes Community Exchange,"Covering areas from the Mid Central Coast (Wyong - Tuggerah Lakes to the Lower Hunter areas.
-twinlakeslets.weebly.com/",https://communityexchange.net.au/offerings.asp?xid=TLCE&cat=all
-https://communityexchange.net.au,-34.3961343,149.8192274,"Taralga, New South Wales",Upper Lachland Shire Community Exchange Scheme,,https://communityexchange.net.au/offerings.asp?xid=TCES&cat=all
-https://communityexchange.net.au,-38.172926,145.9278279,"West Gippsland, Victoria",West Gippsland Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=WGCE&cat=all
-https://communityexchange.net.au,-34.4278121,150.8930607,"Wollongong, New South Wales",Wollongong Illawarra Exchange,,https://communityexchange.net.au/offerings.asp?xid=WLNG&cat=all
-https://communityexchange.net.au,-26.955,152.778,"Woodford, Queensland",Woodford Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=WQCE&cat=all
-https://communityexchange.net.au,-37.7450808,145.7133909,"Yarra Ranges, Victoria",Yarra Ranges Community Exchange,,https://communityexchange.net.au/offerings.asp?xid=YRCE&cat=all
+twinlakeslets.weebly.com/"
+https://communityexchange.net.au,-34.3961343,149.8192274,"Taralga, New South Wales",Upper Lachland Shire Community Exchange Scheme,
+https://communityexchange.net.au,-38.172926,145.9278279,"West Gippsland, Victoria",West Gippsland Community Exchange,
+https://communityexchange.net.au,-34.4278121,150.8930607,"Wollongong, New South Wales",Wollongong Illawarra Exchange,
+https://communityexchange.net.au,-26.955,152.778,"Woodford, Queensland",Woodford Community Exchange,
+https://communityexchange.net.au,-37.7450808,145.7133909,"Yarra Ranges, Victoria",Yarra Ranges Community Exchange,
