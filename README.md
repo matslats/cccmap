@@ -91,15 +91,16 @@ Construct and (ideally) `file_put_contents` a file called geo.csv in your web ro
 
 |Fieldname|Description|Example|
 |--- |---| ---|
-| url|the address for use in a link. the 'http' is not needed, and usually not the www |mysite.com|
-| latitude|a floating point number between -90 and +90| 45.93836|
-| longitude|a floating point number between -180 and +180|6.827263|
-| WKT|Well Known Text - (If lat & lon not supplied), an address string we can attempt to geocode| 
-| title|the name of the exchange| Anytown Hour Bank |
-| description|Or slogan. one sentence max| We do things for each other!|
-| logo|absolute url of the exchange's logo, smaller is better|mysite.com/logo.png
-| active_members|number of members in the exchange deemed 'active' e.g. have logged in or traded| 99|
-| year_transactions|Transactions recorded in the last year. Try to exclude automated and mass transactions| 999|
+|url|the address for use in a link. the 'http' is not needed, and usually not the www |mysite.com|
+|latitude|a floating point number between -90 and +90| 45.93836|
+|longitude|a floating point number between -180 and +180|6.827263|
+|WKT|Well Known Text - (If lat & lon not supplied), an address string we can attempt to geocode| 
+|title|the name of the exchange| Anytown Hour Bank |
+|description|Or slogan. one sentence max| We do things for each other!|
+|logo|absolute url of the exchange's logo, smaller is better|mysite.com/logo.png
+|active_members|number of members in the exchange deemed 'active' e.g. have logged in or traded| 99|
+|year_transactions|Transactions recorded in the last year. Try to exclude automated and mass transactions| 999|
+|ads|Number of EXTANT offers + wants|999
 
 There are several examples of all these files in this repository.  
 Remember there are php functions to help you generate and write csv files.  
