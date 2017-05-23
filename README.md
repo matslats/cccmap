@@ -62,11 +62,15 @@ Now your sites exist in a standard format, you can publish the geojson. Next you
 
 ## 2 Render the geojson on your site.
 Add these to your `<header>` tag: 
-```<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
+```html
+<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
 <link href="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css" rel="stylesheet" />
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />```
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+```
 Then this to your body:
-`<div id="map" style="width: 90%; height: 600px;"></div>`
+```html
+<div id="map" style="width: 90%; height: 600px;"></div>
+```
 And AFTER that, in the body, this:
 ```javascript
 <script>
@@ -82,7 +86,8 @@ And AFTER that, in the body, this:
   myLayer.setGeoJSON(geoJson);
 </script>
 ```
-and the points should now render on the map. Note that this map is centred on lat +40 and lon 0, and zoomed to 4. You might have to add an apache directive (in .htaccess perhaps) to execute php on a page with an html extension.
+and the points should now render on the map. Note that this map is centred on lat +40 and lon 0, and zoomed to 4.  
+You might have to add an apache directive (in .htaccess perhaps) to execute php on a page with an html extension.  
 `AddType application/x-httpd-php .html`
 Nginx is a bit more complicated.
 
