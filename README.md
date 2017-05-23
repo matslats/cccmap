@@ -1,59 +1,106 @@
 # cccmap
-Code to take data from some complementary currency platforms, combine them into one geojson.
-This is just the beginning of an effort to collate data from all platforms to be accessible to study and to testify to the growth of complementary currencies.
-We support platforms publishing with either of two formats.
+A mini-project to make maps work better for complementary currency networks, first by showing their own, and secondly by publishing a csv file for the public, suitable for converting into a map.
+This should help efforts to collate data from all platforms for study and to testify to the growth of complementary currencies.
 
-Complementary currency platforms even those who don't have the latitude and longitude can publish a domain.com/geo.csv, with the following columns:
-"url" //the clean address of the site ready to use in a link, e.g. http://mysite.com
+**1. publish your own geojson file.
+Geojson is a standard format for publishing points on a map and info about them.
+You can can click on a map to learn the coordinates here: http://latlong.net
+or you can do it programmatically like this:
+```php
+// create a free account on mapbox.com to get the $access_token
+function geocode($placename) {
+  $wkt = urlencode($string);
+  $url = implode('/', [
+    'https://api.mapbox.com',
+    'geocoding',
+    'v5',
+    'mapbox.places',
+    urlencode($string) .'.json'
+  ]);
+  $access_token = 'xxxxxx';
+  $result = file_get_contents($url."?access_token=$access_token");
+  $obj = json_decode($result);
+  if (is_object($obj)) {
+    if (count($obj->features)) {
+      return $obj->features[0]->geometry->coordinates;
+    }
+    else {
+      echo "<br />Geocoding '$string' failed: ". print_r($obj);
+    }
+  }
+```
+Then build an array of your communities and iterate through, populating the points. Note that the longitude goes before latitude in this format.
+```php
+foreach ($myData as $site) {
+  $allPoints[] = [
+    'type' => 'Feature',
+    'geometry' => [
+      'type' => 'Point',
+      'coordinates' => [$site['longitude'],  $site['latitude']]
+    ],
+    'properties' => [
+      "title" => $site['name'], //plain text
+      "description" => "blah blah" //html with more details.
+      "icon" => [
+        "iconUrl" => "http://mysite/map-pin.png",
+        "iconSize" => [25, 25], // size of the icon
+        "iconAnchor" => [12, 12], // point of the icon which will correspond to marker's location
+        "popupAnchor" => [0, 13], // point from which the popup should open relative to the iconAnchor
+      ]
+    ]
+  ];
+}
+$geoJson = [//this is in the wrong place
+  'type' => 'FeatureCollection',
+  'features' => $allPoints
+];
+file_put_contents('all-exchanges-geo.json', json_encode($geoJson));//maybe best at the web root?
+```
+Ensure the list is kept up to date either with cron or with caching strategy.
+Now your sites exist in a standard format, you can publish the geojson. Next you probably want to render these point on your own site. This can be done again with the help of mapbox.com and the api key you created above.
+
+** 2 Render the geojson on your site.
+Add these to your <header>:
+<script src="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js"></script>
+<link href="https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css" rel="stylesheet" />
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+Then this to your body:
+<div id="map" style="width: 90%; height: 600px;"></div>
+And AFTER that, in the body, this:
+```javascript
+<script>
+  L.mapbox.accessToken = 'pk.eyJ1IjoibWF0c2xhdHMiLCJhIjoiY2oyeXcxdzdmMDBhNTMyanNmbzN1dGt2cSJ9.XUw8z45hXx8MoXgQ-G5QUw';
+  var map = L.mapbox.map('map', 'mapbox.streets').setView([40, 0], 4);
+  var myLayer = L.mapbox.featureLayer().addTo(map);
+  var geoJson = <?php include './all-exchanges-geo.json'; ?>
+  myLayer.on('layeradd', function(e) {
+    var marker = e.layer,
+      feature = marker.feature;
+    marker.setIcon(L.icon(feature.properties.icon));
+  });
+  myLayer.setGeoJSON(geoJson);
+</script>
+```
+and the points should show on the page. note that the map is centred on lat +40 and lon 0, and zoomed to 4. You might have to add an apache directive (in .htaccess perhaps) to execute php on a page with an html extension
+`AddType application/x-httpd-php .html`
+
+**3. Share your site data for others (Such as the Credit Commons Collective) to aggregate and process.
+Construct and (ideally) 'file_put_contents' a csv file with the following columns:
+"url" //the clean address of the site ready to use in a link. the http is not needed, and usually not the www e.g. mysite.com
 "latitude" //a floating point number between -90 and +90
 "longitude" //a floating point number between -180 and +180
 "WKT" //If lat & lon not supplied, an address string we can attempt to geocode
 "title" //the name of the exchange
 "description" //any other brief text about the exchange, suitable for a map bubble!
-"logo" //the smallest version you have of the exchange's logo
-"active_members" //number of members you deem to be 'active'
-"3month_transactions" //number of transactions in the last 3 months.
+"logo" //absolute url of the exchange's logo, smaller is better.
+"active_members" //number of members in the exchange you deem to be 'active' i.e. who might have visited or traded recently.
+"year_transactions" //number of transactions in the last year.
+Remember there are php functions to help you generate and write csv files. It should be accessible from your organisation's web root directory as geo.csv
+There are several examples of all these files in this repository.
 
-Platforms who do have geocoordinates can publish in the geojson format. Note that one feature collection contains many features, each of which is a community. Note that the title and description are urlencoded using a function such as urlencode() in php or equivalent. Also note that the href and logo are escaped using a function such htmlentities() in php, or equivalent.
-{
-  "type":"FeatureCollection",
-  "features":[
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          146.921099,
-          -31.2532183
-        ]
-      },
-      "properties":{
-        "title":"My Timebank",
-        "description":"we are a really cool timebank",
-        "href":"https:\/\/mydomain.com",
-        "logo":"https:\/\/mydomain.com.au\/files\/pictures\/picture-6-1396253258.jpg",
-        "active_members":"100"
-        "3month_transactions":"1000"
-      }
-    }
-  ]
-}
-This json file can be embedded directly on the platform's own site using some javascript, which we will share later.
+This format is subject to change and all maps being aggregated will be notified.
 
-Please notify us when your files are ready; we are currently pulling files from:
-http://communityforge.net/geo.json
-http://timebanking.com.au/geo.csv
-http://route-des-sel.org/geo.csv
-http://community-exchange.org/geo.csv (mocked)
-http://timebanks.community.timebanks.org/geo.csv (mocked)
-http://communityexchange.net.au/geo.csv (mocked)
-http://hourworld.org/geo.csv (mocked)
-http://integralcecs.net/geo.csv (mocked)
-
-The aggregated map is currently being served from github, and it can be viewed directly https://github.com/matslats/cccmap/blob/master/all.json
-It can also be embedded into any web page with the following snippet
-<script src="https://embed.github.com/view/geojson/matslats/cccmap/master/cforge.json?height=768&width=1024"></script>
-
-This format is subject to change and you will be notified.
 Please look on http://complementarycurrency.org/geo
-Changes to the csv file will take up to a day to appear on the map.
+Real world changes won't appear on maps immediately because both the sites, and the aggregator are likely to be keeping caches.
+
+To see the code we used to aggregate all the csv files and present a consistent look and feel, contact us.
