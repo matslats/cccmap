@@ -1,74 +1,74 @@
-"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
-"https://timebanking.com.au/home/Australia","-31.253218300000","146.921099000000",,"Australia",,https://timebanking.com.au/system/files/pictures/picture-6-1396253258.jpg,237,12
-"https://timebanking.com.au/home/Blue Mountains","-33.714954600000","150.311407400000",,"Blue Mountains",,https://timebanking.com.au/system/files/pictures/picture-8-1396252542.jpg,273,85
-"https://timebanking.com.au/home/Cessnock City","-32.834578200000","151.356461900000",,"Cessnock City",,https://timebanking.com.au/system/files/pictures/picture-10-1406158369.jpg,68,
-"https://timebanking.com.au/home/Dungog","-32.401680800000","151.757644400000",,"Dungog",,https://timebanking.com.au/system/files/pictures/picture-12-1397573375.jpg,15,
-"https://timebanking.com.au/home/Gloucester","-32.007632900000","151.958256500000",,"Gloucester",,https://timebanking.com.au/system/files/pictures/picture-15-1397573712.png,3,
-"https://timebanking.com.au/home/Gosford City","-33.425020000000","151.342219400000",,"Gosford City",,https://timebanking.com.au/system/files/pictures/picture-16-1406158270.jpg,583,
-"https://timebanking.com.au/home/Great Lakes","-32.180237400000","152.511502200000",,"Great Lakes",,https://timebanking.com.au/system/files/pictures/picture-17-1397573681.jpg,27,
-"https://timebanking.com.au/home/Hurstville","-33.967110900000","151.102854900000",,"Hurstville",,https://timebanking.com.au/system/files/pictures/picture-19-1396253280.jpg,34,
-"https://timebanking.com.au/home/Kiama","-34.670266100000","150.854386700000",,"Kiama",,https://timebanking.com.au/system/files/pictures/picture-21-1396253320.jpg,21,
-"https://timebanking.com.au/home/Lake Macquarie City","-33.108061000000","151.488257200000",,"Lake Macquarie City",,https://timebanking.com.au/system/files/pictures/picture-22-1397573670.jpg,1052,44
-"https://timebanking.com.au/home/Maitland City","-32.733663600000","151.557667700000",,"Maitland City",,https://timebanking.com.au/system/files/pictures/picture-25-1398989979.jpg,255,8
-"https://timebanking.com.au/home/Muswellbrook","-32.265166500000","150.888323000000",,"Muswellbrook",,https://timebanking.com.au/system/files/pictures/picture-26-1397573160.jpg,24,
-"https://timebanking.com.au/home/Newcastle City","-32.930965000000","151.773653000000",,"Newcastle City",,https://timebanking.com.au/system/files/pictures/picture-28-1397573145.jpg,1922,2
-"https://timebanking.com.au/home/Newcastle University","-32.926689000000","151.778920500000",,"Newcastle University",,https://timebanking.com.au/system/files/pictures/picture-29-1397572639.jpg,89,
-"https://timebanking.com.au/home/Port Stephens","-32.685382500000","152.034096300000",,"Port Stephens",,https://timebanking.com.au/system/files/pictures/picture-32-1397573107.jpg,236,
-"https://timebanking.com.au/home/Ryde","-33.813414600000","151.105794900000",,"Ryde",,https://timebanking.com.au/system/files/pictures/picture-34-1399272007.jpg,116,
-"https://timebanking.com.au/home/Singleton","-32.561969400000","151.175315700000",,"Singleton",,https://timebanking.com.au/system/files/pictures/picture-36-1413260672.jpg,18,
-"https://timebanking.com.au/home/Sutherland","-34.031472600000","151.057986600000",,"Sutherland",,https://timebanking.com.au/system/files/pictures/picture-38-1396252858.jpg,37,
-"https://timebanking.com.au/home/Upper Hunter","-32.050699100000","150.867872000000",,"Upper Hunter",,https://timebanking.com.au/system/files/pictures/picture-43-1397573132.jpg,17,
-"https://timebanking.com.au/home/Wagga Wagga","-35.115549200000","147.369477200000",,"Wagga Wagga",,https://timebanking.com.au/system/files/pictures/picture-44-1396252933.jpg,17,
-"https://timebanking.com.au/home/Wyong","-33.283628700000","151.423007600000",,"Wyong",,https://timebanking.com.au/system/files/pictures/picture-48-1397572935.jpg,402,
-"https://timebanking.com.au/home/Albury Wodonga","-36.080778500000","146.916469300000",,"Albury Wodonga",,https://timebanking.com.au/system/files/pictures/picture-49-1396263522.jpg,111,
-"https://timebanking.com.au/home/Bega Valley","-36.674227600000","149.842927700000",,"Bega Valley",,https://timebanking.com.au/system/files/pictures/picture-4328-1398989757.jpg,96,
-"https://timebanking.com.au/home/Bland Shire","-33.923502800000","147.205283900000",,"Bland Shire",,https://timebanking.com.au/system/files/pictures/picture-4332-1399271704.jpg,6,
-"https://timebanking.com.au/home/Hawkesbury","-33.596513400000","150.750502500000",,"Hawkesbury",,https://timebanking.com.au/system/files/pictures/picture-4333-1399443710.jpg,20,
-"https://timebanking.com.au/home/Canterbury City","-33.919568300000","151.076830400000",,"Canterbury City",,https://timebanking.com.au/system/files/pictures/picture-4353-1399862135.jpg,11,
-"https://timebanking.com.au/home/Fairfield","-33.870784600000","150.955490000000",,"Fairfield",,https://timebanking.com.au/system/files/pictures/picture-4354-1399862350.jpg,15,
-"https://timebanking.com.au/home/Lower North Shore Sydney","-33.805228800000","151.199360600000",,"Lower North Shore Sydney",,https://timebanking.com.au/system/files/pictures/picture-4355-1399862680.jpg,30,
-"https://timebanking.com.au/home/Rockdale City","-33.950821200000","151.138797400000",,"Rockdale City",,https://timebanking.com.au/system/files/pictures/picture-4357-1399863161.jpg,14,
-"https://timebanking.com.au/home/Shellharbour City","-34.579212300000","150.867404100000",,"Shellharbour City",,https://timebanking.com.au/system/files/pictures/picture-4358-1399863396.jpg,13,
-"https://timebanking.com.au/home/The Hills","-33.727069100000","150.994743900000",,"The Hills",,https://timebanking.com.au/system/files/pictures/picture-4359-1399863708.jpg,33,
-"https://timebanking.com.au/home/Wollongong","-34.316003300000","150.918453600000",,"Wollongong",,https://timebanking.com.au/system/files/pictures/picture-4360-1399867969.jpg,60,
-"https://timebanking.com.au/home/Burwood","-33.877554700000","151.103705400000",,"Burwood",,https://timebanking.com.au/system/files/pictures/picture-4401-1400218477.jpg,17,
-"https://timebanking.com.au/home/Eastern Beaches Sydney","-33.893811800000","151.263073800000",,"Eastern Beaches Sydney",,https://timebanking.com.au/system/files/pictures/picture-4403-1400220764.jpg,43,
-"https://timebanking.com.au/home/Macarthur","-34.067774100000","150.813191900000",,"Macarthur",,https://timebanking.com.au/system/files/pictures/picture-4405-1400218766.jpg,21,
-"https://timebanking.com.au/home/Narrabri","-30.325057200000","149.782980800000",,"Narrabri",,https://timebanking.com.au/system/files/pictures/picture-4407-1400218996.jpg,3,
-"https://timebanking.com.au/home/Nepean Penrith","-33.752178500000","150.691046700000",,"Nepean Penrith",,https://timebanking.com.au/system/files/pictures/picture-4408-1400219120.jpg,27,
-"https://timebanking.com.au/home/Northern Beaches Sydney","-33.753562200000","151.286139900000",,"Northern Beaches Sydney",,https://timebanking.com.au/system/files/pictures/picture-4409-1400219863.jpg,42,
-"https://timebanking.com.au/home/South Eastern Sydney","-33.924669300000","151.211667300000",,"South Eastern Sydney",,https://timebanking.com.au/system/files/pictures/picture-4412-1400220337.jpg,10,
-"https://timebanking.com.au/home/Sydney","-33.873651000000","151.206889600000",,"Sydney",,https://timebanking.com.au/system/files/pictures/picture-4413-1400220010.jpg,90,23
-"https://timebanking.com.au/home/Walcha","-30.985189300000","151.592485300000",,"Walcha",,https://timebanking.com.au/system/files/pictures/picture-4414-1400220141.jpg,5,
-"https://timebanking.com.au/home/Auburn Holroyd Parramatta","-33.848515700000","151.029669600000",,"Auburn Holroyd Parramatta",,https://timebanking.com.au/system/files/pictures/picture-4416-1400218228.jpg,33,
-"https://timebanking.com.au/home/Northern Rivers","-28.827980300000","153.285716500000",,"Northern Rivers",,https://timebanking.com.au/system/files/pictures/picture-4417-1400219731.jpg,125,1
-"https://timebanking.com.au/home/Blacktown City","-33.785404300000","150.909343900000",,"Blacktown City",,https://timebanking.com.au/system/files/pictures/picture-4432-1400565949.jpg,38,
-"https://timebanking.com.au/home/Armidale Dumaresq","-30.486433800000","151.677183500000",,"Armidale Dumaresq",,https://timebanking.com.au/system/files/pictures/picture-4517-1401927005.png,4,
-"https://timebanking.com.au/home/Kempsey","-31.104248500000","152.838231500000",,"Kempsey",,https://timebanking.com.au/system/files/pictures/picture-4518-1401927497.jpg,4,
-"https://timebanking.com.au/home/Bellingen Shire","-30.496629500000","153.020778300000",,"Bellingen Shire",,https://timebanking.com.au/system/files/pictures/picture-4560-1402881475.jpg,20,
-"https://timebanking.com.au/home/Ashfield","-33.888569800000","151.124197900000",,"Ashfield",,https://timebanking.com.au/system/files/pictures/picture-4829-1413853599.jpg,7,
-"https://timebanking.com.au/home/Bankstown","-33.917289100000","151.035882000000",,"Bankstown",,https://timebanking.com.au/system/files/pictures/picture-4830-1413853814.jpg,8,
-"https://timebanking.com.au/home/Bathurst","-33.417652900000","149.581031400000",,"Bathurst",,https://timebanking.com.au/system/files/pictures/picture-4831-1413258054.jpg,14,
-"https://timebanking.com.au/home/Clarence Valley","-29.691122600000","152.933199300000",,"Clarence Valley",,https://timebanking.com.au/system/files/pictures/picture-4832-1413854017.jpg,7,
-"https://timebanking.com.au/home/Coffs Harbour","-30.296312100000","153.115672200000",,"Coffs Harbour",,https://timebanking.com.au/system/files/pictures/picture-4833-1413853456.png,26,
-"https://timebanking.com.au/home/Drummoyne","-33.851145300000","151.154383300000",,"Drummoyne",,https://timebanking.com.au/system/files/pictures/picture-4834-1413853465.jpg,9,
-"https://timebanking.com.au/home/Eurobodalla Shire","-35.909318800000","150.082377000000",,"Eurobodalla Shire",,https://timebanking.com.au/system/files/pictures/picture-4835-1413843413.jpg,11,
-"https://timebanking.com.au/home/Goulburn","-34.754834600000","149.718648600000",,"Goulburn",,https://timebanking.com.au/system/files/pictures/picture-4836-1413853611.jpg,8,
-"https://timebanking.com.au/home/Hornsby","-33.703158000000","151.100480600000",,"Hornsby",,https://timebanking.com.au/system/files/pictures/picture-4837-1413258389.jpg,33,
-"https://timebanking.com.au/home/Inner West Sydney","-33.898642900000","151.174312600000",,"Inner West Sydney",,https://timebanking.com.au/system/files/pictures/picture-4838-1413853992.jpg,59,
-"https://timebanking.com.au/home/Kogarah","-33.962727100000","151.133463600000",,"Kogarah",,https://timebanking.com.au/system/files/pictures/picture-4839-1413260278.jpg,55,25
-"https://timebanking.com.au/home/Lane Cove","-33.789589000000","151.143100000000",,"Lane Cove",,https://timebanking.com.au/system/files/pictures/picture-4840-1413853477.jpg,14,
-"https://timebanking.com.au/home/Liverpool City","-33.920019200000","150.924126700000",,"Liverpool City",,https://timebanking.com.au/system/files/pictures/picture-4841-1413260453.jpg,36,3
-"https://timebanking.com.au/home/Shoalhaven City","-35.356977200000","150.473990400000",,"Shoalhaven City",,https://timebanking.com.au/system/files/pictures/picture-4842-1413852214.jpg,27,
-"https://timebanking.com.au/home/Snowy Mountains","-36.235284500000","149.125280200000",,"Snowy Mountains",,https://timebanking.com.au/system/files/pictures/picture-4843-1413783518.jpg,7,
-"https://timebanking.com.au/home/Southern Highlands","-34.548814700000","150.374198700000",,"Southern Highlands",,https://timebanking.com.au/system/files/pictures/picture-4844-1413852269.jpg,16,
-"https://timebanking.com.au/home/Tamworth","-31.106315700000","150.930734100000",,"Tamworth",,https://timebanking.com.au/system/files/pictures/picture-4845-1413852575.jpg,11,
-"https://timebanking.com.au/home/Dubbo","-32.245291700000","148.606457000000",,"Dubbo",,https://timebanking.com.au/system/files/pictures/picture-4897-1413256665.jpg,8,
-"https://timebanking.com.au/home/Glenn Innes","-29.737663800000","151.740250600000",,"Glenn Innes",,https://timebanking.com.au/system/files/pictures/picture-5029-1413257648.jpg,,
-"https://timebanking.com.au/home/Guyra","-30.218448100000","151.672952200000",,"Guyra",,https://timebanking.com.au/system/files/pictures/picture-5030-1413257287.jpg,5,
-"https://timebanking.com.au/home/Tenterfield","-29.054123800000","152.019028500000",,"Tenterfield",,https://timebanking.com.au/system/files/pictures/picture-5069-1413842679.jpg,43,
-"https://timebanking.com.au/home/Tweed Shire","-28.173524000000","153.543051600000",,"Tweed Shire",,https://timebanking.com.au/system/files/pictures/picture-5162-1416287576.jpg,20,
-"https://timebanking.com.au/home/Manning Valley","-31.890454600000","152.509346100000",,"Manning Valley",,https://timebanking.com.au/system/files/pictures/picture-5218-1417667810.png,6,
-"https://timebanking.com.au/home/Port Macquarie Hastings","-31.431270300000","152.908131300000",,"Port Macquarie Hastings",,https://timebanking.com.au/system/files/pictures/picture-5494-1427934828.jpg,20,
-"https://timebanking.com.au/home/Ku-ring-gai","-33.757320000000","151.149160000000",,"Ku-ring-gai",,https://timebanking.com.au/system/files/pictures/picture-6853-1472183495.jpg,34,6
-"https://timebanking.com.au/home/Orange","-33.283333000000","149.100000000000",,"Orange",,https://timebanking.com.au/system/files/pictures/picture-6948-1474937590.png,2,
+"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "year_transactions", "ads"
+"https://timebanking.com.au/home/Australia","-31.253218300000","146.921099000000",,"Australia",,https://timebanking.com.au/system/files/pictures/picture-6-1396253258.jpg,241,13,52
+"https://timebanking.com.au/home/Blue Mountains","-33.714954600000","150.311407400000",,"Blue Mountains",,https://timebanking.com.au/system/files/pictures/picture-8-1396252542.jpg,274,92,228
+"https://timebanking.com.au/home/Cessnock City","-32.834578200000","151.356461900000",,"Cessnock City",,https://timebanking.com.au/system/files/pictures/picture-10-1406158369.jpg,67,,2
+"https://timebanking.com.au/home/Dungog","-32.401680800000","151.757644400000",,"Dungog",,https://timebanking.com.au/system/files/pictures/picture-12-1397573375.jpg,15,,1
+"https://timebanking.com.au/home/Gloucester","-32.007632900000","151.958256500000",,"Gloucester",,https://timebanking.com.au/system/files/pictures/picture-15-1397573712.png,3,,1
+"https://timebanking.com.au/home/Gosford City","-33.425020000000","151.342219400000",,"Gosford City",,https://timebanking.com.au/system/files/pictures/picture-16-1406158270.jpg,583,,63
+"https://timebanking.com.au/home/Great Lakes","-32.180237400000","152.511502200000",,"Great Lakes",,https://timebanking.com.au/system/files/pictures/picture-17-1397573681.jpg,27,,2
+"https://timebanking.com.au/home/Hurstville","-33.967110900000","151.102854900000",,"Hurstville",,https://timebanking.com.au/system/files/pictures/picture-19-1396253280.jpg,34,,3
+"https://timebanking.com.au/home/Kiama","-34.670266100000","150.854386700000",,"Kiama",,https://timebanking.com.au/system/files/pictures/picture-21-1396253320.jpg,21,,1
+"https://timebanking.com.au/home/Lake Macquarie City","-33.108061000000","151.488257200000",,"Lake Macquarie City",,https://timebanking.com.au/system/files/pictures/picture-22-1397573670.jpg,1050,53,60
+"https://timebanking.com.au/home/Maitland City","-32.733663600000","151.557667700000",,"Maitland City",,https://timebanking.com.au/system/files/pictures/picture-25-1398989979.jpg,264,15,28
+"https://timebanking.com.au/home/Muswellbrook","-32.265166500000","150.888323000000",,"Muswellbrook",,https://timebanking.com.au/system/files/pictures/picture-26-1397573160.jpg,25,,1
+"https://timebanking.com.au/home/Newcastle City","-32.930965000000","151.773653000000",,"Newcastle City",,https://timebanking.com.au/system/files/pictures/picture-28-1397573145.jpg,1923,3,95
+"https://timebanking.com.au/home/Newcastle University","-32.926689000000","151.778920500000",,"Newcastle University",,https://timebanking.com.au/system/files/pictures/picture-29-1397572639.jpg,89,,6
+"https://timebanking.com.au/home/Port Stephens","-32.685382500000","152.034096300000",,"Port Stephens",,https://timebanking.com.au/system/files/pictures/picture-32-1397573107.jpg,236,,8
+"https://timebanking.com.au/home/Ryde","-33.813414600000","151.105794900000",,"Ryde",,https://timebanking.com.au/system/files/pictures/picture-34-1399272007.jpg,121,7,35
+"https://timebanking.com.au/home/Singleton","-32.561969400000","151.175315700000",,"Singleton",,https://timebanking.com.au/system/files/pictures/picture-36-1413260672.jpg,18,,1
+"https://timebanking.com.au/home/Sutherland","-34.031472600000","151.057986600000",,"Sutherland",,https://timebanking.com.au/system/files/pictures/picture-38-1396252858.jpg,38,,6
+"https://timebanking.com.au/home/Upper Hunter","-32.050699100000","150.867872000000",,"Upper Hunter",,https://timebanking.com.au/system/files/pictures/picture-43-1397573132.jpg,17,,2
+"https://timebanking.com.au/home/Wagga Wagga","-35.115549200000","147.369477200000",,"Wagga Wagga",,https://timebanking.com.au/system/files/pictures/picture-44-1396252933.jpg,17,,2
+"https://timebanking.com.au/home/Wyong","-33.283628700000","151.423007600000",,"Wyong",,https://timebanking.com.au/system/files/pictures/picture-48-1397572935.jpg,402,,40
+"https://timebanking.com.au/home/Albury Wodonga","-36.080778500000","146.916469300000",,"Albury Wodonga",,https://timebanking.com.au/system/files/pictures/picture-49-1396263522.jpg,111,,7
+"https://timebanking.com.au/home/Bega Valley","-36.674227600000","149.842927700000",,"Bega Valley",,https://timebanking.com.au/system/files/pictures/picture-4328-1398989757.jpg,96,,12
+"https://timebanking.com.au/home/Bland Shire","-33.923502800000","147.205283900000",,"Bland Shire",,https://timebanking.com.au/system/files/pictures/picture-4332-1399271704.jpg,6,,1
+"https://timebanking.com.au/home/Hawkesbury","-33.596513400000","150.750502500000",,"Hawkesbury",,https://timebanking.com.au/system/files/pictures/picture-4333-1399443710.jpg,19,,2
+"https://timebanking.com.au/home/Canterbury City","-33.919568300000","151.076830400000",,"Canterbury City",,https://timebanking.com.au/system/files/pictures/picture-4353-1399862135.jpg,11,,2
+"https://timebanking.com.au/home/Fairfield","-33.870784600000","150.955490000000",,"Fairfield",,https://timebanking.com.au/system/files/pictures/picture-4354-1399862350.jpg,16,,1
+"https://timebanking.com.au/home/Lower North Shore Sydney","-33.805228800000","151.199360600000",,"Lower North Shore Sydney",,https://timebanking.com.au/system/files/pictures/picture-4355-1399862680.jpg,32,,4
+"https://timebanking.com.au/home/Rockdale City","-33.950821200000","151.138797400000",,"Rockdale City",,https://timebanking.com.au/system/files/pictures/picture-4357-1399863161.jpg,14,,2
+"https://timebanking.com.au/home/Shellharbour City","-34.579212300000","150.867404100000",,"Shellharbour City",,https://timebanking.com.au/system/files/pictures/picture-4358-1399863396.jpg,13,,1
+"https://timebanking.com.au/home/The Hills","-33.727069100000","150.994743900000",,"The Hills",,https://timebanking.com.au/system/files/pictures/picture-4359-1399863708.jpg,33,,4
+"https://timebanking.com.au/home/Wollongong","-34.316003300000","150.918453600000",,"Wollongong",,https://timebanking.com.au/system/files/pictures/picture-4360-1399867969.jpg,60,,10
+"https://timebanking.com.au/home/Burwood","-33.877554700000","151.103705400000",,"Burwood",,https://timebanking.com.au/system/files/pictures/picture-4401-1400218477.jpg,17,,2
+"https://timebanking.com.au/home/Eastern Beaches Sydney","-33.893811800000","151.263073800000",,"Eastern Beaches Sydney",,https://timebanking.com.au/system/files/pictures/picture-4403-1400220764.jpg,43,,5
+"https://timebanking.com.au/home/Macarthur","-34.067774100000","150.813191900000",,"Macarthur",,https://timebanking.com.au/system/files/pictures/picture-4405-1400218766.jpg,22,,5
+"https://timebanking.com.au/home/Narrabri","-30.325057200000","149.782980800000",,"Narrabri",,https://timebanking.com.au/system/files/pictures/picture-4407-1400218996.jpg,3,,1
+"https://timebanking.com.au/home/Nepean Penrith","-33.752178500000","150.691046700000",,"Nepean Penrith",,https://timebanking.com.au/system/files/pictures/picture-4408-1400219120.jpg,27,,5
+"https://timebanking.com.au/home/Northern Beaches Sydney","-33.753562200000","151.286139900000",,"Northern Beaches Sydney",,https://timebanking.com.au/system/files/pictures/picture-4409-1400219863.jpg,42,,4
+"https://timebanking.com.au/home/South Eastern Sydney","-33.924669300000","151.211667300000",,"South Eastern Sydney",,https://timebanking.com.au/system/files/pictures/picture-4412-1400220337.jpg,10,,1
+"https://timebanking.com.au/home/Sydney","-33.873651000000","151.206889600000",,"Sydney",,https://timebanking.com.au/system/files/pictures/picture-4413-1400220010.jpg,95,31,22
+"https://timebanking.com.au/home/Walcha","-30.985189300000","151.592485300000",,"Walcha",,https://timebanking.com.au/system/files/pictures/picture-4414-1400220141.jpg,5,,1
+"https://timebanking.com.au/home/Auburn Holroyd Parramatta","-33.848515700000","151.029669600000",,"Auburn Holroyd Parramatta",,https://timebanking.com.au/system/files/pictures/picture-4416-1400218228.jpg,34,,5
+"https://timebanking.com.au/home/Northern Rivers","-28.827980300000","153.285716500000",,"Northern Rivers",,https://timebanking.com.au/system/files/pictures/picture-4417-1400219731.jpg,126,1,76
+"https://timebanking.com.au/home/Blacktown City","-33.785404300000","150.909343900000",,"Blacktown City",,https://timebanking.com.au/system/files/pictures/picture-4432-1400565949.jpg,38,,4
+"https://timebanking.com.au/home/Armidale Dumaresq","-30.486433800000","151.677183500000",,"Armidale Dumaresq",,https://timebanking.com.au/system/files/pictures/picture-4517-1401927005.png,4,,1
+"https://timebanking.com.au/home/Kempsey","-31.104248500000","152.838231500000",,"Kempsey",,https://timebanking.com.au/system/files/pictures/picture-4518-1401927497.jpg,4,,5
+"https://timebanking.com.au/home/Bellingen Shire","-30.496629500000","153.020778300000",,"Bellingen Shire",,https://timebanking.com.au/system/files/pictures/picture-4560-1402881475.jpg,20,,3
+"https://timebanking.com.au/home/Ashfield","-33.888569800000","151.124197900000",,"Ashfield",,https://timebanking.com.au/system/files/pictures/picture-4829-1413853599.jpg,7,,4
+"https://timebanking.com.au/home/Bankstown","-33.917289100000","151.035882000000",,"Bankstown",,https://timebanking.com.au/system/files/pictures/picture-4830-1413853814.jpg,8,,2
+"https://timebanking.com.au/home/Bathurst","-33.417652900000","149.581031400000",,"Bathurst",,https://timebanking.com.au/system/files/pictures/picture-4831-1413258054.jpg,14,,3
+"https://timebanking.com.au/home/Clarence Valley","-29.691122600000","152.933199300000",,"Clarence Valley",,https://timebanking.com.au/system/files/pictures/picture-4832-1413854017.jpg,7,,2
+"https://timebanking.com.au/home/Coffs Harbour","-30.296312100000","153.115672200000",,"Coffs Harbour",,https://timebanking.com.au/system/files/pictures/picture-4833-1413853456.png,27,,6
+"https://timebanking.com.au/home/Drummoyne","-33.851145300000","151.154383300000",,"Drummoyne",,https://timebanking.com.au/system/files/pictures/picture-4834-1413853465.jpg,9,,3
+"https://timebanking.com.au/home/Eurobodalla Shire","-35.909318800000","150.082377000000",,"Eurobodalla Shire",,https://timebanking.com.au/system/files/pictures/picture-4835-1413843413.jpg,11,,4
+"https://timebanking.com.au/home/Goulburn","-34.754834600000","149.718648600000",,"Goulburn",,https://timebanking.com.au/system/files/pictures/picture-4836-1413853611.jpg,8,,1
+"https://timebanking.com.au/home/Hornsby","-33.703158000000","151.100480600000",,"Hornsby",,https://timebanking.com.au/system/files/pictures/picture-4837-1413258389.jpg,32,,15
+"https://timebanking.com.au/home/Inner West Sydney","-33.898642900000","151.174312600000",,"Inner West Sydney",,https://timebanking.com.au/system/files/pictures/picture-4838-1413853992.jpg,61,,22
+"https://timebanking.com.au/home/Kogarah","-33.962727100000","151.133463600000",,"Kogarah",,https://timebanking.com.au/system/files/pictures/picture-4839-1413260278.jpg,55,8,47
+"https://timebanking.com.au/home/Lane Cove","-33.789589000000","151.143100000000",,"Lane Cove",,https://timebanking.com.au/system/files/pictures/picture-4840-1413853477.jpg,14,,8
+"https://timebanking.com.au/home/Liverpool City","-33.920019200000","150.924126700000",,"Liverpool City",,https://timebanking.com.au/system/files/pictures/picture-4841-1413260453.jpg,38,1,21
+"https://timebanking.com.au/home/Shoalhaven City","-35.356977200000","150.473990400000",,"Shoalhaven City",,https://timebanking.com.au/system/files/pictures/picture-4842-1413852214.jpg,27,,5
+"https://timebanking.com.au/home/Snowy Mountains","-36.235284500000","149.125280200000",,"Snowy Mountains",,https://timebanking.com.au/system/files/pictures/picture-4843-1413783518.jpg,7,,1
+"https://timebanking.com.au/home/Southern Highlands","-34.548814700000","150.374198700000",,"Southern Highlands",,https://timebanking.com.au/system/files/pictures/picture-4844-1413852269.jpg,16,,4
+"https://timebanking.com.au/home/Tamworth","-31.106315700000","150.930734100000",,"Tamworth",,https://timebanking.com.au/system/files/pictures/picture-4845-1413852575.jpg,11,,1
+"https://timebanking.com.au/home/Dubbo","-32.245291700000","148.606457000000",,"Dubbo",,https://timebanking.com.au/system/files/pictures/picture-4897-1413256665.jpg,8,,1
+"https://timebanking.com.au/home/Glenn Innes","-29.737663800000","151.740250600000",,"Glenn Innes",,https://timebanking.com.au/system/files/pictures/picture-5029-1413257648.jpg,,,0
+"https://timebanking.com.au/home/Guyra","-30.218448100000","151.672952200000",,"Guyra",,https://timebanking.com.au/system/files/pictures/picture-5030-1413257287.jpg,5,,3
+"https://timebanking.com.au/home/Tenterfield","-29.054123800000","152.019028500000",,"Tenterfield",,https://timebanking.com.au/system/files/pictures/picture-5069-1413842679.jpg,43,,47
+"https://timebanking.com.au/home/Tweed Shire","-28.173524000000","153.543051600000",,"Tweed Shire",,https://timebanking.com.au/system/files/pictures/picture-5162-1416287576.jpg,20,,6
+"https://timebanking.com.au/home/Manning Valley","-31.890454600000","152.509346100000",,"Manning Valley",,https://timebanking.com.au/system/files/pictures/picture-5218-1417667810.png,6,,2
+"https://timebanking.com.au/home/Port Macquarie Hastings","-31.431270300000","152.908131300000",,"Port Macquarie Hastings",,https://timebanking.com.au/system/files/pictures/picture-5494-1427934828.jpg,20,,11
+"https://timebanking.com.au/home/Ku-ring-gai","-33.757320000000","151.149160000000",,"Ku-ring-gai",,https://timebanking.com.au/system/files/pictures/picture-6853-1472183495.jpg,34,4,6
+"https://timebanking.com.au/home/Orange","-33.283333000000","149.100000000000",,"Orange",,https://timebanking.com.au/system/files/pictures/picture-6948-1474937590.png,2,,1
