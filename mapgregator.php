@@ -17,70 +17,142 @@ $errors = "";
 $allPoints = [];
 
 //rebuild the local cache if it is more than a day old
-$urls = [
-  //'route-des-sel.org' => ['(Route des SEL)', 'rds']
-  'timebanking.com.au' => ['Timebanking NSW',  'tbnsw'], //#00AAF4
-  'hourworld.org' => ['hOurworld', 'hourworld'], //#255625
-  'community.timebanks.org' => ['TB USA', 'tbusa'], //#104A91
-  'integralces.net' => ['Integral CES', 'ices'],//#9c3;
+$urls['nonmem'] = [
+  'route-des-sel.org' => [
+    'Route des SEL',
+    'Drupal (custom)',
+    'A French platform for house sharing between LETS members'
+  ],
+  'associazionenazionalebdt.it' => [
+    'Associazione Nazionale Banche del Tempo',
+    'Unknown',
+    'Italian umbrella org'
+  ],
+  'letslinkuk.net' => [
+    'LETSlink UK',
+    '<a href="https://github.com/cdmweb/Local-Exchange-UK">Local Exchange</a>',
+    'UK LETS umbrella org'
+  ],
+  'static' => [
+    'Other',
+    '<a href="https://github.com/cdmweb/Local-Exchange-UK">Local Exchange</a>',
+    'Some other sites we know about running Local Exchange'
+  ],
+  'timebanking.com.au' => [
+    'Timebanking NSW',
+    'Drupal (Custom)',
+    'Commissioned by the state government to run its timebanking programme'
+  ],
+  'hourworld.org' => [
+    'hOurworld',
+    'handmade PHP',
+    'Free timebanking SAAS'
+  ],
+  'community.timebanks.org' => [
+    'Timebanks USA',
+    '',
+    ''
+  ],
+  'integralces.net' => [
+    'Integral CES',
+    'Drupal (custom)',
+    'rebuild of CES platform of Spanish cooperatives.'
+  ]
+];
+$urls['member'] = [
   // put the member networks last so our pins appear on top
-  'communityforge.net' => ['Cforge', 'cforge ccc'], //'rgb(0, 113, 188)
-  'communityexchange.net.au' => ['CES (Oz)', 'cesoz ccc'], //rgb(84, 197, 208)
-  'community-exchange.org' => ['CES (Main)', 'cesmain ccc'], //#6fbd44
-  'letslinkuk.net' => ['LETSlink UK', 'letslinkuk'], //#255625
-  'static' => ['', 'other'], //#255625
+  'communityforge.net' => [
+    'Community Forge',
+    'Drupal (<a href="http://drupal.org/project/cforge">Hamlets)',
+    'Free hosting and support for Hamlets sites'
+  ],
+  'communityexchange.net.au' => [
+    'CES (Oz)',
+    'handmade ASP',
+    'Clone of main CES for Australian network'
+  ],
+  'community-exchange.org' => [
+    'CES (Main)',
+    'handmade ASP',
+    'Free SAAS for community exchanges'
+  ]
 ];
 
-foreach ($urls as $url => $info) {
-  //In testing mode don't retrive from live sites
-  if (FALSE && $csvHandle = fopen('http://'.$url.'/geo.csv', 'r')) {
-    $color = "green";
-  }
-  elseif ($csvHandle = fopen('file:///home/matslats/cccmap/'.$url.'/geo.csv', 'r')) {
-    $color = "red";
-  }
-  elseif ($csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
-    $color = "orange";
-  }
-  $retrieved = geo_csv_points($csvHandle, $info[0], $info[1]);
-  $messages[] = "\n<font color=\"$color\">Taken ".count($retrieved) ." points from  $url</font>";
-  $allPoints = array_merge($allPoints, $retrieved);
-  if ($geocoded) {
-    //file_put_contents($url.'.csv', implode("\n", $geocoded));
-    $geocoded = "";
+foreach ($urls as $type => &$sites) {
+  foreach ($sites as $url => &$info) {
+    $points = [];
+    $info = array_combine(['name', 'software', 'comment'], $info);
+    //In testing mode don't retrive from live sites
+    if ($csvHandle = @fopen('http://'.$url.'/geo.csv', 'r')) {
+      if ($result = geo_csv_points($csvHandle, $info['name'], $type)) {
+        list($info['groups'], $info['members'], $info['transactions'], $points) = $result;
+      }
+    }
+    else {
+      $messages[] = '<font color=orange>No file at '.'http://'.$url.'/geo.csv'.'</font>';
+    }
+    if (!$points and $csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
+      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
+      $info['comment'] .= ' (unfiltered data)';
+    }
+    $messages[] = "<font color=green>Taken ".count($points) ." points from ".$info['name']."</font>";
+
+    $allPoints = array_merge($allPoints, $points);
+    if ($geocoded) {
+      //file_put_contents($url.'.csv', implode("\n", $geocoded));
+      $geocoded = "";
+    }
   }
 }
+file_put_contents('table.txt', serialize($urls));
 
 $messages[] = "Total ".count($allPoints).' map points.';
-$geoJson = [//this is in the wrong place
+$deduped = reduce_duplicates($allPoints);
+$geoJson = [
   'type' => 'FeatureCollection',
-  'features' => reduce_duplicates($allPoints)
+  'features' => $deduped
 ];
 //now is the time to check for duplicates
-$messages[] = "Saved ".count($geoJson['features']).' map points.';
+$string = json_encode($geoJson);
+if ($string == FALSE) {
+  $messages[] = '<font color=red>'.json_last_error_msg().'</font>';
+}
+$messages[] = "Saving ".count($geoJson['features']).' map points';
 
-file_put_contents('geo.json', json_encode($geoJson));
-
+if ($string) {
+  $result = file_put_contents('geo.json', $string);
+  if ($result === FALSE) $messages[] = 'Failed to write';
+  else $messages[] = 'Wrote '. $result .' bytes to geo.json';
+}
 print '<div class="mapgregator">'.implode("<br />\n", $messages).'</div>';
 
 /**
  *
- * @param type $csvHandle
- * @param type $color
+ * @param resource $csvHandle
+ * @param string $networkName
+ * @param string $class_name
  *
  * @return array
+ *   The geojson structure.
  */
-function geo_csv_points($csvHandle, $networkName, $class) {
+function geo_csv_points($csvHandle, $networkName, $class_name) {
   global $geocoded, $messages;
   $points = [];
+  $members = $transactions = 0;
   $headings = fgetcsv($csvHandle);
+  if (count($headings) < 3) {
+    return array();
+  }
   while($data = fgetcsv($csvHandle)) {
     if (count($headings) <> count($data)) {
-      die('wrong num of columns '.$networkName);
+      //die('wrong num of columns '.$networkName);
     }
+    $data = array_pad($data, count($headings), array());
     $row = array_combine($headings, $data);
-
-    if (isset($row['active_members']) and $row['active_members'] < 10) continue;
+    //skip low volume sites.
+    if (isset($row['active_members']) and $row['active_members'] < 10) {
+      continue;
+    }
     //"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
     if (empty($row['latitude']) || empty($row['longitude'])) {
       if (!empty($row['WKT'])) {
@@ -89,8 +161,7 @@ function geo_csv_points($csvHandle, $networkName, $class) {
         $geocoded[] = '"'.$row['WKT'] .'",'. $row['latitude'] .','. $row['longitude'];
       }
       else {
-        print_r($row);
-        die('no coords or WTK '.$networkName);
+        continue;
       }
     }
     $point = [
@@ -102,47 +173,61 @@ function geo_csv_points($csvHandle, $networkName, $class) {
       'properties' => [
         "name" => $row['title'],
         "icon" => [
-          "iconUrl" => "/redpin.png",
+          "iconUrl" => "pin.png",
           "iconSize" => [32, 32], // size of the icon
           "iconAnchor" => [25, 31], // point of the icon which will correspond to marker's location
           "popupAnchor" => [0, -35], // point from which the popup should open relative to the iconAnchor
-          "className" => "$class"
+          "className" => "$class_name"
         ]
-      ]
+      ],
+      'description' => ''
     ];
     $bubble = &$point['properties']['description'];
+
+    if (!empty($row['logo']) and substr($row['logo'], 0, 4) != 'http') {
+      $row['logo'] = 'http://'.$row['logo'];
+    }
     if (isset($row['url'])) {
       if (substr($row['url'], 0, 7) != 'http://') {
         $row['url']= 'http://'.$row['url'];
       }
-      $bubble = '<a href="'.$row['url'].'">'.$row['title'].'</a> - '.$networkName;
+      $bubble = '<a href="'.$row['url'].'">'.$row['title'].'</a> - '.$networkName .'<br />';
       if (isset($row['logo'])) {
-        $bubble .= '<br /><a href="'.$row['url'].'"><img src="'.$row['logo'].'" width = "55" align = "left"/></a>';
+        $bubble .= '<a href="'.$row['url'].'"><img src="'.$row['logo'].'" width = "55" align = "left" /></a>';
       }
     }
     else {
-      $bubble = $row['title'] .' - '.$networkName;
-      if (isset($row['logo'])) {
-        $bubble .= '<br /><img src="'.$row['logo'].'" width=55 align=left/>';
+      $bubble = $row['title'] .' - '.$networkName .'<br />';
+      if (!empty($row['logo'])) {
+        $bubble .= '<img src="'.$row['logo'].'" width=55 align=left/>';
       }
     }
 
-    if (isset($row['description'])) {
-      $bubble .= '<br />'.$row['description'];
+    if (!empty($row['description'])) {
+      if (!json_encode($row['description'])) {
+        $messages[] = '<font color=red> non-UTF8 string for '.$row['title'].': '.$row['description'] .'</font>';
+        $row['description'] = utf8_encode($row['description']);
+        $messages[] = '<font color=green> corrected to '.$row['description'] .'</font>';
+        continue;
+      }
+      $bubble .= $row['description'].'<br />';
     }
+
     if (isset($row['active_members'])) {
-      $bubble .= '<br /><strong>'.$row['active_members']. '</strong> Active members';
+      $bubble .= '<strong>'.$row['active_members']. '</strong> Active members<br />';
     }
-    if (isset($row['3month_transactions'])) {
-      $bubble .= '<br /><strong>'.$row['3month_transactions']. '</strong> transactions last year';
+    if (isset($row['year_transactions'])) {
+      $bubble .= '<strong>'.$row['year_transactions']. '</strong> transactions last year';
+    }
+    if (!json_encode($bubble)) {
+      $messages[] = '<font color=red> non-UTF8 string for '.$bubble .'</font>';
+      continue;
     }
     $points[] = $point;
+    $members += isset($row['active_members']) ? $row['active_members'] : 0;
+    $transactions += isset($row['year_transactions']) ? $row['year_transactions'] : 0;
   }
-  if (empty($points)) {
-    print_r($headings);
-    die('No results');
-  }
-  return $points;
+  return [count($points), $members ? : 'unknown', $transactions ? : 'unknown', $points];
 }
 
 function geocode($string) {

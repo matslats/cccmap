@@ -5,18 +5,10 @@
     <link href='https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css' rel='stylesheet' />
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <meta charset="UTF-8">
-    <style>/* all this changes the redness of the pin */
-        /* Members of CCC should appear brighter */
-        .rds{filter: opacity(20%);}
-        .ices{filter: hue-rotate(140deg) saturate(0.20%);}
-        .tbnsw{filter: hue-rotate(140deg) saturate(0.20%);}
-        .hourworld{filter: hue-rotate(200deg) saturate(0.20%);}
-        .tbusa{filter: hue-rotate(240deg) saturate(0.20%)}
-        .cforge{filter: hue-rotate(10deg) brightness(0.8);}
-        .cesoz{filter: hue-rotate(160deg);}
-        .cesmain{filter: hue-rotate(120deg);}
-        .static{filter: hue-rotate(130deg);}
-        .letslinkuk{filter: hue-rotate(140deg);}
+    <style>
+        .member{}
+        .nonmem{filter: saturate(40%) opacity(50%);}
+        th {background-color: #dedede;}
     </style>
   </head>
   <body>
@@ -40,6 +32,60 @@
     </script>
 
     N.B. Map shows only communities with more than 10 members.
-    <!-- todo count communities in different ways -->
+    <br /><br />
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Platform</th>
+          <th>Description</th>
+          <th>Software</th>
+          <th>Members</th>
+          <th>Active sites</th>
+          <th>12 months transactions</th>
+        </tr>
+      </thead>
+      <tbody>
+    <?php
+      foreach (array_reverse(unserialize(file_get_contents('table.txt'))) as $type => &$sites) :
+        $members = $groups = $transactions = $notfirst = 0;
+        ?><?php foreach ($sites as $url => &$info) : ?>
+          <tr>
+            <td>
+              <?php if (!$notfirst)print $type == 'member' ? '<font color=red>Credit commons collective</font>' : '<font color=gray>Other</font>'; $notfirst=1; ?>
+            </td>
+            <td>
+                <a href="http://<?php print $info['url']; ?>"><?php print $info['name']; ?>
+            </td>
+            <td>
+              <?php print $info['comment']; ?>
+            </td>
+            <td>
+              <?php print $info['software']; ?>
+            </td>
+            <td>
+              <?php $members += $info['members'];print $info['members']; ?>
+            </td>
+            <td>
+              <?php $groups += $info['groups']; print $info['groups']; ?>
+            </td>
+            <td>
+              <?php $transactions += $info['transactions']; print $info['transactions']; ?>
+            </td>
+          </tr>
+        <?php endforeach; ?>
+        <tr>
+          <th></th>
+          <th>Total</th>
+          <th></th>
+          <th></th>
+          <th><?php print $members; ?></th>
+          <th><?php print $groups; ?></th>
+          <th><?php print $transactions; ?></th>
+        </tr>
+        <tr><td><br /></td></tr>
+      <?php endforeach; ?>
+      </tbody>
+    </table>
   </body>
 </html>
