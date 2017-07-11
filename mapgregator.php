@@ -18,11 +18,11 @@ $allPoints = [];
 
 //rebuild the local cache if it is more than a day old
 $urls['nonmem'] = [
-  'route-des-sel.org' => [
-    'Route des SEL',
-    'Drupal (custom)',
-    'A French platform for house sharing between LETS members'
-  ],
+  //'route-des-sel.org' => [
+  //  'Route des SEL',
+  //  'Drupal (custom)',
+  //  'A French platform for house sharing between LETS members'
+  //],
   'associazionenazionalebdt.it' => [
     'Associazione Nazionale Banche del Tempo',
     'None?',
@@ -37,6 +37,11 @@ $urls['nonmem'] = [
     'Other',
     '<a href="https://github.com/cdmweb/Local-Exchange-UK">Local Exchange</a>',
     'Some other sites we know about running Local Exchange'
+  ],
+  'timeoverflow.org' => [
+    'CoopDevs',
+    '<a href="https://github.com/coopdevs/timeoverflow">Time Overflow</a>',
+    'Free hosted and supported sites'
   ],
   'timebanking.com.au' => [
     'Timebanking NSW',
@@ -95,9 +100,9 @@ foreach ($urls as $type => &$sites) {
       list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
       $info['comment'] .= ' (unfiltered data)';
     }
-    //if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
-    //  list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
-    //}
+    if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
+      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
+    }
     $messages[] = "<font color=green>Taken ".count($points) ." points from ".$info['name']."</font>";
 
     $allPoints = array_merge($allPoints, $points);
