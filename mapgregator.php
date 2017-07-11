@@ -25,7 +25,7 @@ $urls['nonmem'] = [
   ],
   'associazionenazionalebdt.it' => [
     'Associazione Nazionale Banche del Tempo',
-    'Unknown',
+    'None?',
     'Italian umbrella org'
   ],
   'letslinkuk.net' => [
@@ -95,6 +95,9 @@ foreach ($urls as $type => &$sites) {
       list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
       $info['comment'] .= ' (unfiltered data)';
     }
+    //if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
+    //  list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
+    //}
     $messages[] = "<font color=green>Taken ".count($points) ." points from ".$info['name']."</font>";
 
     $allPoints = array_merge($allPoints, $points);
@@ -145,7 +148,8 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
   }
   while($data = fgetcsv($csvHandle)) {
     if (count($headings) <> count($data)) {
-      //die('wrong num of columns '.$networkName);
+      print_r($headings);print_r($data);
+      die('wrong num of columns '.$networkName);
     }
     $data = array_pad($data, count($headings), array());
     $row = array_combine($headings, $data);
