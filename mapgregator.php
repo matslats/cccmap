@@ -157,7 +157,13 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
       die('wrong num of columns '.$networkName);
     }
     $data = array_pad($data, count($headings), array());
-    $row = array_combine($headings, $data);
+    if (count($headings) == count($data)) {
+      $row = array_combine($headings, $data);
+    }
+    else {
+      $messages[] = '<font color=red>Wrong number of columns in row: '.print_r($headings, 1) .print_r($data, 1).'</font>';
+      continue;
+    }
     //skip low volume sites.
     if (isset($row['active_members']) and $row['active_members'] < 10) {
       continue;
@@ -196,7 +202,7 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
     if (!empty($row['logo']) and substr($row['logo'], 0, 4) != 'http') {
       $row['logo'] = 'http://'.$row['logo'];
     }
-    if (isset($row['url'])) {
+    if (!empty($row['url'])) {
       if (substr($row['url'], 0, 7) != 'http://') {
         $row['url']= 'http://'.$row['url'];
       }
@@ -268,6 +274,7 @@ function reduce_duplicates($allPoints) {
   //build an index
   foreach ($allPoints as $id => $point) {
     $title = trim(strtolower(str_replace('SEL', '', $point['properties']['name'])));
+    $title = preg_replace('/[^a-z]/', '', $title);
     $titles[$title][] = $id;
     $names[] = $title;
   }
@@ -284,6 +291,7 @@ function reduce_duplicates($allPoints) {
     //assume there is no more than two duplicates
     list($id1, $id2) = array_keys($compare);
     if ($compare[$id1]['loc'] == $compare[$id2]['loc']) {
+      //remove the one with the shortest description.
       $remove = ($compare[$id1]['len'] > $compare[$id2]['len']) ? $id2 : $id1;
       unset($allPoints[$remove]);
       $dupeNames[] = $title;
