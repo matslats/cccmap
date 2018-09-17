@@ -113,7 +113,7 @@ N.B. How do we ensure UTF8?
 
 This format is subject to change and all maps being aggregated will be notified.
 
-Temporary rendering is on http://hamlets.communityforge.net/global-map.php  
+Offical rendering is on http://creditcommons.net/map
 N.B. Real world changes won't appear on maps immediately because both the sites, and the aggregator are likely to be keeping caches.
 
 To see the code we used to aggregate all the csv files and present a consistent look and feel, contact us.
