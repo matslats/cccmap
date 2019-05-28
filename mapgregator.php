@@ -55,7 +55,7 @@ $urls['nonmem'] = [
   ],
   'community.timebanks.org' => [
     'Timebanks USA',
-    '',
+    'handmade PHP',
     ''
   ],
   'integralces.net' => [
@@ -96,12 +96,12 @@ foreach ($urls as $type => &$sites) {
     else {
       $messages[] = '<font color=orange>No file at '.'http://'.$url.'/geo.csv'.'</font>';
     }
+    if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
+      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
+    }
     if (!$points and $csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
       list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
       $info['comment'] .= ' (unfiltered data)';
-    }
-    if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
-      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name'], $type);
     }
     $messages[] = "<font color=green>Taken ".count($points) ." points from ".$info['name']."</font>";
 
