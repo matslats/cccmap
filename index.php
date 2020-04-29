@@ -1,61 +1,126 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
   <head>
     <title>Major community currency networks</title>
-    <script src='https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.js'></script>
-    <link href='https://api.mapbox.com/mapbox.js/v3.1.0/mapbox.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.css' rel='stylesheet' />
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <meta charset="UTF-8">
+    
     <style>
         .member{}
         .nonmem{filter: saturate(40%) opacity(50%);}
         th {background-color: #dedede;}
     </style>
+    <?php include './mapbox.conf.php';?>
   </head>
   <body>
     <div id='map' style='width: 90%; height: 800px;'></div>
     <script>// Create the map using tiles
-      L.mapbox.accessToken = 'pk.eyJ1IjoibWF0c2xhdHMiLCJhIjoiY2oyeXcxdzdmMDBhNTMyanNmbzN1dGt2cSJ9.XUw8z45hXx8MoXgQ-G5QUw';
-      var map = L.mapbox.map('map', 'mapbox.streets');
-    </script>
-
-    <!-- Might need to add this to apache: AddType application/x-httpd-php .html -->
-    <script>// Add the data layer
-      var myLayer = L.mapbox.featureLayer().addTo(map);
-      var geoJson = <?php include './geo.json'; ?>
-      // Set a custom icon on each marker based on feature properties.
-      myLayer.on('layeradd', function(e) {
-        var marker = e.layer,
-          feature = marker.feature;
-        marker.setIcon(L.icon(feature.properties.icon));
+      mapboxgl.accessToken = '<?php print MAPBOX_ACCESS_TOKEN; ?>';
+      var map = new mapboxgl.Map({
+        container: 'map',
+        style: '<?php print MAPBOX_STYLE; ?>',
+        center: [0, 51],
+        zoom: 4
       });
-      myLayer.setGeoJSON(geoJson);
-    </script>
+      map.setRenderWorldCopies(status === 'false');
+      map.loadImage(
+        './pin.png',
+        function(error, image) {
+          map.addImage('pin', image);
+        }
+      );
+      map.loadImage(
+        './pin-nonmem.png',
+        function(error, image) {
+          map.addImage('pinnon', image);
+        }
+      );
+      map.on('load', function() {
+        map.addSource('live', {
+          'type': 'geojson',
+          'data': './live.geo.json'
+        });
+        map.addSource('scraped', {
+          'type': 'geojson',
+          'data': './scraped.geo.json'
+        });
 
+        map.addLayer({
+          'id': 'live',
+          'type': 'symbol',
+          'source': 'live',
+          'layout': {
+            'icon-image': 'pin',
+            'icon-allow-overlap': true
+          }
+        })
+        map.addLayer({
+          'id': 'scraped',
+          'type': 'symbol',
+          'source': 'scraped',
+          'layout': {
+            'icon-image': 'pinnon',
+            'icon-allow-overlap': true
+          }
+        })
+
+        var popup = new mapboxgl.Popup({
+          closeButton: false,
+          closeOnClick: false
+        });
+        map.on('click', 'live', dopopup);
+        map.on('click', 'scraped', dopopup);
+        map.on('mouseenter', 'points', function(e) {
+          map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', 'points', function(e) {
+          map.getCanvas().style.cursor = '';
+        });
+
+        function dopopup(e) {
+          var coordinates = e.features[0].geometry.coordinates.slice();
+          var description = e.features[0].properties.network +'<br />'+ e.features[0].properties.description;
+          // Ensure that if the map is zoomed out such that multiple copies of the feature are visible, the popup appears over the copy being pointed to.
+          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+          }
+          popup
+          .setLngLat(coordinates)
+          .setHTML(description)
+          .addTo(map);
+        };
+      });
+
+    </script>
+      <?php
+      const LAYER_LIVE = 'live';
+      const LAYER_SCRAPED = 'scraped';
+      $sources = unserialize(file_get_contents('table.txt'));
+      usort($sources, 'sourcesort');
+      $groups = 0;
+      foreach ($sources as $info)$groups += $info['groups'];
+      ?>
     N.B. Map shows only communities with more than 10 members.
     <br /><br />
     <table>
       <thead>
         <tr>
-          <th></th>
           <th>Platform</th>
           <th>Description</th>
           <th>Software</th>
           <th>Members</th>
-          <th>Active sites</th>
+          <th>Active sites (<?php print $groups ?>)</th>
           <th>12 months transactions</th>
         </tr>
       </thead>
       <tbody>
-    <?php
-      foreach (array_reverse(unserialize(file_get_contents('table.txt'))) as $type => &$sites) :
-        $members = $groups = $transactions = $notfirst = 0;
-        ?><?php foreach ($sites as $url => &$info) : ?>
+    <?php foreach ($sources as $info) :?>
           <tr>
             <td>
-              <?php if (!$notfirst)print $type == 'member' ? '<font color=red>Credit commons collective</font>' : '<font color=gray>Other</font>'; $notfirst=1; ?>
-            </td>
-            <td>
-                <a href="http://<?php print $info['url']; ?>"><?php print $info['name']; ?>
+              <a href="http://<?php print $url; ?>"><?php print $info['name']; ?></a>
+                <?php print $info[LAYER_LIVE]? '': ' (scraped)'; ?>
             </td>
             <td>
               <?php print $info['comment']; ?>
@@ -73,19 +138,17 @@
               <?php $transactions += $info['transactions']; print $info['transactions']; ?>
             </td>
           </tr>
-        <?php endforeach; ?>
-        <tr>
-          <th></th>
-          <th>Total</th>
-          <th></th>
-          <th></th>
-          <th><?php print $members; ?></th>
-          <th><?php print $groups; ?></th>
-          <th><?php print $transactions; ?></th>
-        </tr>
         <tr><td><br /></td></tr>
       <?php endforeach; ?>
       </tbody>
     </table>
   </body>
 </html>
+
+<?php
+function sourcesort(array $a, array $b): bool {
+  if ($a[LAYER_LIVE] == $b[LAYER_LIVE]) {
+    return $a['groups'] < $b['groups'];
+  }
+  return $a[LAYER_LIVE] < $b[LAYER_LIVE];
+}
