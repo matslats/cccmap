@@ -168,6 +168,9 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
     if (isset($row['active_members']) and $row['active_members'] < 10) {
       continue;
     }
+    if (isset($row['3month_transactions']) and $row['3month_transactions'] < 5) {
+      continue;
+    }
     //"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
     if (empty($row['latitude']) || empty($row['longitude'])) {
       if (!empty($row['WKT'])) {
@@ -187,13 +190,6 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
       ],
       'properties' => [
         "name" => $row['title'],
-        "icon" => [
-          "iconUrl" => "pin.png",
-          "iconSize" => [32, 32], // size of the icon
-          "iconAnchor" => [25, 31], // point of the icon which will correspond to marker's location
-          "popupAnchor" => [0, -35], // point from which the popup should open relative to the iconAnchor
-          "className" => "$class_name"
-        ]
       ],
       'description' => ''
     ];
@@ -239,7 +235,14 @@ function geo_csv_points($csvHandle, $networkName, $class_name) {
       continue;
     }
     $points[] = $point;
-    $members += isset($row['active_members']) ? $row['active_members'] : 0;
+    if (isset($row['active_members'])) {
+      if (is_numeric($row['active_members'])) {
+        $members += $row['active_members'];
+      }
+      else {
+        $messages[] = '<font color=red> non-numeric active_members <pre>'.print_r($row, 1) .'</pre></font>';
+      }
+    }
     $transactions += isset($row['year_transactions']) ? $row['year_transactions'] : 0;
   }
   return [count($points), $members ? : 'unknown', $transactions ? : 'unknown', $points];
@@ -273,7 +276,7 @@ function reduce_duplicates($allPoints) {
   global $messages;
   //build an index
   foreach ($allPoints as $id => $point) {
-    $title = trim(strtolower(str_replace('SEL', '', $point['properties']['name'])));
+    $title = trim(strtolower(str_ireplace('SEL', '', $point['properties']['name'])));
     $title = preg_replace('/[^a-z]/', '', $title);
     $titles[$title][] = $id;
     $names[] = $title;
