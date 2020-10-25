@@ -44,11 +44,11 @@ $sources = [
     '<a href="https://github.com/cdmweb/Local-Exchange-UK">Local Exchange</a>',
     'Some other sites we know about running Local Exchange'
   ],
-//  'timebanking.com.au' => [
-//    'Timebanking NSW',
-//    'Drupal (Custom)',
-//    'Commissioned by the state government to run its timebanking programme'
-//  ],
+  'timebanking.com.au' => [
+    'Timebanking NSW',
+    'Drupal (Custom)',
+    'Commissioned by the state government to run its timebanking programme'
+  ],
   'hourworld.org' => [
     'hOurworld',
     'handmade PHP',
@@ -118,7 +118,7 @@ foreach ($sources as $url => &$info) {
     list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
     $info['comment'] .= ' (unfiltered data)';
   }
-  $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'red').'">Taken '.count($points) .' points from '.$live_url.'</font>';
+  $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'orange').'">Taken '.count($points) .' points from '.$live_url.'</font>';
 
   $all_points = array_replace_recursive($all_points, $points);
 }
@@ -132,24 +132,31 @@ foreach ($all_points as $unique => $point) {
 
 file_put_contents('table.txt', serialize($sources));
 
-writeGeoJson(LAYER_LIVE, $layers[LAYER_LIVE]);
-writeGeoJson(LAYER_SCRAPED, $layers[LAYER_SCRAPED]);
+writeGeoJson(LAYER_LIVE, (array)$layers[LAYER_LIVE]);
+writeGeoJson(LAYER_SCRAPED, (array)$layers[LAYER_SCRAPED]);
 
 print '<div class="mapgregator">'.implode("<br />\n", $messages).'</div>';
 exit;
 
 function writeGeoJson($filename, array $points) {
   global $messages;
+  $filename = $filename.'.geo.json';
+  if (empty($points)) {
+    $messages[] = "<font color=orange>No points to write to $filename</font>";
+    return;
+  }
+  global $messages;
   $geoJson = [
     'type' => 'FeatureCollection',
     'features' => $points
   ];
   $string = json_encode($geoJson);
-  $filename = $filename.'.geo.json';
-  $result = file_put_contents($filename, $string);
-  $messages[] =  $result ?
+  if (empty($string)) {
+    $messages[] = "<font color=red>Failed to json_encode points for $filename. Was it UTF8 Encoded?</font>";
+  }
+  $messages[] =  file_put_contents($filename, $string) ?
     'Wrote '. count($points) .' nodes to '.$filename :
-    'Failed to write '.$filename;
+    "<font color=red>Failed to write ". count($points) ." to $filename</font>";
 }
 
 /**
@@ -164,13 +171,15 @@ function geo_csv_points($csvHandle, $networkName) {
   global $geocoded, $messages;
   $firstrow = 1;
   $points = [];
-  $members = $transactions = 0;
+  $skipped = ['inactive' => 0, 'baddata' => 0];
+  $members = $transactions = $rows = 0;
   $headings = fgetcsv($csvHandle);
   if (count($headings) < 3) {
     return array();
   }
 
   while($data = fgetcsv($csvHandle)) {
+    $rows++;
     if (count($headings) <> count($data)) {
       if ($firstrow){
         $messages[] = "<font color=\"red\">Wrong number of columns in $networkName: ".implode(', ' , $data).'| should be:'.implode(', ' , $headings) .'</font>';
@@ -183,16 +192,24 @@ function geo_csv_points($csvHandle, $networkName) {
     if ($networkName == 'SELidaire'){print_r($row);}
     //skip low volume sites.
     if (isset($row['active_members']) and $row['active_members'] < 10) {
+      $skipped['inactive']++;
       continue;
     }
-    if (isset($row['transactions_year']) and $row['transactions_year'] < 10) {
+    elseif (isset($row['year_transactions']) and $row['year_transactions'] < 10) {
+      $skipped['inactive']++;
       continue;
     }
-    if (empty($row['title'])){
+    // Legacy column name still published by hourworld.
+    elseif (isset($row['3month_transactions']) and $row['3month_transactions'] < 3) {
+      $skipped['inactive']++;
+      continue;
+    }
+    elseif (empty($row['title'])){
+      $skipped['baddata']++;
       $messages[] = "no title ".print_r($row, 1);
       continue;
     }
-//    else $row['title'] = utf8_decode($row['title']);
+    $row['title'] = utf8_encode($row['title']);
     //"url", "latitude", "longitude", "WKT", "title", "description", "logo", "active_members", "3month_transactions"
     if (empty($row['latitude']) || empty($row['longitude'])) {
       if (!empty($row['WKT']) and defined('MAPBOX_ACCESS_TOKEN')) {
@@ -236,26 +253,19 @@ function geo_csv_points($csvHandle, $networkName) {
         $bubble .= '<img src="'.$row['logo'].'" width=55 align=left/>';
       }
     }
-
     if (!empty($row['description'])) {
-      if (!json_encode($row['description'])) {
-        $messages[] = '<font color=red> non-UTF8 string for '.$row['title'].': '.$row['description'] .'</font>';
-        $row['description'] = utf8_encode($row['description']);
-        $messages[] = '<font color=green> corrected to '.$row['description'] .'</font>';
-        continue;
-      }
       $bubble .= $row['description'].'<br />';
     }
-
-    if (isset($row['active_members'])) {
-      $bubble .= '<strong>'.$row['active_members']. '</strong> Active members<br />';
-    }
-    if (isset($row['year_transactions'])) {
-      $bubble .= '<strong>'.$row['year_transactions']. '</strong> transactions last year';
-    }
+    
     if (!json_encode($bubble)) {
-      $messages[] = '<font color=red> non-UTF8 string for '.$bubble .'</font>';
-      continue;
+       $messages[] = '<font color=red> non-UTF8 string for '.$row['title'].': '.$bubble .'</font>';
+       $bubble = utf8_encode($bubble);
+       $messages[] = '<font color=green> corrected to '.$row['description'] .'</font>';
+     }
+
+    $points[] = $point;
+    if (isset($row['active_members']) and is_numeric($row['active_members'])) {
+      $members += $row['active_members'];
     }
     $name = strtolower(str_replace('SEL', '', $point['properties']['name']));
     $unique_name = preg_replace('/\s+/', '', $name);
@@ -268,6 +278,12 @@ function geo_csv_points($csvHandle, $networkName) {
     $points[$unique_name.$loc] = $point; //overwrite any dupes
     $members += isset($row['active_members']) ? $row['active_members'] : 0;
     $transactions += isset($row['year_transactions']) ? $row['year_transactions'] : 0;
+  }
+  if ($skipped['inactive']) {
+    $messages[] = '<font color=green>'.$networkName.' skipped '.$skipped['inactive'] .' inactive groups out of '.$rows.'</font>';
+  }
+  if ($skipped['baddata']) {
+    $messages[] = '<font color=red>'.$networkName.' skipped '.$skipped['baddata'] .' groups for bad data out of '.$rows.'</font>';
   }
   return [count($points), $members ? : 'unknown', $transactions ? : 'unknown', $points];
 }

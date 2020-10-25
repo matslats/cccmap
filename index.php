@@ -2,20 +2,20 @@
 <html lang="en-US">
   <head>
     <title>Major community currency networks</title>
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <meta charset="UTF-8">
 
     <style>
-        .member{}
-        .nonmem{filter: saturate(40%) opacity(50%);}
         th {background-color: #dedede;}
     </style>
     <?php include './mapbox.conf.php';?>
   </head>
   <body>
+    Zoom in with your mouse to see more sites.
     <div id='map' style='width: 90%; height: 800px;'></div>
+    N.B. Map shows only communities with more than 10 members and more than 5 transactions in the last 3 months.
     <script>// Create the map using tiles
       mapboxgl.accessToken = '<?php print MAPBOX_ACCESS_TOKEN; ?>';
       var map = new mapboxgl.Map({
@@ -117,11 +117,20 @@
         </tr>
       </thead>
       <tbody>
-    <?php foreach ($sources as $info) :?>
+    <?php foreach ($sources as $info) :
+        if (is_numeric($info['members'])) {
+          $members += $info['members'];
+        }
+        if (is_numeric($info['transactions'])) {
+          $transactions += $info['transactions'];
+        }
+        $groups += $info['groups'];
+        ?>
+
           <tr>
             <td>
               <a href="http://<?php print $url; ?>"><?php print $info['name']; ?></a>
-                <?php print $info[LAYER_LIVE]? '': ' (scraped)'; ?>
+                <?php print $type != LAYER_LIVE ? '': ' (scraped)'; ?>
             </td>
             <td>
               <?php print $info['comment']; ?>
@@ -130,13 +139,13 @@
               <?php print $info['software']; ?>
             </td>
             <td>
-              <?php $members += $info['members'];print $info['members']; ?>
+              <?php print $info['members']; ?>
             </td>
             <td>
-              <?php $groups += $info['groups']; print $info['groups']; ?>
+              <?php print $info['groups']; ?>
             </td>
             <td>
-              <?php $transactions += $info['transactions']; print $info['transactions']; ?>
+              <?php  print $info['transactions']; ?>
             </td>
           </tr>
         <tr><td><br /></td></tr>
@@ -151,5 +160,5 @@ function sourcesort(array $a, array $b): bool {
   if ($a[LAYER_LIVE] == $b[LAYER_LIVE]) {
     return $a['groups'] < $b['groups'];
   }
-  return $a[LAYER_LIVE] < $b[LAYER_LIVE];
+  return $a[LAYER_LIVE] > $b[LAYER_LIVE];
 }
