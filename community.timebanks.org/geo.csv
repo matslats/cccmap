@@ -1,141 +1,131 @@
-"latitude", "longitude", "title", "url"
-39.322847, -82.09728, "Athens Time Exchange", "http://community.timebanks.org/node/797"
-46.577191, -90.89707, "TimeTraders North and the Washburn Area Timebank", "http://community.timebanks.org/node/835"
-44.414056, -69.751913, "Time Initiative of Maine", "http://community.timebanks.org/timebanks/time-initiative-maine"
-44.265633, -72.59686, "Onion River Exchange", "http://community.timebanks.org/node/863"
-42.8548, -72.55987, "Brattleboro Time Trade", "http://community.timebanks.org/timebanks/brattleboro-time-trade"
-41.184072, -74.378512, "Time Bank of West Milford", "http://community.timebanks.org/node/883"
-42.659936, -70.61727, "Cape Ann TimeBank", "http://community.timebanks.org/timebanks/cape-ann-timebank"
-32.822213, -117.101847, "Tierrasanta Village of San Diego", "http://community.timebanks.org/node/933"
-39.916078, -75.40251, "TimeBank Media", "http://community.timebanks.org/node/946"
-40.607747, -75.4793, "Community Exchange", "http://community.timebanks.org/node/948"
--37.955415, 176.992734, "Eastbay TimeBank", "http://community.timebanks.org/node/949"
-38.917188, -77.0178, "DC TimeBank", "http://community.timebanks.org/node/953"
-39.210696, -76.847229, "Columbia Community Exchange of Howard County", "http://community.timebanks.org/timebanks/columbia-community-exchange-howard-county"
--43.603267, 172.722716, "The Lyttelton Time Bank", "http://community.timebanks.org/node/990"
-41.148308, -81.355723, "Crooked River Alliance of TimeBanks", "http://community.timebanks.org/node/1007"
-40.131253, -75.570547, "Phoenixville Area Time Bank", "http://community.timebanks.org/node/1009"
--40.760987, 175.14708, "Otaki Timebank", "http://community.timebanks.org/timebanks/otaki-timebank"
-29.956665, -90.107394, "NOLA TimeBank", "http://community.timebanks.org/node/1322"
--35.116942, 173.266751, "Kaitaia  TimeBank", "http://community.timebanks.org/timebanks/kaitaia-timebank"
-47.613704, -122.344457, "SWEL Timebank", "http://community.timebanks.org/timebanks/swel-timebank"
--41.312255, 174.777664, "Wellington Timebank", "http://community.timebanks.org/timebanks/wellington-south-time-bank"
--43.542415, 172.614862, "Addington TimeBank", "http://community.timebanks.org/timebanks/addington-timebank"
-37.699387, -122.065179, "Eastbay Area Reciprocity Network", "http://community.timebanks.org/timebanks/eastbay-area-reciprocity-network-earn"
-43.136729, -70.93192, "Seacoast TimeBank", "http://community.timebanks.org/timebanks/great-bay-timebank"
--39.06737, 174.052669, "Taranaki TimeBank", "http://community.timebanks.org/timebanks/timebank-taranaki"
--37.800671, 174.87121, "Timebank Raglan", "http://community.timebanks.org/timebanks/timebank-raglan"
--45.876791, 170.501876, "Dunedin TimeBank", "http://community.timebanks.org/timebanks/dunedin-timebank"
--43.578293, 172.769421, "Bridge2Rocks TimeBank", "http://community.timebanks.org/timebanks/bridge2rocks-timebank-christchurch"
--41.109106, 175.103494, "TimeBank Upper Hutt", "http://community.timebanks.org/timebanks/timebank-upper-hutt"
-39.286237, -76.587176, "LetsBMore", "http://community.timebanks.org/timebanks/letsbmore"
--37.786303, 175.281149, "Waikato TimeBank", "http://community.timebanks.org/timebanks/hamilton-timebank"
--41.215627, 174.892448, "The Hutt Timebank", "http://community.timebanks.org/timebanks/hutt-south-timebank"
--40.807708, 175.600073, "Wairarapa Timebank", "http://community.timebanks.org/timebanks/wairarapa-timebank"
-43.435625, -103.484643, "Black Hills Time Banking", "http://community.timebanks.org/timebanks/black-hills-time-banking"
--45.226476, 170.758014, "Waitaki TimeBank", "http://community.timebanks.org/timebanks/timebank-waitaki"
-41.077224, -74.804047, "Northwest New Jersey TimeBank", "http://community.timebanks.org/timebanks/northwest-new-jersey-timebank"
--43.171124, 172.780674, "TimeBank Hurunui", "http://community.timebanks.org/timebanks/timebank-hurunui"
-39.754881, -75.561302, "Delaware Hour Exchange", "http://community.timebanks.org/timebanks/delaware-hour-exchange"
-39.246179, -94.41763, "Hour 4 Our World", "http://community.timebanks.org/timebanks/hour-4-our-world"
-47.67903, -122.1934, "Timebanks of Puget Sound (TOPS)", "http://community.timebanks.org/timebanks/timebanks-puget-sound"
-38.96516, -77.06737, "TimeForAll", "http://community.timebanks.org/timebanks/tbusa"
-39.726016, -86.266646, "TimeBank Indianapolis", "http://community.timebanks.org/timebanks/mcs-1-stop-central-indiana-community"
-42.927797, -75.845153, "Cazenovia TimeBank/CRIS", "http://community.timebanks.org/timebanks/cris-timebank"
-38.578716, -121.442763, "Community Skill Exchange", "http://community.timebanks.org/timebanks/community-skill-exchange-sacramento"
-28.595099, -81.350942, "Ubuntu", "http://community.timebanks.org/timebanks/ubuntu"
--33.331707, 115.660711, "Project Bunbury", "http://community.timebanks.org/timebanks/project-bunbury"
-47.545462, -122.380106, "West Seattle Timebank", "http://community.timebanks.org/timebanks/west-seattle"
-38.867175, -76.986921, "Our Sharing Community At Bread", "http://community.timebanks.org/timebanks/our-sharing-community-bread"
-41.465774, -81.558635, "Greater Heights Community TimeBank", "http://community.timebanks.org/timebanks/greater-heights-community-timebank"
-46.235988, -64.566597, "TimeBank New Brunswick", "http://community.timebanks.org/timebanks/timebank-new-brunswick"
-39.028759, -77.143561, "Healthy Outcomes Win Inc", "http://community.timebanks.org/timebanks/healthy-outcomes-win-inc"
-43.543844, -80.249345, "Guelph Wellington TimeBank", "http://community.timebanks.org/timebanks/guelph-wellington-timebank"
-47.701932, -2.623079, "Banque de Pièces d\'Heures du Labo", "http://community.timebanks.org/timebanks/le-labo-du-nautilus"
-42.792514, -76.11721, "Tully Area TimeBank", "http://community.timebanks.org/timebanks/tully-area-timebank"
-36.140205, 128.33391, "timebankskorea", "http://community.timebanks.org/timebanks/timebankskorea"
-38.944672, -77.06571, "UDC TimeBank", "http://community.timebanks.org/timebanks/udc-timebank"
-43.423274, -88.182601, "Our TimeBank of Washington County", "http://community.timebanks.org/timebanks/our-timebank-washington-county"
-39.413034, -77.417739, "Frederick TimeBank", "http://community.timebanks.org/timebanks/frederick-time-bank"
--41.28578, 174.777221, "MWDI HINEPRENEUR", "http://community.timebanks.org/timebanks/mwdi-hinepreneur"
-36.099897, -80.246037, "NBN Neighborhood Network", "http://community.timebanks.org/timebanks/nbn-neighborhood-network"
-35.220909, -97.517303, "Norman Timebank", "http://community.timebanks.org/timebanks/norman-timebank"
-41.372194, -93.545473, "Central Iowa Network", "http://community.timebanks.org/timebanks/central-iowa-network"
-40.015874, -105.278982, "StarTribe Hours", "http://community.timebanks.org/timebanks/startribe-hours"
-35.985673, -78.897962, "Durham Timebank", "http://community.timebanks.org/timebanks/durham-timebank"
--43.559132, 172.706291, "TimeBank Aotearoa New Zealand", "http://community.timebanks.org/timebanks/timebank-aotearoa-new-zealand"
-27.778988, -82.661844, "St. Pete Time Bank", "http://community.timebanks.org/timebanks/everyday-hero-exchange"
-42.340065, -71.166876, "History of Money Class At BC", "http://community.timebanks.org/timebanks/history-money-class-bc-0"
-38.393314, -122.83666, "Sebastopol Area Time Bank", "http://community.timebanks.org/timebanks/sebastopol-area-time-bank"
-45.944071, -66.645086, "TimeBank Fredericton", "http://community.timebanks.org/timebanks/timebank-fredericton"
-44.508005, -88.014855, "Innovative Services Employee Timebank", "http://community.timebanks.org/timebanks/innovative-services-employee-timebank"
-37.2341, -80.4141, "New River Valley TimeBank", "http://community.timebanks.org/timebanks/new-river-valley-timebank"
-38.052576, -84.729946, "Kentucky Light Community (KLC)", "http://community.timebanks.org/timebanks/kentucky-light-community-klc"
-33.698449, -117.719481, "Hope Xchange Timebank", "http://community.timebanks.org/timebanks/hope-xchange-timebank"
-38.626805, -90.241839, "PrideCenter STL", "http://community.timebanks.org/timebanks/pridecenter-stl"
-37.84802, -122.274688, "Neighborhood Village", "http://community.timebanks.org/timebanks/neighborhood-village"
--40.81341, 175.122108, "Kapiti 50 +", "http://community.timebanks.org/timebanks/kapiti-50-timebank"
-38.90915, -76.940638, "The Sanctuary Intergenerational Senior Village", "http://community.timebanks.org/timebanks/sanctuary-intergenerational-senior-village"
--46.435643, 168.367054, "Murihiku Time Exchange", "http://community.timebanks.org/timebanks/murihiku-time-exchange"
-45.141725, -89.139442, "CARE Timebank", "http://community.timebanks.org/timebanks/care-connecting-antigos-resources-effectively-timebank"
--40.81341, 175.122108, "Central NZ Permaculture Timebank", "http://community.timebanks.org/timebanks/central-nz-permaculture-timebank"
-36.677621, -93.21289, "Taney County Time Bank", "http://community.timebanks.org/timebanks/taney-county-time-bank"
--40.323397, 175.649039, "TimeBank Manawatu", "http://community.timebanks.org/timebanks/timebank-manawatu"
-41.633811, -80.143558, "Meadville Time Trade", "http://community.timebanks.org/timebanks/meadville-time-trade"
-33.204045, -97.12707, "Denton Time Exchange", "http://community.timebanks.org/timebanks/denton-time-exchange"
-39.28899, -77.859718, "Jefferson Community Time Bank", "http://community.timebanks.org/timebanks/jefferson-community-time-bank"
-37.264954, -79.977626, "Roanoke Valley Time Bank", "http://community.timebanks.org/timebanks/roanoke-valley-time-bank"
-42.756724, -73.680649, "Margination Mutual Support Network", "http://community.timebanks.org/timebanks/margination-mutual-support-network"
-64.856052, -147.804993, "Fairbanks Time Bank", "http://community.timebanks.org/timebanks/fairbanks-time-bank"
-35.573833, -82.506772, "East Asheville Neighbors Network", "http://community.timebanks.org/timebanks/east-asheville-neighbors-network"
-34.875091, -83.953221, "Appalachian Time Exchange", "http://community.timebanks.org/timebanks/appalachian-time-exchange"
-39.884468, -76.796515, "York Time Bank", "http://community.timebanks.org/timebanks/york-time-bank"
-35.593828, -82.550041, "Asheville TimeBank", "http://community.timebanks.org/timebanks/asheville-timebank"
-37.756487, -122.443006, "Globetable", "http://community.timebanks.org/timebanks/globetable"
--44.696938, 169.134962, "Wanaka Time Bank", "http://community.timebanks.org/timebanks/wanaka-time-bank"
-46.529157, -60.419249, "Time Bank St. Ann\'s Bay", "http://community.timebanks.org/timebanks/time-bank-st-anns-bay"
-40.271224, -74.015427, "Jersey Shore Timebank", "http://community.timebanks.org/timebanks/jersey-shore-timebank"
-51.078927, -114.059433, "GHOOD Calgary Timebank", "http://community.timebanks.org/timebanks/ghood-calgary"
-39.899394, -75.35231, "Nether-Swarthmore TimeBank", "http://community.timebanks.org/timebanks/timebank-swarthmore"
-42.314465, -71.103094, "Boston Ujima Time Bank", "http://community.timebanks.org/timebanks/jamaica-plain-time-exchange"
-35.431397, -83.424349, "Western North Carolina Writers Time Bank", "http://community.timebanks.org/timebanks/western-north-carolina-writers-time-bank"
--43.2898, 172.499246, "Timebank Waimakariri", "http://community.timebanks.org/timebanks/timebank-waimakariri"
-20.726817, -156.339741, "Timebank Hawai\'i", "http://community.timebanks.org/timebanks/timebank-hawaii"
-39.972923, -75.162541, "Reciprocity Time Bank", "http://community.timebanks.org/timebanks/reciprocity"
-37.644345, -84.778019, "Danville Dollar Timebank", "http://community.timebanks.org/timebanks/danville-dollar-timebank"
-41.342315, -73.653663, "Community Sharing Exchange (CSE)", "http://community.timebanks.org/timebanks/community-sharing-exchange-cse"
--43.907212, 171.747857, "Mid Canterbury TimeBank", "http://community.timebanks.org/timebanks/mid-canterbury-timebank"
-32.771447, -117.071414, "Girls Fraternity", "http://community.timebanks.org/timebanks/girls-fraternity"
--42.399567, 173.678447, "Time Exchange Kaikoura", "http://community.timebanks.org/timebanks/kaikoura-time-exchange"
-40.22012, 23.668843, "CareTimeBank.com by Engaging Team", "http://community.timebanks.org/timebanks/engaging"
-39.688437, -104.91348, "Hour Community Interfaith TimeBank", "http://community.timebanks.org/timebanks/hour-community-interfaith-timebank"
-40.800558, -96.701476, "Central Lincoln Skillshare Collective", "http://community.timebanks.org/timebanks/central-lincoln-skillshare-collective"
-47.67731, -117.603972, "West Prairie Village Time Bank", "http://community.timebanks.org/timebanks/west-prairie-village-time-bank"
-39.755713, -104.959759, "City Park Timebank", "http://community.timebanks.org/timebanks/north-city-park-timebank"
-41.507064, -74.009581, "Together We Can", "http://community.timebanks.org/timebanks/together-we-can"
-39.729594, -121.819251, "Northern California Counties Time Bank", "http://community.timebanks.org/timebanks/northern-california-counties-time-bank"
--41.210331, 174.93439, "Unity Exchange", "http://community.timebanks.org/timebanks/unity-exchange"
-38.972959, -77.017432, "TakomaTime", "http://community.timebanks.org/timebanks/takomatime-0"
-49.496741, -117.290494, "Come Unity Slocan Valley TimeBank", "http://community.timebanks.org/timebanks/come-unity-slocan-valley-timebank"
-43.324775, -76.417356, "TimeBank13069", "http://community.timebanks.org/timebanks/timebank13069"
-35.922758, -79.09202, "NC Piedmont DSA Time Bank", "http://community.timebanks.org/timebanks/piedmont-time-bank"
--41.141454, 174.864299, "Porirua TimeBank", "http://community.timebanks.org/timebanks/porirua-timebank"
-49.859856, -119.487959, "ChangeXChange.io", "http://community.timebanks.org/timebanks/changexchangeio"
-38.660081, -76.059452, "Habitat for Humanity Choptank", "http://community.timebanks.org/timebanks/habitat-humanity-choptank"
-40.152899, -75.28737, "Good Neighbors Time Bank", "http://community.timebanks.org/timebanks/good-neighbors-time-bank"
-40.091547, -82.924335, "Scouts", "http://community.timebanks.org/timebanks/scouts"
-45.70558, -62.942272, "The Community Project (Scotsburn Area)", "http://community.timebanks.org/timebanks/community-project-scotsburn"
-21.292692, -157.84302, "Circlenomic", "http://community.timebanks.org/timebanks/circlenomic"
-38.034802, -78.505647, "UVa Time Bank", "http://community.timebanks.org/timebanks/uva-time-bank"
-44.960573, -76.985041, "Contribute and Thrive North Frontenac", "http://community.timebanks.org/timebanks/contribute-and-thrive-north-frontenac"
-34.43747, -119.168116, "Ojai Time Exchange", "http://community.timebanks.org/timebanks/ojai-time-exchange"
-45.611331, -60.772187, "Community Skill Exchange-Richmond County TimeBank", "http://community.timebanks.org/timebanks/commmunity-skill-exchange-richmond-county-timebank"
-38.324547, -122.708518, "Farmster Timebank", "http://community.timebanks.org/timebanks/farmster-timebank"
-28.484316, -82.55181, "Spring Hill FL Time Bank", "http://community.timebanks.org/timebanks/spring-hill-fl-time-bank"
-41.685374, -85.69409, "Middlebury Neighbors Helping Neighbors", "http://community.timebanks.org/timebanks/middlebury-neighbors-helping-neighbors"
-41.835067, -71.26115, "Palmer River Timebank", "http://community.timebanks.org/timebanks/palmer-river-timebank"
-39.0752, -84.52064, "Covington Time Bank", "http://community.timebanks.org/timebanks/covington-time-bank"
-44.06092, -123.08275, "Lane Service Sharing Network", "http://community.timebanks.org/timebanks/lane-service-sharing-network"
-41.490545, -87.076094, "CoThrive Timebank Network", "http://community.timebanks.org/timebanks/cothrive-timebank-network"
-36.414942, -105.5808, "Taos Community Time Bank", "http://community.timebanks.org/timebanks/taos-community-time-bank"
-43.14004, -88.22641, "Bridges Timebank", "http://community.timebanks.org/timebanks/bridges-timebank"
+latitude,longitude,title,url
+39.322847,-82.09728,"Athens Time Exchange",https://community.timebanks.org/node/797
+44.414056,-69.751913,"Time Initiative of Maine",https://community.timebanks.org/timebanks/time-initiative-maine
+44.265633,-72.59686,"Onion River Exchange",https://community.timebanks.org/node/863
+42.8548,-72.55987,"Brattleboro Time Trade",https://community.timebanks.org/timebanks/brattleboro-time-trade
+41.184072,-74.378512,"Time Bank of West Milford",https://community.timebanks.org/node/883
+42.659936,-70.61727,"Cape Ann TimeBank",https://community.timebanks.org/timebanks/cape-ann-timebank
+32.822213,-117.101847,"Tierrasanta Village of San Diego",https://community.timebanks.org/node/933
+40.607747,-75.4793,Neighbor-2-Neighbor,https://community.timebanks.org/node/948
+-37.955415,176.992734,"Eastbay TimeBank",https://community.timebanks.org/node/949
+38.917188,-77.0178,"DC TimeBank",https://community.timebanks.org/node/953
+39.210696,-76.847229,"Columbia Community Exchange of Howard County",https://community.timebanks.org/timebanks/columbia-community-exchange-howard-county
+-43.603267,172.722716,"The Lyttelton Time Bank",https://community.timebanks.org/node/990
+41.148308,-81.355723,"Crooked River Alliance of TimeBanks",https://community.timebanks.org/node/1007
+40.131253,-75.570547,"Phoenixville Area Time Bank",https://community.timebanks.org/node/1009
+29.956665,-90.107394,"NOLA TimeBank",https://community.timebanks.org/node/1322
+30.410486,-91.03768,"Spurt Time Bank",https://community.timebanks.org/node/1330
+47.613704,-122.344457,"SWEL Timebank",https://community.timebanks.org/timebanks/swel-timebank
+-43.542415,172.614862,"Addington TimeBank",https://community.timebanks.org/timebanks/addington-timebank
+37.699387,-122.065179,"Eastbay Area Reciprocity Network",https://community.timebanks.org/timebanks/eastbay-area-reciprocity-network-earn
+43.136729,-70.93192,"Seacoast TimeBank",https://community.timebanks.org/timebanks/great-bay-timebank
+-39.06737,174.052669,"Taranaki TimeBank",https://community.timebanks.org/timebanks/timebank-taranaki
+-37.800671,174.87121,"Timebank Raglan",https://community.timebanks.org/timebanks/timebank-raglan
+-45.876791,170.501876,"Dunedin TimeBank",https://community.timebanks.org/timebanks/dunedin-timebank
+-43.578293,172.769421,"Bridge2Rocks TimeBank",https://community.timebanks.org/timebanks/bridge2rocks-timebank-christchurch
+39.286237,-76.587176,LetsBMore,https://community.timebanks.org/timebanks/letsbmore
+-37.786303,175.281149,"Waikato TimeBank",https://community.timebanks.org/timebanks/hamilton-timebank
+-41.215627,174.892448,"The Hutt Timebank",https://community.timebanks.org/timebanks/hutt-south-timebank
+-40.807708,175.600073,"Wairarapa Timebank",https://community.timebanks.org/timebanks/wairarapa-timebank
+-45.226476,170.758014,"Waitaki TimeBank",https://community.timebanks.org/timebanks/timebank-waitaki
+41.077224,-74.804047,"Northwest New Jersey TimeBank",https://community.timebanks.org/timebanks/northwest-new-jersey-timebank
+-43.171124,172.780674,"TimeBank Hurunui",https://community.timebanks.org/timebanks/timebank-hurunui
+39.246179,-94.41763,"Hour 4 Our World",https://community.timebanks.org/timebanks/hour-4-our-world
+47.67903,-122.1934,"Timebanks of Puget Sound (TOPS)",https://community.timebanks.org/timebanks/timebanks-puget-sound
+38.96516,-77.06737,TimeForAll,https://community.timebanks.org/timebanks/tbusa
+39.726016,-86.266646,"TimeBank Indianapolis",https://community.timebanks.org/timebanks/mcs-1-stop-central-indiana-community
+42.927797,-75.845153,"Cazenovia TimeBank/CRIS",https://community.timebanks.org/timebanks/cris-timebank
+38.578716,-121.442763,"Community Skill Exchange",https://community.timebanks.org/timebanks/community-skill-exchange-sacramento
+28.595099,-81.350942,Ubuntu,https://community.timebanks.org/timebanks/ubuntu
+-33.331707,115.660711,"Project Bunbury",https://community.timebanks.org/timebanks/project-bunbury
+47.545462,-122.380106,"West Seattle Timebank",https://community.timebanks.org/timebanks/west-seattle
+38.867175,-76.986921,"Our Sharing Community At Bread",https://community.timebanks.org/timebanks/our-sharing-community-bread
+46.235988,-64.566597,"TimeBank New Brunswick",https://community.timebanks.org/timebanks/timebank-new-brunswick
+39.028759,-77.143561,"Healthy Outcomes Win Inc",https://community.timebanks.org/timebanks/healthy-outcomes-win-inc
+47.701932,-2.623079,"Banque de Pièces d'Heures du Labo",https://community.timebanks.org/timebanks/le-labo-du-nautilus
+36.140205,128.33391,timebankskorea,https://community.timebanks.org/timebanks/timebankskorea
+38.944672,-77.06571,"UDC TimeBank",https://community.timebanks.org/timebanks/udc-timebank
+43.423274,-88.182601,"Our TimeBank of Washington County",https://community.timebanks.org/timebanks/our-timebank-washington-county
+39.413034,-77.417739,"Frederick TimeBank",https://community.timebanks.org/timebanks/frederick-time-bank
+-41.28578,174.777221,"MWDI HINEPRENEUR",https://community.timebanks.org/timebanks/mwdi-hinepreneur
+36.099897,-80.246037,"NBN Neighborhood Network",https://community.timebanks.org/timebanks/nbn-neighborhood-network
+35.220909,-97.517303,"Norman Timebank",https://community.timebanks.org/timebanks/norman-timebank
+41.372194,-93.545473,"Central Iowa Network",https://community.timebanks.org/timebanks/central-iowa-network
+35.985673,-78.897962,"Durham Timebank",https://community.timebanks.org/timebanks/durham-timebank
+-43.559132,172.706291,"TimeBank Aotearoa New Zealand",https://community.timebanks.org/timebanks/timebank-aotearoa-new-zealand
+27.778988,-82.661844,"St. Pete Timebank",https://community.timebanks.org/timebanks/st-pete-timebank
+42.340065,-71.166876,"History of Money Class At BC",https://community.timebanks.org/timebanks/history-money-class-bc-0
+38.393314,-122.83666,"Sebastopol Area Time Bank",https://community.timebanks.org/timebanks/sebastopol-area-time-bank
+45.944071,-66.645086,"TimeBank Fredericton",https://community.timebanks.org/timebanks/timebank-fredericton
+37.2341,-80.4141,"New River Valley TimeBank",https://community.timebanks.org/timebanks/new-river-valley-timebank
+38.052576,-84.729946,"Kentucky Light Community (KLC)",https://community.timebanks.org/timebanks/kentucky-light-community-klc
+33.698449,-117.719481,"Hope Xchange Timebank",https://community.timebanks.org/timebanks/hope-xchange-timebank
+38.626805,-90.241839,"PrideCenter STL",https://community.timebanks.org/timebanks/pridecenter-stl
+37.84802,-122.274688,"Neighborhood Village",https://community.timebanks.org/timebanks/neighborhood-village
+-40.81341,175.122108,"Kapiti 50 +",https://community.timebanks.org/timebanks/kapiti-50-timebank
+38.90915,-76.940638,"The Sanctuary Intergenerational Senior Village",https://community.timebanks.org/timebanks/sanctuary-intergenerational-senior-village
+45.141725,-89.139442,"CARE Timebank",https://community.timebanks.org/timebanks/care-connecting-antigos-resources-effectively-timebank
+-40.81341,175.122108,"Central NZ Permaculture Timebank",https://community.timebanks.org/timebanks/central-nz-permaculture-timebank
+36.677621,-93.21289,"Taney County Time Bank",https://community.timebanks.org/timebanks/taney-county-time-bank
+-40.323397,175.649039,"TimeBank Manawatu",https://community.timebanks.org/timebanks/timebank-manawatu
+41.633811,-80.143558,"Meadville Time Trade",https://community.timebanks.org/timebanks/meadville-time-trade
+33.204045,-97.12707,"Denton Time Exchange",https://community.timebanks.org/timebanks/denton-time-exchange
+37.264954,-79.977626,"Roanoke Valley Time Bank",https://community.timebanks.org/timebanks/roanoke-valley-time-bank
+42.756724,-73.680649,"Margination Mutual Support Network",https://community.timebanks.org/timebanks/margination-mutual-support-network
+35.573833,-82.506772,"East Asheville Neighbors Network",https://community.timebanks.org/timebanks/east-asheville-neighbors-network
+34.875091,-83.953221,"Appalachian Time Exchange",https://community.timebanks.org/timebanks/appalachian-time-exchange
+39.884468,-76.796515,"York Time Bank",https://community.timebanks.org/timebanks/york-time-bank
+35.593828,-82.550041,"Asheville TimeBank",https://community.timebanks.org/timebanks/asheville-timebank
+37.756487,-122.443006,Globetable,https://community.timebanks.org/timebanks/globetable
+46.529157,-60.419249,"Time Bank St. Ann's Bay",https://community.timebanks.org/timebanks/time-bank-st-anns-bay
+40.271224,-74.015427,"Jersey Shore Timebank",https://community.timebanks.org/timebanks/jersey-shore-timebank
+51.078927,-114.059433,"GHOOD Calgary Timebank",https://community.timebanks.org/timebanks/ghood-calgary
+39.899394,-75.35231,"Nether-Swarthmore TimeBank",https://community.timebanks.org/timebanks/timebank-swarthmore
+42.314465,-71.103094,"Boston Ujima Time Bank",https://community.timebanks.org/timebanks/jamaica-plain-time-exchange
+-43.2898,172.499246,"TimeBank Waimakariri",https://community.timebanks.org/timebanks/timebank-waimakariri
+39.972923,-75.162541,"Reciprocity Time Bank",https://community.timebanks.org/timebanks/reciprocity
+41.342315,-73.653663,"Community Sharing Exchange (CSE)",https://community.timebanks.org/timebanks/community-sharing-exchange-cse
+-43.907212,171.747857,"Mid Canterbury TimeBank",https://community.timebanks.org/timebanks/mid-canterbury-timebank
+39.688437,-104.91348,"Hour Community Interfaith TimeBank",https://community.timebanks.org/timebanks/hour-community-interfaith-timebank
+41.507064,-74.009581,"Together We Can",https://community.timebanks.org/timebanks/together-we-can
+-41.210331,174.93439,"Unity Exchange",https://community.timebanks.org/timebanks/unity-exchange
+49.496741,-117.290494,"Come Unity Slocan Valley TimeBank",https://community.timebanks.org/timebanks/come-unity-slocan-valley-timebank
+43.324775,-76.417356,TimeBank13069,https://community.timebanks.org/timebanks/timebank13069
+-41.141454,174.864299,"Porirua TimeBank",https://community.timebanks.org/timebanks/porirua-timebank
+40.152899,-75.28737,"Good Neighbors Time Bank",https://community.timebanks.org/timebanks/good-neighbors-time-bank
+40.091547,-82.924335,Scouts,https://community.timebanks.org/timebanks/scouts
+38.034802,-78.505647,"UVa Time Bank",https://community.timebanks.org/timebanks/uva-time-bank
+28.484316,-82.55181,"Spring Hill FL Time Bank",https://community.timebanks.org/timebanks/spring-hill-fl-time-bank
+39.0752,-84.52064,"Covington Time Bank",https://community.timebanks.org/timebanks/covington-time-bank
+44.06092,-123.08275,"Lane Service Sharing Network",https://community.timebanks.org/timebanks/lane-service-sharing-network
+41.490545,-87.076094,"CoThrive Timebank Network",https://community.timebanks.org/timebanks/cothrive-timebank-network
+36.414942,-105.5808,"Taos Community Time Bank",https://community.timebanks.org/timebanks/taos-community-time-bank
+43.14004,-88.22641,"Bridges Timebank",https://community.timebanks.org/timebanks/bridges-timebank
+34.595859,-83.76194,"People Serving People LLC",https://community.timebanks.org/timebanks/people-serving-people
+41.392171,-81.32748,"Northeast Ohio TimeBank",https://community.timebanks.org/timebanks/chagrin-valley-time-bank
+40.463463,-79.94612,"Time Bank of Pittsburgh",https://community.timebanks.org/timebanks/time-bank-pittsburgh
+33.053092,-117.26855,"The Care Village Community",https://community.timebanks.org/timebanks/care-village-community
+42.121443,-75.93329,"Binghamton Time Bank",https://community.timebanks.org/timebanks/binghamton-time-bank
+27.787904,-82.68039,"St. Pete Youth",https://community.timebanks.org/timebanks/st-pete-youth
+39.184986,-96.56932,"MHK Time Bank",https://community.timebanks.org/timebanks/mhk-time-bank
+34.345016,-89.50735,"Sullivan Timebank",https://community.timebanks.org/timebanks/sullivan-timebank
+42.446396,-71.459405,"Narrative Co-Op",https://community.timebanks.org/timebanks/narrative-co-op
+40.675534,-73.84476,"It Takes A City",https://community.timebanks.org/timebanks/it-takes-city
+21.300167,-157.84777,"Kokua Exchange",https://community.timebanks.org/timebanks/kokua-exchange
+43.086711,-87.9749,"Table Timebank",https://community.timebanks.org/timebanks/table-timebank
+38.851221,-77.44998,"Grassroots Citizen Corps",https://community.timebanks.org/timebanks/grassroots-citizen-corps
+41.904667,-87.62504,"World Happiness Fest",https://community.timebanks.org/timebanks/world-happiness-fest
+45.51379,-122.6458,"Portland Collaborative Exchange Network",https://community.timebanks.org/timebanks/portland-collaborative-exchange-network
+35.202178,-83.81695,"Cherokee County Time Bank",https://community.timebanks.org/timebanks/cherokee-county-time-bank
+35.997193,-78.89731,"Bank of Us",https://community.timebanks.org/timebanks/bank-us
+40.695286,-73.98907,FMAC,https://community.timebanks.org/timebanks/freelancers-mutual-aid-circle
+38.855479,-76.88621,"LinkUp Timebank",https://community.timebanks.org/timebanks/linkup-timebank
+38.919211,-77.03777,"Community Consciousness Timebank",https://community.timebanks.org/timebanks/community-consciousness-timebank
+47.416198,-122.46821,"Vashon Island Time Exchange",https://community.timebanks.org/timebanks/vashon-time-exchange
+39.952112,-75.15853,"Reciprocity Community Time Bank",https://community.timebanks.org/timebanks/reciprocity-community-time-bank
+26.524549,-80.06321,"Boynton Beach Neighbors Helping Neighbors",https://community.timebanks.org/timebanks/boynton-beach-neighbors-helping-neighbors
+44.964852,-93.08397,"Creators Space Community Timebank",https://community.timebanks.org/timebanks/creators-space-community-timebank
+37.763028,-122.16305,TBC,https://community.timebanks.org/timebanks/tbc
+41.544736,-87.32716,"Urban Synergy",https://community.timebanks.org/timebanks/urban-synergy
+37.743381,-122.48578,"RIPL Exchange",https://community.timebanks.org/timebanks/ripl-exchange
+38.94081,-77.08723,"Hope Pilgrim Timebank",https://community.timebanks.org/timebanks/hope-pilgrim-timebank

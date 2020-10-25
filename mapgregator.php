@@ -57,7 +57,8 @@ $sources = [
   'community.timebanks.org' => [
     'Timebanks USA',
     'handmade PHP',
-    ''
+    '',
+    'http://community.timebanks.org'
   ],
 //  'selidaire.org/sites/selidaire.org' => [
 //     'SELidaire',
@@ -100,8 +101,9 @@ $sources = [
 
 $all_points = $all_points = [];
 foreach ($sources as $url => &$info) {
+  print_r($info);
   $points = [];
-  $keys = ['name', 'software', 'comment', 'live'];
+  $keys = ['name', 'comment', 'live', 'source'];
   $info = array_combine($keys, array_pad($info, count($keys), NULL));
   //In testing mode don't retrive from live sites
   $live_url = 'https://'.$url.'/geo.csv';
@@ -119,14 +121,12 @@ foreach ($sources as $url => &$info) {
     elseif ($csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
       list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
     }
-    $info['comment'] .= ' (not current)';
+    $info['comment'] .= ' (not current) scraped from '.$info['source'];
   }
   $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'orange').'">Taken '.count($points) .' points from '.$live_url.'</font>';
 
-  if (empty($info['groups'])) {
-    unset($sources[$url]);
-  }
-  else {
+  if (!empty($info['groups'])) {
+    $sources['url'] = $url;// because the keys have been lost.
     $all_points = array_replace_recursive($all_points, $points);
   }
 }
@@ -137,7 +137,6 @@ foreach ($all_points as $unique => $point) {
   $layer = in_array($point['properties']['network'], $live) ? LAYER_LIVE : LAYER_SCRAPED;
   $layers[$layer][] = $point;
 }
-
 file_put_contents('table.txt', serialize($sources));
 
 writeGeoJson(LAYER_LIVE, (array)$layers[LAYER_LIVE]);

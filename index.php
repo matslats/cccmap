@@ -117,18 +117,21 @@
       </thead>
       <tbody>
     <?php foreach ($sources as $info) :
+        if (!$info['groups']) {
+          continue;
+        }
+        $groups += $info['groups'];
         if (is_numeric($info['members'])) {
           $members += $info['members'];
         }
         if (is_numeric($info['transactions'])) {
           $transactions += $info['transactions'];
         }
-        $groups += $info['groups'];
         ?>
 
           <tr>
             <td>
-              <a href="http://<?php print $url; ?>"><?php print $info['name']; ?></a>
+              <a href="http://<?php print $info['url']; ?>"><?php print $info['name']; ?></a>
                 <?php print $type != LAYER_LIVE ? '': ' (scraped)'; ?>
             </td>
             <td>
