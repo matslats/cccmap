@@ -113,10 +113,11 @@ foreach ($sources as $url => &$info) {
   }
   if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
     list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
+    $info['comment'] .= ' (not current)';
   }
   if (!$points and $csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
     list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
-    $info['comment'] .= ' (unfiltered data)';
+    $info['comment'] .= ' (not current)';
   }
   $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'orange').'">Taken '.count($points) .' points from '.$live_url.'</font>';
 
@@ -189,7 +190,6 @@ function geo_csv_points($csvHandle, $networkName) {
     }
     $row = array_combine($headings, $data);
 
-    if ($networkName == 'SELidaire'){print_r($row);}
     //skip low volume sites.
     if (isset($row['active_members']) and $row['active_members'] < 10) {
       $skipped['inactive']++;
@@ -256,14 +256,12 @@ function geo_csv_points($csvHandle, $networkName) {
     if (!empty($row['description'])) {
       $bubble .= $row['description'].'<br />';
     }
-    
+
     if (!json_encode($bubble)) {
        $messages[] = '<font color=red> non-UTF8 string for '.$row['title'].': '.$bubble .'</font>';
        $bubble = utf8_encode($bubble);
        $messages[] = '<font color=green> corrected to '.$row['description'] .'</font>';
      }
-
-    $points[] = $point;
     if (isset($row['active_members']) and is_numeric($row['active_members'])) {
       $members += $row['active_members'];
     }

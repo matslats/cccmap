@@ -21,8 +21,8 @@
       var map = new mapboxgl.Map({
         container: 'map',
         style: '<?php print MAPBOX_STYLE; ?>',
-        center: [51, 0],
-        zoom: 4
+        center: [0, 51],
+        zoom: 2.5
       });
       map.setRenderWorldCopies(status === 'false');
       map.loadImage(
@@ -53,7 +53,6 @@
           'source': 'live',
           'layout': {
             'icon-image': 'pin',
-            'icon-size': 0.2,
             'icon-allow-overlap': true
           }
         })
