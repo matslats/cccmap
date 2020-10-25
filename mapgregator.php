@@ -59,10 +59,20 @@ $sources = [
     'handmade PHP',
     ''
   ],
+//  'selidaire.org/sites/selidaire.org' => [
+//     'SELidaire',
+//     'various',
+//     'Sites using the French national association for insuring SELs'
+//  ],
   'integralces.net' => [
     'Integral CES',
     'Drupal (custom)',
     'rebuild of CES platform of Spanish cooperatives.'
+  ],
+  'letsvlaanderen.be' => [
+    'LETS Vlaanderen',
+    'proprietary',
+    ''
   ],
   // put the member networks last so our pins appear on top
   'communityforge.net' => [
@@ -159,6 +169,7 @@ function geo_csv_points($csvHandle, $networkName) {
   if (count($headings) < 3) {
     return array();
   }
+
   while($data = fgetcsv($csvHandle)) {
     if (count($headings) <> count($data)) {
       if ($firstrow){
@@ -168,6 +179,8 @@ function geo_csv_points($csvHandle, $networkName) {
       $firstrow = 0;
     }
     $row = array_combine($headings, $data);
+
+    if ($networkName == 'SELidaire'){print_r($row);}
     //skip low volume sites.
     if (isset($row['active_members']) and $row['active_members'] < 10) {
       continue;
@@ -248,7 +261,11 @@ function geo_csv_points($csvHandle, $networkName) {
     $unique_name = preg_replace('/\s+/', '', $name);
     $loc = substr($point['geometry']['coordinates'][0], 0, 3).substr($point['geometry']['coordinates'][1], 0, 3);
 
-    $points[$unique_name.$loc] = $point;
+    // something exists on this point with the same, name, just copy the network name to the new point
+    if (isset($points[$unique_name.$loc])) {
+      $point['properties']['network'] .= ', '.$points[$unique_name.$loc]['properties']['network'];
+    }
+    $points[$unique_name.$loc] = $point; //overwrite any dupes
     $members += isset($row['active_members']) ? $row['active_members'] : 0;
     $transactions += isset($row['year_transactions']) ? $row['year_transactions'] : 0;
   }

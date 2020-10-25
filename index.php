@@ -6,7 +6,7 @@
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.css' rel='stylesheet' />
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <meta charset="UTF-8">
-    
+
     <style>
         .member{}
         .nonmem{filter: saturate(40%) opacity(50%);}
@@ -21,7 +21,7 @@
       var map = new mapboxgl.Map({
         container: 'map',
         style: '<?php print MAPBOX_STYLE; ?>',
-        center: [0, 51],
+        center: [51, 0],
         zoom: 4
       });
       map.setRenderWorldCopies(status === 'false');
@@ -53,6 +53,7 @@
           'source': 'live',
           'layout': {
             'icon-image': 'pin',
+            'icon-size': 0.2,
             'icon-allow-overlap': true
           }
         })
