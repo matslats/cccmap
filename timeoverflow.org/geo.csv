@@ -1,317 +1,203 @@
-"title","description","url","latitude","longitude"
-"Agiantza Time Bank - ATB"," C/ Dos de Mayo, 20 bjo. 48003, Bilbao","https://15mpedia.org/wiki/Agiantza_Time_Bank_-_ATB",43.2568343,-2.9294646
-"Aiztondo denbora bankua","Bibliotecas: Aduna, Alkiza, Larraul - Muรฑoa Kalea, 36 bajo 20159, Zizurkil","https://15mpedia.org/wiki/Aiztondo_denbora_bankua",43.2097349,-2.0304287
-"Banc Del Temps De Santa Margarida I Els Monjos","Santa Margarida nรบm 14-26, Els Monjos","https://15mpedia.org/wiki/Banc_Del_Temps_De_Santa_Margarida_I_Els_Monjos",41.3237008,1.6646774
-"Banc de Cultures","Centre Flassaders C/ Ferreria, 10 4ยช planta 07002, Palma de Mallorca","https://15mpedia.org/wiki/Banc_de_Cultures",39.5707789,2.6546575
-"Banc de Temps Meraki Castellรณ","Castellรณn","https://15mpedia.org/wiki/Banc_de_Temps_Meraki_Castell%C3%B3",39.9874541,-0.0830824
-"Banc de Temps de Blanes","C/Mas Enlaire,3  BLANES, Blanes","https://15mpedia.org/wiki/Banc_de_Temps_de_Blanes",41.6776403,2.7868467
-"Banc del Temps Barceloneta","Centre Cรญvic Municipal - C/ Conreria 1-9 08003 Barrio: Ciutat Vella, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_Barceloneta",41.3802854,2.1923587
-"Banc del Temps Civis Canyelles","Av. Daltmar 15 casa 08811, Canyelles- El Garraf","https://15mpedia.org/wiki/Banc_del_Temps_Civis_Canyelles",41.2861949,1.7196685
-"Banc del Temps Club Maginet","Ramon y Cajal 39 7 2 43001, Tarragona","https://15mpedia.org/wiki/Banc_del_Temps_Club_Maginet",41.1161514,1.2447928
-"Banc del Temps El Masnou","Espai Cรญvic Els Vienesos - C/ Segarra, 12 08320, El Masnou","https://15mpedia.org/wiki/Banc_del_Temps_El_Masnou",41.5059585,2.2781865
-"Banc del Temps Gornal โ L &apo;Hospitalet"," Calle Joncs, 12 local 08902, Hospitalet de Llobregat","https://15mpedia.org/wiki/Banc_del_Temps_Gornal_%E2%80%93_L%27Hospitalet",41.3579037,2.1185028
-"Banc del Temps La Canonja","Centre Civic La Canonja - Plaรงa Catalunya s/n 43110, La Canonja","https://15mpedia.org/wiki/Banc_del_Temps_La_Canonja",41.1232347,1.1789095
-"Banc del Temps La Palma de Cervellรณ","Carrer Canigรณ, 9, Palma de Cervellรณ","https://15mpedia.org/wiki/Banc_del_Temps_La_Palma_de_Cervell%C3%B3",41.413586,1.96921
-"Banc del Temps La Sagrera","Nau Ivanow - Hondures, 28 - 30 08027, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_La_Sagrera",41.4199544,2.1899933
-"Banc del Temps Lloret de Mar","Plaรงa Mossรจn Pere Torrent, 1, Lloret de Mar","https://15mpedia.org/wiki/Banc_del_Temps_Lloret_de_Mar",41.7005032,2.844443
-"Banc del Temps Pineda de Mar","Carrer Ripolles, 76 08397, Pineda de Mar","https://15mpedia.org/wiki/Banc_del_Temps_Pineda_de_Mar",41.6274586,2.6718012
-"Banc del Temps Trinitat Vella","C/ Foradada, 36-38 08033, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_Trinitat_Vella",41.4516211,2.1911907
-"Banc del Temps d &apo;Arenys","08350, Arenys de Mar","https://15mpedia.org/wiki/Banc_del_Temps_d%27Arenys",41.5797073,2.5508683
-"Banc del Temps d &apo;El Vendrell (Temps en Xarxa)","Hotel d &apo;Entitats, Cami Reial 13-17 1pis 43700, El Vendrell","https://15mpedia.org/wiki/Banc_del_Temps_d%27El_Vendrell_(Temps_en_Xarxa)",41.2145828,1.5312694
-"Banc del Temps d &apo;Horta","Centre Serveis Socials - Plaรงa Santes Creus, 8 08031, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_d%27Horta",41.4303108,2.1622215
-"Banc del Temps de Cardedeu","08440, Cardedeu","https://15mpedia.org/wiki/Banc_del_Temps_de_Cardedeu",41.63857,2.357459
-"Banc del Temps de Dosrius","Rectoria Vella - C/ Sant Antoni 9 08319, Dosrius","https://15mpedia.org/wiki/Banc_del_Temps_de_Dosrius",41.5946836,2.4060321
-"Banc del Temps de Gavร  (BATEGA)","Casal Municipal d &apo;Entitats Sant Jordi - Rambla de Joaquim Vayreda, 3 08050, Gavร ","https://15mpedia.org/wiki/Banc_del_Temps_de_Gav%C3%A0_(BATEGA)",41.3049666,2.0080843
-"Banc del Temps de Granollers","Can Jonch - Carrer Rec nยบ 19 08401, Granollers","https://15mpedia.org/wiki/Banc_del_Temps_de_Granollers",41.6095035,2.2850627
-"Banc del Temps de Grร cia","Plaรงa Del Nord, 7-10 - Llรผisos de Grร cia 08024, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_de_Gr%C3%A0cia",41.4072589,2.1555639
-"Banc del Temps de La Noguera","Sant Lluis, 2-ppal. 2ยช 25600, Balaguer","https://15mpedia.org/wiki/Banc_del_Temps_de_La_Noguera",41.7932526,0.8096489
-"Banc del Temps de Lleida","Rambla Ferran 33, Lleida, Lleida","https://15mpedia.org/wiki/Banc_del_Temps_de_Lleida",41.6221819,0.6219152
-"Banc del Temps de Maรงanet de la Selva","Avinguda Catalunya 13 Edifici de Can Fallรณ 17412, Maรงanet de la Selva","https://15mpedia.org/wiki/Banc_del_Temps_de_Ma%C3%A7anet_de_la_Selva",41.77829,2.73085
-"Banc del Temps de Menorca-Alaior","C/ des Forn, 9 7730, Alaior","https://15mpedia.org/wiki/Banc_del_Temps_de_Menorca-Alaior",39.933711,4.1403514
-"Banc del Temps de Montmelรณ","Centre cultural La Torreta, Casal d &apo;entitats - C/ Folch i Torras s/n 08160, Montmelรณ","https://15mpedia.org/wiki/Banc_del_Temps_de_Montmel%C3%B3",41.5492171,2.2497083
-"Banc del Temps de Montornรจs del Vallรจs (La Xarxa)","C. De la Casa Nova, 18 08170, Montorรจs del Vallรจs","https://15mpedia.org/wiki/Banc_del_Temps_de_Montorn%C3%A8s_del_Vall%C3%A8s_(La_Xarxa)",41.553409,2.2649424
-"Banc del Temps de Platja D &apo;Aro","Carrer Escoles nยบ 2 17250, Platja d &apo;Aro","https://15mpedia.org/wiki/Banc_del_Temps_de_Platja_D%27Aro",41.8179345,3.0640574
-"Banc del Temps de Salou","C/Advocat Gallego ,2 ( sรณtano ) centre civic, Ayuntamiento de Salou","https://15mpedia.org/wiki/Banc_del_Temps_de_Salou",41.0822473,1.131556
-"Banc del Temps de Sant Celoni","La Clau - Alguersuari, 16 08470, Sant Celoni","https://15mpedia.org/wiki/Banc_del_Temps_de_Sant_Celoni",41.6863404,2.4899321
-"Banc del Temps de Sant Sadurnรญ d &apo;Anoia","C/ Marc Mir, 15 08770, Sant Sadurnรญ d &apo;Anoia","https://15mpedia.org/wiki/Banc_del_Temps_de_Sant_Sadurn%C3%AD_d%27Anoia",41.4242091,1.7892129
-"Banc del Temps de Tร rrega","C/Segle XX, 2 3er pis. Centre d &apo;Entitats 25300, Tร rrega","https://15mpedia.org/wiki/Banc_del_Temps_de_T%C3%A0rrega",41.6496245,1.1375079
-"Banc del Temps de Vilafranca del Penedรจs","Vilafranca del Penedรจs","https://15mpedia.org/wiki/Banc_del_Temps_de_Vilafranca_del_Pened%C3%A8s",41.3461265,1.6979398
-"Banc del Temps de Vilanova i la Geltrรบ","Centre Cรญvic de la Geltrรบ - Plaรงa dels Alumnes Obrers s/n 08800, Vilanova i la Geltrรบ","https://15mpedia.org/wiki/Banc_del_Temps_de_Vilanova_i_la_Geltr%C3%BA",41.2151504,1.727446
-"Banc del Temps de la Garrotxa ""BaTeGa""","t;BaTeGa&amp;quot;, Passeig d &apo;en Blai, nรบm. 6 17800, Olot","https://15mpedia.org/wiki/Banc_del_Temps_de_la_Garrotxa_%22BaTeGa%22",42.1822078,2.4880242
-"Banc del Temps del Berguedร ","C/ del Roser, 35 Baixos 08600, Berga","https://15mpedia.org/wiki/Banc_del_Temps_del_Bergued%C3%A0",42.1012595,1.8439221
-"Banc del Temps del Moianรจs","Centre Cรญvic Can Carner. C/ de les Joies, 11. 08180, Moiร ","https://15mpedia.org/wiki/Banc_del_Temps_del_Moian%C3%A8s",41.8122247,2.0976547
-"Banc del Temps del Poble Sec","Plaรงa del Sortidor, 5 Barrio: Poble Sec, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_del_Poble_Sec",41.372535,2.1620682
-"Banc del Temps del Prat de Llobregat","Plaรงa de l &apo;Agricultura, 4 08820, El Prat de Llobregat","https://15mpedia.org/wiki/Banc_del_Temps_del_Prat_de_Llobregat",41.3247670713,2.093097163
-"Banc del Temps del Raval","carrer Nou de la Rambla 45,Barrio, : El Raval, Barcelona","https://15mpedia.org/wiki/Banc_del_Temps_del_Raval",41.3774929,2.1704889
-"Banc del Temps del Solsonรจs","Palau Llobera - C/ Dominics, 12 25280, Solsona","https://15mpedia.org/wiki/Banc_del_Temps_del_Solson%C3%A8s",41.9953022,1.5192354
-"Banc del temps de Santa Cristina d &apo;Aro","Passatge Pompeu Fabra, 2 17246, Santa Cristina d &apo;Aro","https://15mpedia.org/wiki/Banc_del_temps_de_Santa_Cristina_d%27Aro",41.8137777,2.9972986
-"Banco de Tiempo Alta Ribagorza","Ctra. De Francia 22440, Benasque","https://15mpedia.org/wiki/Banco_de_Tiempo_Alta_Ribagorza",42.6042858,0.5228286
-"Banco de Tiempo Alto Palancia","C/ San Gil, 35 12470, Navajas","https://15mpedia.org/wiki/Banco_de_Tiempo_Alto_Palancia",39.8769446,-0.5075974
-"Banco de Tiempo Ampa CP Eugenio Lรณpez","Pl. Bisbe Berenguer de Palou, 6 07003, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_Ampa_CP_Eugenio_L%C3%B3pez",39.576281,2.6491207
-"Banco de Tiempo Andreberri - La Peรฑa","Pl. Iharra, s/n 48003, Arrigorriaga","https://15mpedia.org/wiki/Banco_de_Tiempo_Andreberri_-_La_Pe%C3%B1a",43.2294405,-2.9225893
-"Banco de Tiempo Asociaciรณn AKIBA","C/ Manuel Cano, 1 18320, Santa Fe","https://15mpedia.org/wiki/Banco_de_Tiempo_Asociaci%C3%B3n_AKIBA",37.1918657,-3.7093813
-"Banco de Tiempo Asociaciรณn Amalgama Social","C/ Real 59 1ยบ - Sede NB Psicologรญa 28400, Collado Villalba","https://15mpedia.org/wiki/Banco_de_Tiempo_Asociaci%C3%B3n_Amalgama_Social",40.6315194,-4.0049714
-"Banco de Tiempo Asociaciรณn Tierra Aurinko","Pl. Fernando VI, s/n 28830, San Fernando de Henares","https://15mpedia.org/wiki/Banco_de_Tiempo_Asociaci%C3%B3n_Tierra_Aurinko",40.4254336,-3.5314076
-"Banco de Tiempo Baja Ribagorza","C/ Horno, 10 - Casa Luisa 22439, Secastilla","https://15mpedia.org/wiki/Banco_de_Tiempo_Baja_Ribagorza",42.1866219,0.2526163
-"Banco de Tiempo CEAIN","C/ Cartuja, 2 1ยบ B 11401, Jerez De La Frontera","https://15mpedia.org/wiki/Banco_de_Tiempo_CEAIN",36.6808368,-6.1299526
-"Banco de Tiempo Calpe","C/Blasco ibaรฑez nยบ4 03710, Calpe","https://15mpedia.org/wiki/Banco_de_Tiempo_Calpe",38.6436469,0.0456876
-"Banco de Tiempo Casco Viejo de Pamplona","C/ Aldapa, 3-5 31001, Pamplona","https://15mpedia.org/wiki/Banco_de_Tiempo_Casco_Viejo_de_Pamplona",42.8194823,-1.6435014
-"Banco de Tiempo Centro de mayores mediterrรกneo","C/ Picos, s/n 04004, Almerรญa","https://15mpedia.org/wiki/Banco_de_Tiempo_Centro_de_mayores_mediterr%C3%A1neo",40.38,-3.86
-"Banco de Tiempo Ciudad Jardรญn","C/ Monda 21 29014, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_Ciudad_Jard%C3%ADn",36.7403102,-4.4204944
-"Banco de Tiempo Contigo Colombia","Itaguรญ","https://15mpedia.org/wiki/Banco_de_Tiempo_Contigo_Colombia",6.2686594,-75.7364788
-"Banco de Tiempo Cรณrdoba Acoge","C/ Mรบsico Ziryab, 10 14005, Cรณrdoba","https://15mpedia.org/wiki/Banco_de_Tiempo_C%C3%B3rdoba_Acoge",37.8861218,-4.7923983
-"Banco de Tiempo Dharma","C/ La Perdiu 1 08184, Palau-Solitร  i Plegamans","https://15mpedia.org/wiki/Banco_de_Tiempo_Dharma",41.6017833,2.1852593
-"Banco de Tiempo Ecolocal","""La Rendija"" C/ San Hermenegildo 1 41003, Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_Ecolocal",37.3983421,-5.9837626
-"Banco de Tiempo El Dam de Ahesat","43820, Calafell","https://15mpedia.org/wiki/Banco_de_Tiempo_El_Dam_de_Ahesat",41.1938386,1.5664556
-"Banco de Tiempo Entrehoras Retiro","Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_Entrehoras_Retiro",40.406373,-3.682017
-"Banco de Tiempo Entrevecinos de Valencia","Avenida Doctor Tomรกs Sala, nยบ 47 bajo 46017, Valencia","https://15mpedia.org/wiki/Banco_de_Tiempo_Entrevecinos_de_Valencia",39.4475104,-0.3866238
-"Banco de Tiempo Escolares","Av. Fernรกndez Ladreda, 48 33011, Oviedo","https://15mpedia.org/wiki/Banco_de_Tiempo_Escolares",43.3707337,-5.8330566
-"Banco de Tiempo Fuengirola Mijas","Teteria Las Mil y Una Noches - Calle Rio Lanjaron, numero 14 29651, Mijas","https://15mpedia.org/wiki/Banco_de_Tiempo_Fuengirola_Mijas",36.5425472,-4.6371238
-"Banco de Tiempo Inguralde","Pยบ Dolores Ibarruri s/n 48901, Barakaldo","https://15mpedia.org/wiki/Banco_de_Tiempo_Inguralde",43.2998368,-2.9893729
-"Banco de Tiempo Jacetania","C/ de Campoy Irigoyen, 4 - local 22700, Jaca","https://15mpedia.org/wiki/Banco_de_Tiempo_Jacetania",40.38,-3.86
-"Banco de Tiempo Joven de la Comarca Filabres-Alhamilla","Glorieta de las Angustias, s/n 04200, Tabernas","https://15mpedia.org/wiki/Banco_de_Tiempo_Joven_de_la_Comarca_Filabres-Alhamilla",40.38,-3.86
-"Banco de Tiempo La Bordeta","C/ Hospital de la Bordeta, 14 25001, Lleida","https://15mpedia.org/wiki/Banco_de_Tiempo_La_Bordeta",41.6175899,0.6200146
-"Banco de Tiempo La Roca Del Valles","c/Espronceda Nยบ 65 piso3ยบ puerta 5ยช 08430, La Roca Del Valles","https://15mpedia.org/wiki/Banco_de_Tiempo_La_Roca_Del_Valles",41.5865477,2.3265984
-"Banco de Tiempo Lebrija","Centro Cรญvico Blas Infante - Barriada Blas Infante, s/n. 41740, Lebrija","https://15mpedia.org/wiki/Banco_de_Tiempo_Lebrija",36.9246665,-6.083178
-"Banco de Tiempo Mancomunidad Madrid Sureste","C/ de Luรญs de Requesens, 2 25890, Villarejo De Salvanรฉs","https://15mpedia.org/wiki/Banco_de_Tiempo_Mancomunidad_Madrid_Sureste",40.1678741,-3.2765033
-"Banco de Tiempo Matarรณ","Sant Pelegri, 3 08301, Matarรณ","https://15mpedia.org/wiki/Banco_de_Tiempo_Matar%C3%B3",41.5400816,2.4493299
-"Banco de Tiempo Municipal de Leganรฉs","C/ Del Charco ,23 1ยช planta 28911, Leganรฉs","https://15mpedia.org/wiki/Banco_de_Tiempo_Municipal_de_Legan%C3%A9s",40.3288472,-3.7686115
-"Banco de Tiempo Musutruk - Ibarrekolanda","C/ Errondoko, 2 48015, Bilbao","https://15mpedia.org/wiki/Banco_de_Tiempo_Musutruk_-_Ibarrekolanda",43.2773531,-2.958716
-"Banco de Tiempo Mรฉrida-Yucatรกn","Colonia Garcรญa Ginerรฉs","https://15mpedia.org/wiki/Banco_de_Tiempo_M%C3%A9rida-Yucat%C3%A1n",20.98925,-89.63379
-"Banco de Tiempo Nerviรณn - San Pablo - Santa Justa","Avenida Pedro Romero, s/n 41007, Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_Nervi%C3%B3n_-_San_Pablo_-_Santa_Justa",37.3989628,-5.9612029
-"Banco de Tiempo Ovida","C/ Lena, 5 33006, Oviedo","https://15mpedia.org/wiki/Banco_de_Tiempo_Ovida",43.3519679,-5.8676691
-"Banco de Tiempo Pont del Dimoni","C/ Santa Eugรจnia, 146 17006, Girona","https://15mpedia.org/wiki/Banco_de_Tiempo_Pont_del_Dimoni",41.9776281,2.8072941
-"Banco de Tiempo R-ciclo","C/ del Ave Marรญa 18009, Granada","https://15mpedia.org/wiki/Banco_de_Tiempo_R-ciclo",37.1705616,-3.5909801
-"Banco de Tiempo Ribagorza Central","C/ San Sebastiรกn, 17, Campo 22450, Campo","https://15mpedia.org/wiki/Banco_de_Tiempo_Ribagorza_Central",42.4097942,0.3998579
-"Banco de Tiempo Ribagorza Oriental","C/ Mayor, 4 - Casa Farrรฉ 22580, Benabarre","https://15mpedia.org/wiki/Banco_de_Tiempo_Ribagorza_Oriental",42.1087048,0.4803197
-"Banco de Tiempo San Cristรณbal de Los รngeles","Pl. de los Pinazos, 6 28021, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_San_Crist%C3%B3bal_de_Los_%C3%81ngeles",40.3427663,-3.6903066
-"Banco de Tiempo Sant Adriร ","Carrer Orella nยบ2 08930 Barrio: Sant Adriร  de Besรฒs","https://15mpedia.org/wiki/Banco_de_Tiempo_Sant_Adri%C3%A0",41.434392,2.2140899
-"Banco de Tiempo Sendotu","C/ Bailรฉn Kalea, 5 48003, Bilbao","https://15mpedia.org/wiki/Banco_de_Tiempo_Sendotu",43.2590324,-2.9271418
-"Banco de Tiempo Sofisma","C/ Virgen del Rosario, 7 35600, Puerto Del Rosario","https://15mpedia.org/wiki/Banco_de_Tiempo_Sofisma",28.4982423,-13.8592781
-"Banco de Tiempo Sugus - Universidad de Sevilla","Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_Sugus_-_Universidad_de_Sevilla",37.3880961,-5.9823299
-"Banco de Tiempo Tic Tac","C/ Lealtad, 14, 4ยบ 39002, Santander","https://15mpedia.org/wiki/Banco_de_Tiempo_Tic_Tac",43.4609512,-3.8085278
-"Banco de Tiempo UPO","Carretera de Utrera Km.1 Edificio Celestino Mutis, planta sรณtano despacho 4 41013, Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_UPO",37.3562108,-5.9498767
-"Banco de Tiempo Universidad Pablo Olavide","Universidad Pablo Olavide. Unidad de Cultura y Participaciรณn social Ctra Utrera, km 1 41013, Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_Universidad_Pablo_Olavide",37.354703,-5.937577
-"Banco de Tiempo Universidad de Extremadura","Av. De la Universidad, s/n - Edif. Usos Mรบltiples 10071, Cรกceres","https://15mpedia.org/wiki/Banco_de_Tiempo_Universidad_de_Extremadura",39.471329,-6.370961
-"Banco de Tiempo Xabia","C/ Rafael Echagรผe, 3 03730, Javea","https://15mpedia.org/wiki/Banco_de_Tiempo_Xabia",38.7895181,0.1593309
-"Banco de Tiempo de Abegondo","15318, Abegondo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Abegondo",43.2191196,-8.2979048
-"Banco de Tiempo de Alarรณ","Placeta Son Togores, 1 07340, Alarรณ","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alar%C3%B3",39.7077604,2.7895104
-"Banco de Tiempo de Albacete","C/ Arquitecto Vandelvira, 73 sala 4 02003, Albacete","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Albacete",38.9901709,-1.8661602
-"Banco de Tiempo de Alburquerque","Apdo. de Correos 21 06510, Alburquerque","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alburquerque",38.9211919,-6.3373143
-"Banco de Tiempo de Alcalรก de Henares","Travesรญa de las Siete Esquinas, 2 28801, Alcalรก de Henares","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alcal%C3%A1_de_Henares",40.4795438,-3.3676134
-"Banco de Tiempo de Alcalรก la Real","Casa de la Juventud - Avda Iberoamรฉrica s/n 23680, Alcalรก la Real","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alcal%C3%A1_la_Real",37.4547388,-3.9264281
-"Banco de Tiempo de Alcaรฑiz","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alca%C3%B1iz",40.341839,-1.103675
-"Banco de Tiempo de Alcorcรณn","C/ Copenhague, 57 28922, Alcorcรณn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alcorc%C3%B3n",40.3429393,-3.8462533
-"Banco de Tiempo de Alcosa","Centro Civico Parque Alcosa - Calle Pintor Alfonso Grosso, s/n. 41019, Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alcosa",37.411826,-5.9236711
-"Banco de Tiempo de Aldea Bierzo","C/ รngel Basante, 15, 2ยช pl. 24540, Cacabelos Leรณn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Aldea_Bierzo",42.5987263,-5.5670959
-"Banco de Tiempo de Alfaz del Pi","C/ de Gabriel Mirรณ, 3","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alfaz_del_Pi",38.3430705,-0.4847656
-"Banco de Tiempo de Algeciras","C/ de Regino Martรญnez, 3 - As. De Mujeres Progresistas 11201, Algeciras","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Algeciras",36.1357631,-5.4397825
-"Banco de Tiempo de Alhama de Murcia","Pl. de la Constituciรณn, s/n 30840, Alhama de Murcia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alhama_de_Murcia",37.8513564,-1.4265832
-"Banco de Tiempo de Alhaurรญn de la Torre","Centro de Servicios Sociales Comunitarios, planta baja - C/Caldera S/N 29130, Alhaurรญn de la Torre","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alhaur%C3%ADn_de_la_Torre",36.660677,-4.568914
-"Banco de Tiempo de Alicante","C/ Hรฉrcules, 28 - bajo 03006, Alicante","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alicante",38.347014,-0.511628
-"Banco de Tiempo de Aljarafe","Centro de Adultos - Calle de la Fuente 41120 Barrio: Aljarafe, Gelves","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Aljarafe",37.346581,-6.024649
-"Banco de Tiempo de Allariz","Rรบa do Portelo, 4, baixo 32660, Allariz","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Allariz",42.1894665,-7.8005522
-"Banco de Tiempo de Almendralejo","C/ de Vistahermosa, 1A 06200, Almendralejo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Almendralejo",38.6823707,-6.4014208
-"Banco de Tiempo de Almerรญa","Calle Alcalde Muรฑoz,12 04007, Almerรญa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Almer%C3%ADa",36.8420358,-2.461659
-"Banco de Tiempo de Alora","Pl. de la Fuente Arriba, s/n 29500, รlora","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Alora",36.8229926,-4.7066498
-"Banco de Tiempo de Altea","03590, Altea","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Altea",38.6021629,-0.0476697
-"Banco de Tiempo de Antequera","C/ Mesones, 5 Bjos. 29200, Antequera","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Antequera",37.020001,-4.5593676
-"Banco de Tiempo de Argamasilla de Alba","C/ del Alcรกzar, 67 13710, Argamasilla de Alba","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Argamasilla_de_Alba",39.1329574,-3.0929671
-"Banco de Tiempo de Armilla","C/ Fernando Martรญn, s/n 18100, Armilla","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Armilla",37.1439159,-3.6254529
-"Banco de Tiempo de Arriate","C/ de los cordones, 4 29350, Arriate","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Arriate",36.798816,-5.1420484
-"Banco de Tiempo de Arzua","15810, Arzรบa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Arzua",42.9296884,-8.1607836
-"Banco de Tiempo de Avilรฉs","C/ Sabino รlvarez Gendรญn, 26 bjo. 33402, Avilรฉs","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Avil%C3%A9s",43.5484209,-5.9280628
-"Banco de Tiempo de Aรฑover de Tajo","C/ Coronel Monasterio, 1 - Centro Social Polivalente 45250, Aรฑover de Tajo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_A%C3%B1over_de_Tajo",39.9894861,-3.7663657
-"Banco de Tiempo de Badรญa del Vallรฉs","Av. Burgos, 18 08214, Badรญa Del Vallรฉs","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Bad%C3%ADa_del_Vall%C3%A9s",41.5082576,2.1162632
-"Banco de Tiempo de Bailรฉn Miraflores","C/ Sevilla, 8 29012, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Bail%C3%A9n_Miraflores",36.7240955,-4.429548
-"Banco de Tiempo de Balmaseda","Balmaseda","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Balmaseda",43.19329,-3.195521
-"Banco de Tiempo de Barakaldo","Centro Cรญvico Clara Campoamor - c/ Gernikako Arbola, 41 48902, Barakaldo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Barakaldo",43.2939031,-2.9950747
-"Banco de Tiempo de Benalmรกdena","Espacio Joven - C/ Amapola, Benalmรกdena","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Benalm%C3%A1dena",36.5955521,-4.5740003
-"Banco de Tiempo de Bilbao - Barrios Altos","Plaza del Corazรณn de Marรญa, 5 48003, Bilbao","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Bilbao_-_Barrios_Altos",43.2564038,-2.9274615
-"Banco de Tiempo de Bolullos del Condado","Pl. Sagrado Corazรณn de Jesรบs, 1 21710, Bolullos Par del Condado","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Bolullos_del_Condado",37.3359073,-6.5353342
-"Banco de Tiempo de Bon Pastor","Plรงa. Robert Gerhard, 3 - Centre Cรญvic del Bon Pastor 08030, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Bon_Pastor",41.4347168,2.2050022
-"Banco de Tiempo de Borinken","San Juan","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Borinken",18.1980743,-67.4740734
-"Banco de Tiempo de Borriana - Les Alqueries","Burriana","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Borriana_-_Les_Alqueries",39.8895586,-0.0842113
-"Banco de Tiempo de Burgos","Casa de Cultura de Gamonal - Calle Pablo Ruiz Picasso Barrio: Gamonal, Burgos","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Burgos",42.353279,-3.669122
-"Banco de Tiempo de Butroi Bizirik en Transiciรณn - en Denbora Bankua","Ibaigane Kalea, 10 48100, Mungia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Butroi_Bizirik_en_Transici%C3%B3n_-_en_Denbora_Bankua",43.3553721,-2.8495817
-"Banco de Tiempo de Cabra","C/ Priego nยบ 28 14940, Cabra","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cabra",37.4701782,-4.4423885
-"Banco de Tiempo de Calahorra","C/ de Miguel de Cervantes, 1 26500, Calahorra","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Calahorra",42.3021975,-1.9645412
-"Banco de Tiempo de Cambrils","C/ Sant Pere, 33 43850, Cambrils","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cambrils",41.0684259,1.0616035
-"Banco de Tiempo de Carabanchel","Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Carabanchel",40.4167754,-3.7037902
-"Banco de Tiempo de Carabanchel y Usera - CAF3","Junta Municipal Distrito Usera - Avenida Rafaela Ybarra, 41 28026, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Carabanchel_y_Usera_-_CAF3",40.3824183,-3.7107441
-"Banco de Tiempo de Centro, Arganzuela, Chamberรญ y Moncloa-Aravaca - CAF1","C/ Rafael Calvo, 8 28010, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Centro,_Arganzuela,_Chamber%C3%AD_y_Moncloa-Aravaca_-_CAF1",40.4336025,-3.6966301
-"Banco de Tiempo de Cerdanyola del Vallรฉs","L &apo;Ateneu - C/ de la Indรบstria, s/n 08290, Cerdanyola Del Valles","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cerdanyola_del_Vall%C3%A9s",41.487779,2.1374819
-"Banco de Tiempo de Churriana (Asociacion de vecinos ARCUSVES)","Gonzalo de Berceo s/n 29140, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Churriana_(Asociacion_de_vecinos_ARCUSVES)",36.6689104,-4.5031482
-"Banco de Tiempo de Ciudad Lineal, Hortaleza, San Blas y Barajas - CAF2","C/ Francisco Morejรณn, 4 28043, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ciudad_Lineal,_Hortaleza,_San_Blas_y_Barajas_-_CAF2",40.4593173,-3.6233705
-"Banco de Tiempo de Coin","C/ Urbano Pineda - Area Serv. Sociales 29100, Coรญn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Coin",36.659484,-4.753782
-"Banco de Tiempo de Collado Villalba","Aula 4, Centro Polifuncional - Pl. Prรญncipe de Espaรฑa, s/n 28400, Collado Villalba","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Collado_Villalba",40.6286627,-4.0087395
-"Banco de Tiempo de Corcubiรณn","Corcubiรณn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Corcubi%C3%B3n",42.9425685,-9.1922555
-"Banco de Tiempo de Cornellร ","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cornell%C3%A0",41.3573827,2.0707159
-"Banco de Tiempo de Costa Rica","350 m oeste del Taco Bell de San Pedro, Barrio Dent, San Josรฉ Barrio: Barrio Escalante, San Josรฉ, Costa Rica","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Costa_Rica",9.93602,-84.0592
-"Banco de Tiempo de Cruz Roja","C/ Pozas, 14 28004, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cruz_Roja",40.4252051,-3.7065765
-"Banco de Tiempo de Cruz Roja - Mรณstoles","Av. Carlos V, 5 20936, Mรณstoles","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Cruz_Roja_-_M%C3%B3stoles",40.3222669,-3.8497927
-"Banco de Tiempo de Cรกceres","Pl. Mayor, 30, 31 dcha. 10003, Cรกceres","https://15mpedia.org/wiki/Banco_de_Tiempo_de_C%C3%A1ceres",39.471329,-6.370961
-"Banco de Tiempo de Cรณrdoba","Av. Del Gran Capitรกn, 28 14001, Cรณrdoba","https://15mpedia.org/wiki/Banco_de_Tiempo_de_C%C3%B3rdoba",37.8885024,-4.7824754
-"Banco de Tiempo de Donostia","Edif. antiguas caballerizas, 1er piso Sala Sua 20009, San Sebastiรกn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Donostia",43.2953855,-1.985706
-"Banco de Tiempo de El Escorial","C/ Sagrado Corazรณn, 5 28280, El Escorial","https://15mpedia.org/wiki/Banco_de_Tiempo_de_El_Escorial",40.38,-3.86
-"Banco de Tiempo de El Molar","C/ Remolino, 4 28710, El Molar","https://15mpedia.org/wiki/Banco_de_Tiempo_de_El_Molar",40.7325378,-3.5818426
-"Banco de Tiempo de Elche","C/ de Arturo Salvetti Pardo, 9 03206, Elche","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Elche",38.2745861,-0.7061606
-"Banco de Tiempo de Estella-Lizarra","C/ de la Navarrerรญa, 62, 1ยบ, desp. 2 sala reuniones 31200, Estella","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Estella-Lizarra",42.6720856,-2.0324524
-"Banco de Tiempo de Ferrol","Rรบa Sรกnchez Barcรกiztegui, 35-47, El Ferrol","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ferrol",43.4825392,-8.2360185
-"Banco de Tiempo de Ferrolterra","Traseira do Mercado de Caranza - Avda. Castelao S/N 15406, Ferrol","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ferrolterra",43.4829432,-8.2045467
-"Banco de Tiempo de Fuente el Fresno","Real, 57 13680, Fuente el Fresno","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Fuente_el_Fresno",39.2283154,-3.7767369
-"Banco de Tiempo de Galapagar","Pl. Constituciรณn, 3 28260, Galapagar","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Galapagar",40.5773142,-4.0039748
-"Banco de Tiempo de Gandia","Carretera del Grau s/n, Gandรญa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Gandia",38.974054,-0.173303
-"Banco de Tiempo de Guadalajara","Guadalajara","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Guadalajara",20.6739383,-103.4054539
-"Banco de Tiempo de Gualchos","Gualchos","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Gualchos",36.7446261,-3.3892894
-"Banco de Tiempo de Guitiriz","Guitiriz","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Guitiriz",43.1816306,-7.8922143
-"Banco de Tiempo de Herencia","C/ Lope de Vega, 31 - Casa de Herencia Herencia 13640, Ciudad Real","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Herencia",38.9848295,-3.9273778
-"Banco de Tiempo de Hondarribia - Trukean","C/ Nagusia Kalea, 7 20280, Hondarribia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Hondarribia_-_Trukean",43.3626075,-1.7912882
-"Banco de Tiempo de Huelva - As. Vecinos Hispanidad","C/ Gabriela Mistral, s/n 21005, Huelva","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Huelva_-_As._Vecinos_Hispanidad",37.2696681,-6.9385154
-"Banco de Tiempo de Huelva - As. Vecinos Pol. S. Sebastiรกn","C/ Carcelera s/n 21006, Huelva","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Huelva_-_As._Vecinos_Pol._S._Sebasti%C3%A1n",37.2611653,-6.935674
-"Banco de Tiempo de Huelva Capital","Universidad de Huelva, Plaza Juan Ramรณn Jimรฉnez, Edif. Humanidades, Despacho 08 (planta baja) Campus del Carmen 21081, Huelva","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Huelva_Capital",37.261421,-6.9447224
-"Banco de Tiempo de Huesca","Av. De Martรญnez de Velasco, 6 - Centro Cultural 22005, Huesca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Huesca",42.1294151,-0.3960275
-"Banco de Tiempo de Ibiza","Fra Vicent Nicolau, 9 bjos. 07800, Ibiza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ibiza",38.9113446,1.4288257
-"Banco de Tiempo de Ida y Vuelta","(para todo Madrid), Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ida_y_Vuelta",40.4289001,-3.6919126
-"Banco de Tiempo de Ingenio","Ingenio","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Ingenio",27.9182821,-15.4331746
-"Banco de Tiempo de Jun","Pl. Coro San Piu, s/n - Centro Guadalinfo 18213, Granada","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Jun",37.215954,-3.587082
-"Banco de Tiempo de Karrantza","48891, Karrantza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Karrantza",43.2223226,-3.3590446
-"Banco de Tiempo de La Alhรณndiga","Calle Hernรกn Cortรฉs 13 28904, Getafe","https://15mpedia.org/wiki/Banco_de_Tiempo_de_La_Alh%C3%B3ndiga",40.3089592,-3.7375294
-"Banco de Tiempo de La Dreta de l &apo;Eixample + Fort Pienc","Espai d &apo;Entitats del barri de Fort Pienc - C/ Ali Bei, 94-96 08013, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_La_Dreta_de_l%27Eixample_%2B_Fort_Pienc",41.3956919,2.1838731
-"Banco de Tiempo de La Garriga","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_La_Garriga",41.6933493,2.2778128
-"Banco de Tiempo de La Losa","Segovia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_La_Losa",40.9435626,-4.1130022
-"Banco de Tiempo de La Verneda","Centre del Barri de la Verneda - C/ Santander, 6 08020, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_La_Verneda",41.4227632,2.1967514
-"Banco de Tiempo de Lanzarote","Calle Figueroa 20, Arrecife de Lanzarote 35500, Arrecife","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Lanzarote",28.9601802,-13.5512413
-"Banco de Tiempo de Las Rozas","Centro Municipal El Abajรณn - C/ Comunidad de la Rioja, 2 28230, Las Rozas","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Las_Rozas",40.4912137,-3.8815673
-"Banco de Tiempo de Latina - CAF7","C/ Fuerte de Navidad, 15 28044, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Latina_-_CAF7",40.4019359,-3.7550546
-"Banco de Tiempo de Lekeitio","C/ Gamarra, 1 48280, Lekeitio","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Lekeitio",43.3635582,-2.5038233
-"Banco de Tiempo de Leรณn","Leรณn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Le%C3%B3n",40.38,-3.86
-"Banco de Tiempo de Llanes","Casa Rectoral - Centro Juvenil ""El Patiu"" 33594, Posada de Llanes (Llanes)","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Llanes",43.4230708,-4.8638653
-"Banco de Tiempo de Logroรฑo","C/ Marquรฉs de San Nicolรกs, 46 26001, Logroรฑo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Logro%C3%B1o",42.46772,-2.4451781
-"Banco de Tiempo de Los Barrios","Pยบ de la Constituciรณn, 19 11370, Los Barrios","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Los_Barrios",36.1832996,-5.4926638
-"Banco de Tiempo de Lugo","Aux. Avda. Infanta Elena, 11 Casa Clara Camp. Local 4 27003, Lugo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Lugo",43.0118501,-7.6385368
-"Banco de Tiempo de Macarena","C/ de la Alcazaba, 1, 2ยบ D 18200, Maracena","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Macarena",37.2064517,-3.6292373
-"Banco de Tiempo de Majadahonda","28220, Majadahonda","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Majadahonda",40.4731888,-3.8808034
-"Banco de Tiempo de Malasaรฑa","Malasaรฑa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Malasa%C3%B1a",40.380267,-3.6212297
-"Banco de Tiempo de Manoteras","C/ de las Cuevas de Almanzora, 46 28033, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Manoteras",40.4783479,-3.6577244
-"Banco de Tiempo de Marbella","C/ Jeddah, 4 bjos. 29601, Marbella","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Marbella",36.5135952,-4.8870764
-"Banco de Tiempo de Menorca - Ciutadella","Av. Constituciรณ, 18 07760, Ciutadella de Menorca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Menorca_-_Ciutadella",40.0021682,3.8414371
-"Banco de Tiempo de Menorca - Maรณ","Camรญ des Castell, 53 07702, Maรณ","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Menorca_-_Ma%C3%B3",39.8869786,4.2679142
-"Banco de Tiempo de Mesรญa","Mesรญa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Mes%C3%ADa",43.1135289,-8.2723859
-"Banco de Tiempo de Mijas","C/ Rรญo Barbate (Zona Doรฑa Ermita) 29651, Mijas","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Mijas",36.5663156,-4.6812086
-"Banco de Tiempo de Momo","Barrio de la Raรฑada, 25 39716, El Bosque","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Momo",43.3868494,-3.7263452
-"Banco de Tiempo de Monda","C/ del Llanete s/n 29110, Monda","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Monda",36.6296725,-4.8319736
-"Banco de Tiempo de Monforte de Lemos","Monforte de Lemos","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Monforte_de_Lemos",42.5190217,-7.5158063
-"Banco de Tiempo de Monzรณn","Plaza Mayor, 4 22400, Monzรณn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Monz%C3%B3n",41.910798,0.1920456
-"Banco de Tiempo de Motril","C/ Rรญo Ebro, 8 1ยบ A 18600, Motril","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Motril",36.7433096,-3.5228744
-"Banco de Tiempo de Murcia","Unidad de Trabajo Social Cabezo de Torres - Calle del Carmen, nยบ 32 30110, El Cabezo de Torres","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Murcia",38.0255514,-1.1252025
-"Banco de Tiempo de Mรกlaga","Zona Pepri - C/ Victoria, 11 oficina 5 (IMFE) 29012, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%A1laga",36.723841,-4.416282
-"Banco de Tiempo de Mรกlaga (Distrito Ctra. de Cรกdiz)","C/ Federico Garcรญa Lorca, 10 29012, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%A1laga_(Distrito_Ctra._de_C%C3%A1diz)",36.7017354,-4.4424465
-"Banco de Tiempo de Mรกlaga Este - El Palo","C/ Bolivia, 63 29012, Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%A1laga_Este_-_El_Palo",36.7216922,-4.3778139
-"Banco de Tiempo de Mรฉrida","C/ Reyes Huertas s/n - Centro de Mayores pl. 1 06800, Mรฉrida","https://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%A9rida",38.9182181,-6.3391649
-"Banco de Tiempo de Mรณstoles","Plaza del Turia 2, Local 7, Mรณstoles","https://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%B3stoles",40.32135,-3.865003
-"Banco de Tiempo de Nuevo Baztan","Av. De Glasgow, s/n 28514, Nuevo Baztรกn","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Nuevo_Baztan",40.3583079,-3.2560131
-"Banco de Tiempo de Otxarkoaga - Otxartruke","Av. Pau Casals, 194 48004, Bilbao","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Otxarkoaga_-_Otxartruke",43.2587497,-2.9006583
-"Banco de Tiempo de Palencia","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Palencia",42.011121,-4.532032
-"Banco de Tiempo de Paracuellos de Jarama","Pl. de la Constituciรณn, 1 28860, Paracuellos Del Jarama","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Paracuellos_de_Jarama",40.38,-3.86
-"Banco de Tiempo de Parla","C/ Ramรณn y Cajal, 5 28981, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Parla",40.2363406,-3.7733312
-"Banco de Tiempo de Paterna","C/Mรบsico Antonio Cabeza, s/nยบ 46980, Paterna","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Paterna",39.503376,-0.437099
-"Banco de Tiempo de Periana","Pยบ Bellavista, s/nยบ 29710, Periana","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Periana",36.9270448,-4.1896253
-"Banco de Tiempo de Pla de Palau","C/ Saragossa, 27 17003, Girona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Pla_de_Palau",41.9708262,2.8188167
-"Banco de Tiempo de Plasencia","Plasencia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Plasencia",40.030235,-6.087016
-"Banco de Tiempo de Poble Nou","Casal Bac de Roda - Camรญ Antic de Valรจncia, 96-116 08019, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Poble_Nou",41.40673,2.2038501
-"Banco de Tiempo de Puente de Vallecas, Villa de Vallecas y Villaverde - CAF4","C/ Conde Rodrรญguez San Pedro, 59 28053, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Puente_de_Vallecas,_Villa_de_Vallecas_y_Villaverde_-_CAF4",40.3835206,-3.67027
-"Banco de Tiempo de Puerto de la Torre","C/ Victor Hugo, 5 29190, Provincia de Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Puerto_de_la_Torre",36.7343542,-4.4834524
-"Banco de Tiempo de Puig de Sant Pere","C/ de los Corralasses, 4 07012, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Puig_de_Sant_Pere",39.5697122,2.6425932
-"Banco de Tiempo de Puigcerdร ","Pl. Regne de mallorca, baixos 17520, Puigcerdร ","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Puigcerd%C3%A0",42.4335392,1.9291154
-"Banco de Tiempo de Quart de Poblet","C/ de Vicente Blasco Ibรกรฑez 46930, Quart de Poblet","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Quart_de_Poblet",39.4576434,-0.4514649
-"Banco de Tiempo de Reus","C/ Sta. Teresa, 22, 1er 43201, Reus","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Reus",41.156211,1.1077258
-"Banco de Tiempo de Rivas Vaciamadrid","Avda. del Deporte s/n - Casa asoc., desp. Nยบ 0 28529, Rivas-Vaciamadrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Rivas_Vaciamadrid",40.326824,-3.517985
-"Banco de Tiempo de Rubรญ","C/ Joan Puig local 2 08191, Rubรญ","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Rub%C3%AD",41.483998,2.0325254
-"Banco de Tiempo de Russafa","C/ Pedro III el Grande, 26, esq. Dr. Sumsi 46006, Valencia","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Russafa",39.4699075,-0.3762881
-"Banco de Tiempo de Sagrada Familia","Espai 210 - C/Padilla, 210 08013, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sagrada_Familia",41.4039541,2.179643
-"Banco de Tiempo de Salamanca","C/ Transportistas, 3 bajo 37006, Salamanca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Salamanca",40.97442,-5.6675367
-"Banco de Tiempo de Salamanca, Retiro, Vicรกlvaro y Moratalaz - CAF5","C/ de la Fuente Carrantona, 12 28030, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Salamanca,_Retiro,_Vic%C3%A1lvaro_y_Moratalaz_-_CAF5",40.4061508,-3.632331
-"Banco de Tiempo de San Anton","C/ de San Lรกzaro 16002, Cuenca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_San_Anton",40.0791165,-2.1386297
-"Banco de Tiempo de San Javier","C/ Bernal, 13 30720, Santiago de La Ribera","https://15mpedia.org/wiki/Banco_de_Tiempo_de_San_Javier",37.7991141,-0.8050798
-"Banco de Tiempo de Sant Cugat","Casa de Cultura - Jardins del Monestir, s/n 08172, Sant Cugat","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Cugat",41.4699731,2.0836809
-"Banco de Tiempo de Sant Joan Despรญ","L &apo;Area a la Persona - Av. Barcelona, 41-45 08970, Sant Joan Despรญ","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Joan_Desp%C3%AD",41.3681706,2.0684906
-"Banco de Tiempo de Sant Josep","C/ Consulturi, 5 07830, Sant Josep","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Josep",38.908951,1.428115
-"Banco de Tiempo de Sant Martรญ","Gran Via de les Corts Catalanes, 837 - Centre Cรญvic La Farinera 08018, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Mart%C3%AD",41.4046434,2.1883083
-"Banco de Tiempo de Sant Vicent del Raspeig","03690, Sant Vicent Del Raspeig","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Vicent_del_Raspeig",38.427072,-0.551032
-"Banco de Tiempo de Santa Brรญgida","C/ Tenderete, 7 35300, Santa Brรญgida","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santa_Br%C3%ADgida",28.0336573,-15.4989715
-"Banco de Tiempo de Santa Cristina d &apo;Aro","Punt d &apo;Igualdad de Santa Cristina d &apo;Aro 17246, Santa Cristina d &apo;Aro","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santa_Cristina_d%27Aro",41.8137777,2.9972986
-"Banco de Tiempo de Santa Lucรญa","C/ Garajonay, 1 - Centro de Dia Sardina del Sur 35110, Santa Lucรญa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santa_Luc%C3%ADa",27.856054,-15.4595306
-"Banco de Tiempo de Santa Marta de Tormes","Santa Marta de Tormes","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santa_Marta_de_Tormes",40.9497273,-5.6262751
-"Banco de Tiempo de Santander","C/ General Dรกvila, 124 39002, Santander","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santander",43.4675058,-3.8059331
-"Banco de Tiempo de Santiago de Compostela","C/ Isaac Dรญaz Pardo 2-4 (Zona Galeras) 15705, Santiago","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santiago_de_Compostela",42.8970535,-8.5418899
-"Banco de Tiempo de Santomera","C/ de las Cuatro Esquinas, 58 - Casa Grande 30140, Santomera","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Santomera",38.062259,-1.045205
-"Banco de Tiempo de Sants","C/ Numร ncia, 7-11 08029, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sants",41.3812446,2.1412523
-"Banco de Tiempo de Sarriร -Sant Gervasi","C/ Jaume Piquet, 23 - Assoc. Cultural Casa Orlandai 08017, Barcelona","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sarri%C3%A0-Sant_Gervasi",41.3983289,2.1246602
-"Banco de Tiempo de Son Roca","C/ Cap Formentor, 13 1ยช Planta 07013, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Son_Roca",39.5868256,2.5941239
-"Banco de Tiempo de Soria","C/ Termancia, 5 - Bar Bristol 42001, Soria","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Soria",41.7094169,-1.944132
-"Banco de Tiempo de Sta. Marรญa de Palautordera","Centre Cรญvic - Carrer Consolat de Mar, s/n 08460, Santa Marรญa De Palautordera","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sta._Mar%C3%ADa_de_Palautordera",41.6923244,2.4468543
-"Banco de Tiempo de Sta. Perpรฉtua de Mogoda","Centre Cรญvic El Vapor - C/ Enric Granados, s/n 08130, Sta. Perpรจtua De Mogoda","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Sta._Perp%C3%A9tua_de_Mogoda",41.5362149,2.180781
-"Banco de Tiempo de Talavera de la Reina","C/ de la Cererรญa, 25 entrepl. 45600, Talavera de la Reina","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Talavera_de_la_Reina",39.962884,-4.8304536
-"Banco de Tiempo de Tarifa","Tarifa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Tarifa",36.018776,-5.600819
-"Banco de Tiempo de Terrassa","C. Cรญvic Mยช Aurรจlia Capmany - Avda. รngel Sallent, 55 08224, Terrassa","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Terrassa",41.5574335,2.0000485
-"Banco de Tiempo de Tetuรกn, Fuencarrral-El Pardo y Chamartin - CAF6","C/ Buitrago de Lozoya, 22 28035, Madrid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Tetu%C3%A1n,_Fuencarrral-El_Pardo_y_Chamartin_-_CAF6",40.4605289,-3.7083493
-"Banco de Tiempo de Toledo (Asociaciรณn La Clave Social Castilla-La Mancha)","C/ Ciudadado 7, 1ยบ pl. 45006, Toledo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Toledo_(Asociaci%C3%B3n_La_Clave_Social_Castilla-La_Mancha)",39.8612181,-4.0026237
-"Banco de Tiempo de Torreblanca","C/ San Jaime, 10 12596, Torreblanca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Torreblanca",40.2204433,0.1959207
-"Banco de Tiempo de Torrevieja","Torrevieja","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Torrevieja",37.9847003,-0.6808233
-"Banco de Tiempo de Triana","Centro Cรญvico Las Columnas, en la calle Pureza, 79., Sevilla","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Triana",37.3831423,-6.0002632
-"Banco de Tiempo de Valdemorillo","Casa de la Juventud 28210, Valdemorillo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Valdemorillo",40.4991765,-4.067629
-"Banco de Tiempo de Valdemoro","C/ Apolo 22, Valdemoro","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Valdemoro",40.1791124,-3.6807557
-"Banco de Tiempo de Valladolid","Calle de San Sebastiรกn, 7 47009, Valladolid","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Valladolid",41.663513,-4.731808
-"Banco de Tiempo de Vigo - Valladares","Estrada Xeral de Valladares, 261 36315, Vigo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Vigo_-_Valladares",42.1832582,-8.7426101
-"Banco de Tiempo de Vilafant","C/ de Figueres, 9 17740, Vilafant","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Vilafant",42.2468729,2.9381634
-"Banco de Tiempo de Villamayor","Villamayor","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Villamayor",41.0016627,-5.6937933
-"Banco de Tiempo de Villanueva del Rรญo y Minas","C/ Juan Gรณmez Torga, 12 41350, Villanueva del Rรญo y Minas","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Villanueva_del_R%C3%ADo_y_Minas",37.6554687,-5.7122139
-"Banco de Tiempo de Villares de la Reina","Villares de la Reina","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Villares_de_la_Reina",41.01053,-5.648107
-"Banco de Tiempo de Vitoria-Gasteiz","Edificio Rogelia de รlvaro C, 1ยช pl. - C/ Panamรก s/n 01012, Vitoria-Gasteiz","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Vitoria-Gasteiz",42.8498032,-2.6729997
-"Banco de Tiempo de Vรฉlez","C/Pescaderรญa Vieja, 11 bjo., Vรฉlez-Mรกlaga","https://15mpedia.org/wiki/Banco_de_Tiempo_de_V%C3%A9lez",36.7829139,-4.1027903
-"Banco de Tiempo de Zafarraya","Zafarraya","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zafarraya",36.9994992,-4.1616143
-"Banco de Tiempo de Zamora","Palacio la Alhondiga - Plaza de Sta. Ana s/n 49006 Barrio: Zamora","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zamora",41.5072662,-5.7459823
-"Banco de Tiempo de Zaragoza (Secretarรญa)","C/ Sant Vicente Paรบl, 2 50001, Zaragoza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_(Secretar%C3%ADa)",41.6508693,-0.8770841
-"Banco de Tiempo de Zaragoza A.VV. Arrabal","C/ Mariano Pano y Ruata, 9-11 bjos. 50015, Zaragoza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Arrabal",41.692694,-0.8627473
-"Banco de Tiempo de Zaragoza A.VV. La Cartuja","C/ Salduba, 8 05003, Alcaldรญa de la Cartuja","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._La_Cartuja",40.38,-3.86
-"Banco de Tiempo de Zaragoza A.VV. La Jota","C/ de Marรญa Pilar de las Heras Dopereiro, 3 50001, Zaragoza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._La_Jota",41.6596276,-0.8621879
-"Banco de Tiempo de Zaragoza A.VV. Las Fuentes","c/ Fray Luis Urbano, 27 - local 2 50002, Zaragoza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Las_Fuentes",41.6429234,-0.8532168
-"Banco de Tiempo de Zaragoza A.VV. Picarral","C/ Camino Juslibol, 36 50015, Zaragoza","https://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Picarral",41.6713488,-0.8759211
-"Banco de Tiempo de la Asamblea de Retiro (Entrehoras)","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_de_Tiempo_de_la_Asamblea_de_Retiro_(Entrehoras)",40.406373,-3.682017
-"Banco de Tiempo de la Asociaciรณn Cรญrculo de Agua de Barbastro","C/ Teruel 14 Bajos 22300 Barrio: Barbastro","https://15mpedia.org/wiki/Banco_de_Tiempo_de_la_Asociaci%C3%B3n_C%C3%ADrculo_de_Agua_de_Barbastro",42.0360435,0.1284404
-"Banco de Tiempo de la Soledad y el Polรญgono","07006, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_de_la_Soledad_y_el_Pol%C3%ADgono",39.5617364,2.6760251
-"Banco de Tiempo de รvila","C/ Cardenal Pla Deniel, 6 05001, รvila","https://15mpedia.org/wiki/Banco_de_Tiempo_de_%C3%81vila",40.6547782,-4.6995589
-"Banco de Tiempo de รbeda","Av. De la Constituciรณn, 10 - bakp 23400, รbeda","https://15mpedia.org/wiki/Banco_de_Tiempo_de_%C3%9Abeda",38.0104592,-3.3772307
-"Banco de Tiempo del Bajo Deba","C/ del Marquรฉs de Valdespina 48260, Ermua","https://15mpedia.org/wiki/Banco_de_Tiempo_del_Bajo_Deba",43.1861263,-2.503011
-"Banco de Tiempo del Cercle Matern","Casal de la dona - C/ Forners, 38 bjos 07006, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_del_Cercle_Matern",39.5686457,2.6615947
-"Banco de Tiempo del Mercado Ecolรณgico","Pl. Bisbe Berenguer de Palou 07003, Palma De Mallorca","https://15mpedia.org/wiki/Banco_de_Tiempo_del_Mercado_Ecol%C3%B3gico",39.5760043,2.6492129
-"Banco de Tiempo del Valle de Egรผes","C/ de Urbasa, 129 31486, Egรผes","https://15mpedia.org/wiki/Banco_de_Tiempo_del_Valle_de_Eg%C3%BCes",42.8108214,-1.5880268
-"Banco de Tiempo del Valle de Egรผรฉs","C/ Urbasa 129 31621, Sarriguren","https://15mpedia.org/wiki/Banco_de_Tiempo_del_Valle_de_Eg%C3%BC%C3%A9s",42.8108214,-1.5880268
-"Banco de Tiempo y Trueque de Jaรฉn (BATITRUJA)","C/ Juan Pedro Guiterrez Higueras, 3 23005, Jaรฉn","https://15mpedia.org/wiki/Banco_de_Tiempo_y_Trueque_de_Ja%C3%A9n_(BATITRUJA)",37.7775764,-3.7971252
-"Banco de Tiempo รrea Metropolitna de Tenerife","Local de la Fed. Ecologista Ben Magec. - Avda. Trinidad, Bloque 15, bajo izq. 38204, La Laguna","https://15mpedia.org/wiki/Banco_de_Tiempo_%C3%81rea_Metropolitna_de_Tenerife",28.4702191,-16.2742802
-"Banco de tiempo de Alcalรก De Henares","Travesรญa de las Siete Esquinas, 2 28801 Alcalรก De Henares (Madrid) Espaรฑa, Alcalรก de Henares","https://15mpedia.org/wiki/Banco_de_tiempo_de_Alcal%C3%A1_De_Henares",40.4774262,-3.3676967
-"Banco de tiempo de Basauri","Basauri","https://15mpedia.org/wiki/Banco_de_tiempo_de_Basauri",43.231542,-2.878393
-"Banco del Tiempo Altillo en la Ciudad de Mรฉxico","Atillo","https://15mpedia.org/wiki/Banco_del_Tiempo_Altillo_en_la_Ciudad_de_M%C3%A9xico",19.2945303,-99.1266464
-"Banco del Tiempo CooperAndo","Chihuahua","https://15mpedia.org/wiki/Banco_del_Tiempo_CooperAndo",28.6709312,-106.0646182
-"Banco del Tiempo Distrito Metropolitano de Quito","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_del_Tiempo_Distrito_Metropolitano_de_Quito",-0.199764,-78.49195
-"Banco del Tiempo Guayaquil","Guayas โ Guayaquil","https://15mpedia.org/wiki/Banco_del_Tiempo_Guayaquil",-2.183333,-79.883333
-"Banco del Tiempo Solidario de Mรฉxico","Ciudad de Mรฉxico","https://15mpedia.org/wiki/Banco_del_Tiempo_Solidario_de_M%C3%A9xico",19.4144382,-99.1367452
-"Banco del Tiempo Talca","Talca","https://15mpedia.org/wiki/Banco_del_Tiempo_Talca",-35.4259616,-71.6888775
-"Banco del Tiempo Vejer","C/ Ntra. Sra. de la Oliva, 2 (junto a la iglesia Divino Salvador), Vejer de la Frontera","https://15mpedia.org/wiki/Banco_del_Tiempo_Vejer",36.253989,-5.964762
-"Banco del Tiempo de Barranquilla","Barranquilla","https://15mpedia.org/wiki/Banco_del_Tiempo_de_Barranquilla",10.9963467,-74.8031273
-"Banco del Tiempo de Yopal","Yopal","https://15mpedia.org/wiki/Banco_del_Tiempo_de_Yopal",5.2375392,-72.5416842
-"Banco del Tiempo del Distrito 8 de Bilbao","Fray Juan 33, Bilbao","https://15mpedia.org/wiki/Banco_del_Tiempo_del_Distrito_8_de_Bilbao",43.2773457,-2.9768483
-"Banco del tiempo Colombia","f=""https://15mpedia.org/wiki/Atributo:Estado"">Estado, : Activo","https://15mpedia.org/wiki/Banco_del_tiempo_Colombia",4.60971,-74.08175
-"Banco do Tempo Vigo","Oficinas municipais de distrito Concello de Vigo, Vigo","https://15mpedia.org/wiki/Banco_do_Tempo_Vigo",42.2405989,-8.7207268
-"Capsa de Valors Banc del temps dels treballadors de FGC","Carrer Cardenal de Sentmenat, 4 Sarriร  08017, Barcelona","https://15mpedia.org/wiki/Capsa_de_Valors_Banc_del_temps_dels_treballadors_de_FGC",41.3976218,2.125741
-"Conseyu de Mocedรก de Xixรณn (Consejo de Juventud de Gijรณn)","Avenida Manuel Llaneza 68 Bajo 33208, Xixรณn/Gijรณn","https://15mpedia.org/wiki/Conseyu_de_Moced%C3%A1_de_Xix%C3%B3n_(Consejo_de_Juventud_de_Gij%C3%B3n)",43.5344195,-5.6682448
-"La grosella - Banco del Tiempo de Cali","Cali","https://15mpedia.org/wiki/La_grosella_-_Banco_del_Tiempo_de_Cali",3.4434936,-76.5151329
-"Progresar ayudando UGT","Obispo Segura Sรกez nยบ 8 10003, Cรกceres","https://15mpedia.org/wiki/Progresar_ayudando_UGT",39.4718523,-6.3788527
-"Red de Bancos de Tiempo de la Republica Dominicana","Santo Domingo","https://15mpedia.org/wiki/Red_de_Bancos_de_Tiempo_de_la_Republica_Dominicana",18.7002773,-71.286159
-"Red de Trueque Parla","Edificio EI Momo, Planta 2, Local Alternativa Joven - C/ Alcorcon S/N 28983, Parla","https://15mpedia.org/wiki/Red_de_Trueque_Parla",40.2416708,-3.7749028
-"Repair Cafรฉ Madrid - MediaLab Prado","Calle Alameda, 15, Madrid Barrio: Barrio de las Letras, Madrid","https://15mpedia.org/wiki/Repair_Caf%C3%A9_Madrid_-_MediaLab_Prado",40.410687,-3.693785
-"Silo de Tiempo de Tetuรกn","C/ San Enrique, 16, 1ยบ 28011, Madrid","https://15mpedia.org/wiki/Silo_de_Tiempo_de_Tetu%C3%A1n",40.4560388,-3.7003123
-"Tiempos de Trueque Paracuellos de Jarama","C/ Real de Burgos nยบ 50 28860, Paracuellos del Jarama","https://15mpedia.org/wiki/Tiempos_de_Trueque_Paracuellos_de_Jarama",40.5066571,-3.5312863
-"TruekeAdos Bidasoa","Irรบn","https://15mpedia.org/wiki/TruekeAdos_Bidasoa",43.3396649,-1.791888
-"Xarxa Municipal de Bancs del Temps","C/ de la Herrerรญa, 10 4ยช planta 07002, Palma De Mallorca","https://15mpedia.org/wiki/Xarxa_Municipal_de_Bancs_del_Temps",39.5719167,2.6542949
+title,url,description,longitude,latitude
+"Anar Fent",https://anarfentbdt.cat,"Anar Fent",2.1844969,42.1943907
+"Banc del Temps Sant Boi de Llobregat",http://bancdeltempssantboi.marianao.net/,"Banc del Temps Sant Boi de Llobregat",2.0277679,41.350713
+"BANCO DEL TIEMPO ""FAVOR X FAVOR""",http://plataformamirandesadevoluntariado.blogspot.com.es/p/blog-page_6.html,"BANCO DEL TIEMPO ""FAVOR X FAVOR""",-2.9379548,42.6871713
+"Banc de Cultures",http://15mpedia.org/wiki/Banc_de_Cultures,"Banc de Cultures",2.6546575,39.5707789
+"Banc de Temps Figueres",https://bdtfigueres.wordpress.com/,"Banc de Temps Figueres",2.9616258,42.2647858
+"Banc de Temps PremiÃ  de Mar",https://bancdetemps.pdm.cat/,"Banc de Temps PremiÃ  de Mar",2.3560233,41.4914536
+"Banc de Temps de Badalona",https://www.facebook.com/Banc-de-Temps-de-Badalona-352710935643566/,"Banc de Temps de Badalona",2.2465472,41.4515833
+"Banc de Temps de Blanes",http://www.bdtblanes.com/,"Banc de Temps de Blanes",2.7868467,41.6776403
+"Banc de Temps de Calella",http://calella.bancdeltemps.org/,"Banc de Temps de Calella",2.661835,41.617445
+"Banc de Temps de  Mira-sol",http://15mpedia.org/wiki/Banc_de_Temps_de_Mira-sol,"Banc de Temps de  Mira-sol",2.0441513,41.4678263
+"Banc de Temps de PremiÃ ",https://bancdetemps.pdm.cat/,"Banc de Temps de PremiÃ",2.3560233,41.4914536
+"Banc de Temps de Sant Feliu",https://www.cooperasantfeliu.org/banc-de-temps,"Banc de Temps de Sant Feliu",2.0470397,41.3820249
+"Banc del Temps Santa Coloma de Gramenet",http://santacolomadegramenet.bancdeltemps.org,"Banc del Temps Santa Coloma de Gramenet",2.206212,41.453717
+"Banc del Temps Civis Canyelles",https://www.facebook.com/civis.associacio,"Banc del Temps Civis Canyelles",1.7196685,41.2861949
+"Banc del Temps Cubelles",http://bancdeltempscubell.wixsite.com/misitio,"Banc del Temps Cubelles",1.6719319,41.2090051
+"Banc del Temps La Palma de CervellÃ³",https://www.facebook.com/bdtlapalma,"Banc del Temps La Palma de CervellÃ³",1.96921,41.413586
+"Banc del Temps La Sagrera",http://lasagrera.bdtonline.org/,"Banc del Temps La Sagrera",2.1899933,41.4199544
+"Banc del Temps",https://www.facebook.com/bancdeltempslloret/,"Banc del Temps",2.844443,41.7005032
+"Banc del Temps Pineda de Mar",http://bancdeltempsdepinedademar.com/,"Banc del Temps Pineda de Mar",2.6718012,41.6274586
+"Banc del Temps Sant Andreu",http://www.canportabella.cat/projectes/banc-del-temps-sant-andreu/,"Banc del Temps Sant Andreu",2.1918365,41.4291031
+"Banc del Temps Sitges",http://www.accioenblau.org/,"Banc del Temps Sitges",1.80737,41.240618
+"Banc del Temps Trinitat Vella",http://trinitatvella.bdtonline.org/,"Banc del Temps Trinitat Vella",2.1911907,41.4516211
+"Banc del Temps Vic",http://bancdeltempsvic.blogspot.com/,"Banc del Temps Vic",2.2547166,41.9195601
+"Banc del Temps d'El Vendrell (Temps en Xarxa)",https://www.facebook.com/Banc-Del-Temps-del-Vendrell-117291565299982/,"Banc del Temps d'El Vendrell (Temps en Xarxa)",1.5312694,41.2145828
+"Banc del Temps de Breda",http://bancdetempsdebreda.wordpress.com/,"Banc del Temps de Breda",2.4501449,41.7591771
+"Banc del Temps de Cardedeu",https://bancdeltempsdecardedeublog.wordpress.com/,"Banc del Temps de Cardedeu",2.360979,41.639269
+"Banc del Temps de GavÃ ",https://www.facebook.com/Banc-del-temps-de-Gav%C3%A0-BATEGA-339798659388171/,"Banc del Temps de GavÃ",2.0080843,41.3049666
+"Banc del Temps de Granollers",https://www.facebook.com/bancdeltempsdegranollers,"Banc del Temps de Granollers",2.2850627,41.6095035
+"Banc del Temps de GrÃ cia",http://gracia.bdtonline.org/,"Banc del Temps de GrÃ cia",2.1555639,41.4072589
+"Banc del Temps de Lleida",http://www.bancdetemps.org/,"Banc del Temps de Lleida",0.6219152,41.6221819
+"Banc del Temps de Menorca-Alaior",http://www.bancdeltempsmenorca.wordpress.com/,"Banc del Temps de Menorca-Alaior",4.1403514,39.933711
+"Banc del Temps de MontmelÃ³",http://montmelobancdeltemps.blogspot.com.es/,"Banc del Temps de MontmelÃ³",2.2497083,41.5492171
+"Banc del Temps de Piera",https://www.facebook.com/people/Banc-Del-Temps-de-Piera/100008958789099,"Banc del Temps de Piera",1.750392,41.522532
+"Banc de Temps de Sant Antoni",https://www.facebook.com/bdtsantantoni/,"Banc de Temps de Sant Antoni",2.157056,41.378286
+"Banc del Temps de Sant Celoni",http://bdtstceloni.blogspot.com/,"Banc del Temps de Sant Celoni",2.4899321,41.6863404
+"Banc del Temps de Sant SadurnÃ­ d'Anoia",https://bancdetemps.wordpress.com/,"Banc del Temps de Sant SadurnÃ­ d'Anoia",1.7892129,41.4242091
+"Banc del Temps de Santa Margarida i els Monjos",https://www.facebook.com/pages/Banc-Del-Temps-De-Santa-Margarida-I-Els-Monjos/642876675771650,"Banc del Temps de Santa Margarida i els Monjos",1.6621465,41.3204765
+"Banc de Temps de Vilafranca del PenedÃ¨s",https://bdtvilafranca.wordpress.com/,"Banc de Temps de Vilafranca del PenedÃ¨s",1.6979398,41.3461265
+"Banc del Temps de Vilanova i la GeltrÃº",http://15mpedia.org/wiki/Banc_del_Temps_de_Vilanova_i_la_Geltr%C3%BA,"Banc del Temps de Vilanova i la GeltrÃº",1.727446,41.2151504
+"Banc del Temps de la Garrotxa ""BaTeGa""",http://bategabdtgarrotxa.wordpress.com/,"Banc del Temps de la Garrotxa ""BaTeGa""",2.4880242,42.1822078
+"Banc del Temps del BerguedÃ ",http://bancdeltempsbergueda.wordpress.com/,"Banc del Temps del BerguedÃ",1.883144,42.031698
+"Banc del Temps del MoianÃ¨s",https://bancdeltempsdelmoianes.wordpress.com/,"Banc del Temps del MoianÃ¨s",2.0976547,41.8122247
+"Banc del Temps del Pla de l'Estany",http://www.bdt.entitatsplaestany.cat/,"Banc del Temps del Pla de l'Estany",2.7702943,42.1148041
+"Banc del Temps del Prat de Llobregat",http://www.bdtelprat.cat/,"Banc del Temps del Prat de Llobregat",2.09309716295,41.3247670713
+"Banc del temps de Porta",https://www.facebook.com/bdt.porta.org/,"Banc del temps de Porta",2.1742354,41.4326548
+"Banc del temps de Santa Cristina d'Aro",http://www.santacristina.cat/arees/punt-digualttat/128-banc-del-temps.html,"Banc del temps de Santa Cristina d'Aro",2.9972986,41.8137777
+"Banco Del Tiempo Sevilla",https://www.sevilla.org/bancodeltiempo/es/pagina/%C2%BFqu%C3%A9-es-el-banco-del-tiempo,"Banco Del Tiempo Sevilla",-6.003838,37.37394
+"Banco de Tempo BrasÃ­lia",https://www.facebook.com/groups/1844448525870886/?multi_permalinks=1850776878571384&notif_t=like&notif_id=1505945389537417,"Banco de Tempo BrasÃ­lia",-47.897609,-15.791633
+"Banco de Tempo Manaus",https://www.facebook.com/manausbancodetempo/?ref=br_rs,"Banco de Tempo Manaus",-60.023455,-3.130055
+"Banco de Tempo de Blumenau",https://www.facebook.com/groups/1886529228339446,"Banco de Tempo de Blumenau",-49.0709371,-26.9188277
+"Banco de Tempo de FlorianÃ³polis",https://www.facebook.com/btdefloripa/,"Banco de Tempo de FlorianÃ³polis",-48.5338569,-27.668266
+"Banco de Tiempo Ampa CP Eugenio LÃ³pez",http://15mpedia.org/wiki/Banco_de_Tiempo_Ampa_CP_Eugenio_L%C3%B3pez,"Banco de Tiempo Ampa CP Eugenio LÃ³pez",2.6491207,39.576281
+"Banco de Tiempo Andreberri - La PeÃ±a",https://www.andreberri.com/banco-tiempo-bilbao.php,"Banco de Tiempo Andreberri - La PeÃ±a",-2.9225893,43.2294405
+"Banco de Tiempo AsociaciÃ³n AKIBA",http://15mpedia.org/wiki/Banco_de_Tiempo_Asociaci%C3%B3n_AKIBA,"Banco de Tiempo AsociaciÃ³n AKIBA",-3.7093813,37.1918657
+"Banco de Tiempo Baja Ribagorza",http://15mpedia.org/wiki/Banco_de_Tiempo_Baja_Ribagorza,"Banco de Tiempo Baja Ribagorza",0.2526163,42.1866219
+"Banco de Tiempo Calpe",http://15mpedia.org/wiki/Banco_de_Tiempo_Calpe,"Banco de Tiempo Calpe",0.0456876000001,38.6436469
+"Banco de Tiempo Casco Viejo de Pamplona",http://15mpedia.org/wiki/Banco_de_Tiempo_Casco_Viejo_de_Pamplona,"Banco de Tiempo Casco Viejo de Pamplona",-1.6435014,42.8194823
+"Banco de Tiempo ChillÃ¡n",https://www.facebook.com/groups/bdtchillan/,"Banco de Tiempo ChillÃ¡n",-72.098391,-36.61028
+"Banco de Tiempo Ciudad JardÃ­n",http://bdtmalaga.blogspot.com.es/p/web.html,"Banco de Tiempo Ciudad JardÃ­n",-4.4204944,36.7403102
+"Banco de Tiempo Contigo Colombia",http://15mpedia.org/wiki/Banco_de_Tiempo_Contigo_Colombia,"Banco de Tiempo Contigo Colombia",-75.7364788,6.2686594
+"Banco de Tiempo El Dam de Ahesat",http://www.eldamdeahesat.blogspot.com/,"Banco de Tiempo El Dam de Ahesat",1.5664556,41.1938386
+"Banco de Tiempo Entrevecinos de Valencia",https://www.facebook.com/Banco-del-Tiempo-entrevecinos-de-Valencia-110687273702102/,"Banco de Tiempo Entrevecinos de Valencia",-0.3866238,39.4475104
+"Banco de Tiempo Escolares",http://15mpedia.org/wiki/Banco_de_Tiempo_Escolares,"Banco de Tiempo Escolares",-5.8330566,43.3707337
+"Banco de Tiempo Guadalajara",https://www.facebook.com/clubdeltruequegdl/,"Banco de Tiempo Guadalajara",-103.3097609,20.6455233
+"Banco de Tiempo Inguralde",http://15mpedia.org/wiki/Banco_de_Tiempo_Inguralde,"Banco de Tiempo Inguralde",-2.9893729,43.2998368
+"Banco de Tiempo Las Letras",https://btiempolasletras.blogspot.com/,"Banco de Tiempo Las Letras",-3.6957741,40.4105204
+"Banco de Tiempo Lima",https://www.facebook.com/BancoDeTiempoLima/,"Banco de Tiempo Lima",-77.4707664,-12.0454798
+"Banco de Tiempo MX",https://asifineart.wixsite.com/redcco,"Banco de Tiempo MX",-99.6638689,19.2876367
+"Banco de Tiempo Masai",http://15mpedia.org/wiki/Banco_de_Tiempo_Masai,"Banco de Tiempo Masai",-72.2268633,-39.2854012
+"Banco de Tiempo MatarÃ³",http://www.bancdeltempsmataro.org/,"Banco de Tiempo MatarÃ³",2.4493299,41.5400816
+"banco de tiempo Murcia",http://www.bancodetiempomurcia.es,"banco de tiempo Murcia",-1.139549,37.987233
+"Banco de Tiempo MÃ©rida-YucatÃ¡n",http://www.bdtmeridayucatan.org,"Banco de Tiempo MÃ©rida-YucatÃ¡n",-89.63379,20.98925
+"Banco de Tiempo Ovida",http://15mpedia.org/wiki/Banco_de_Tiempo_Ovida,"Banco de Tiempo Ovida",-5.8676691,43.3519679
+"Banco de Tiempo Pont del Dimoni",,"Banco de Tiempo Pont del Dimoni",2.8072941,41.9776281
+"Banco de Tiempo R-ciclo",http://15mpedia.org/wiki/Banco_de_Tiempo_R-ciclo,"Banco de Tiempo R-ciclo",-3.5909801,37.1705616
+"Banco de Tiempo Ribagorza Central",http://15mpedia.org/wiki/Banco_de_Tiempo_Ribagorza_Central,"Banco de Tiempo Ribagorza Central",0.3998579,42.4097942
+"Banco de Tiempo UPO",https://www.upo.es/upsc/banco-del-tiempo/que-es-un-bdt/,"Banco de Tiempo UPO",-5.9498767,37.3562108
+"Banco de Tiempo Universidad de Extremadura",http://15mpedia.org/wiki/Banco_de_Tiempo_Universidad_de_Extremadura,"Banco de Tiempo Universidad de Extremadura",-6.370961,39.471329
+"Banco de Tiempo V RegiÃ³n de Chile",https://www.facebook.com/Banco-de-Tiempo-V-Regi%C3%B3n-636628083508134,"Banco de Tiempo V RegiÃ³n de Chile",-71.5373248,-32.9633958
+"Banco de Tiempo Xabia",http://15mpedia.org/wiki/Banco_de_Tiempo_Xabia,"Banco de Tiempo Xabia",0.1593309,38.7895181
+"Banco de Tiempo de Albacete",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Albacete,"Banco de Tiempo de Albacete",-1.8661602,38.9901709
+"Banco de Tiempo de AlcalÃ¡ la Real",https://www.facebook.com/Banco-de-Tiempo-Alcala-la-Real-924934307557026/,"Banco de Tiempo de AlcalÃ¡ la Real",-3.9264281,37.4547388
+"Banco de Tiempo de Alhama de Murcia",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Alhama_de_Murcia,"Banco de Tiempo de Alhama de Murcia",-1.4265832,37.8513564
+"Banco de Tiempo de Alicante",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Alicante,"Banco de Tiempo de Alicante",-0.511628,38.347014
+"Banco de Tiempo de AlmerÃ­a",http://www.mujeralmeria.es/,"Banco de Tiempo de AlmerÃ­a",-2.461659,36.8420358
+"Banco de Tiempo de Antequera",https://www.facebook.com/Banco-de-Tiempo-de-Antequera-372460182765960/,"Banco de Tiempo de Antequera",-4.5593676,37.020001
+"Banco de Tiempo de BailÃ©n Miraflores",http://bdtbailenmiraflores.blogspot.com.es/,"Banco de Tiempo de BailÃ©n Miraflores",-4.429548,36.7240955
+"Banco de Tiempo de Barakaldo",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Barakaldo,"Banco de Tiempo de Barakaldo",-2.9950747,43.2939031
+"Banc del Temps de Bon Pastor",http://bonpastor.bdtonline.org/,"Banc del Temps de Bon Pastor",2.2050022,41.4347168
+"Banco de Tiempo de Borinken",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Borinken,"Banco de Tiempo de Borinken",-67.4740734,18.1980743
+"Banco de Tiempo de Butroi Bizirik en TransiciÃ³n - en Denbora Bankua",http://www.butroientransicion.org/,"Banco de Tiempo de Butroi Bizirik en TransiciÃ³n - en Denbora Bankua",-2.8495817,43.3553721
+"Banco de Tiempo de Cambrils",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Cambrils,"Banco de Tiempo de Cambrils",1.0616035,41.0684259
+"Banco de Tiempo de Cerdanyola del VallÃ©s",http://cerdanyola.bancdeltemps.org/,"Banco de Tiempo de Cerdanyola del VallÃ©s",2.1374819,41.487779
+"Banco de Tiempo de Churriana (Asociacion de vecinos ARCUSVES)",https://es-es.facebook.com/.../BANCO-del-TIEMPO-CHURRIANA/,"Banco de Tiempo de Churriana (Asociacion de vecinos ARCUSVES)",-4.5031482,36.6689104
+"Banco de Tiempo de Ciudad Real",https://www.facebook.com/bancodetiempociudadreal,"Banco de Tiempo de Ciudad Real",-3.9304387,38.9774941
+"Banco de Tiempo de Coin",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Coin,"Banco de Tiempo de Coin",-4.753782,36.659484
+"Banco de Tiempo de Cruz Roja",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Cruz_Roja,"Banco de Tiempo de Cruz Roja",-3.7065765,40.4252051
+"Banco de Tiempo de CÃ¡ceres",https://communities.cyclos.org/cacereselviejo,"Banco de Tiempo de CÃ¡ceres",-6.370961,39.471329
+"Banco de Tiempo de CÃ³rdoba",https://www.facebook.com/bancodetiempocordoba.asociacion,"Banco de Tiempo de CÃ³rdoba",-4.7824754,37.8885024
+"Banco de Tiempo de Estella-Lizarra",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Estella-Lizarra,"Banco de Tiempo de Estella-Lizarra",-2.0324524,42.6720856
+"Banco de Tiempo de Ferrol",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Ferrol,"Banco de Tiempo de Ferrol",-8.2360185,43.4825392
+"Banco de Tiempo de Garrucha",https://bancotiempogarrucha.jimdo.com/,"Banco de Tiempo de Garrucha",-1.8235305,37.1823264
+"Banco de Tiempo de Hondarribia - Trukean",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Hondarribia_-_Trukean,"Banco de Tiempo de Hondarribia - Trukean",-1.7912882,43.3626075
+"Banco de Tiempo de Huelva Capital",http://www.bthuelva.es/,"Banco de Tiempo de Huelva Capital",-6.9447224,37.261421
+"Banco de Tiempo de Huesca",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Huesca,"Banco de Tiempo de Huesca",-0.3960275,42.1294151
+"Banco de Tiempo de Ingenio",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Ingenio,"Banco de Tiempo de Ingenio",-15.4331746,27.9182821
+"Banco de Tiempo de Jumilla. 1440 minutos, Â¿alguno para compartir?",http://www.bancodetiempodejumilla.com/,"Banco de Tiempo de Jumilla. 1440 minutos, Â¿alguno para compartir?",-1.3257177,38.4727606
+"Banco de Tiempo de Karrantza",https://www.facebook.com/bancodeltiempo.karrantza,"Banco de Tiempo de Karrantza",-3.3590446,43.2223226
+"Banco de Tiempo de La Dreta de l'Eixample   Fort Pienc",http://dretaeixamplefortpienc.bancdeltemps.org/,"Banco de Tiempo de La Dreta de l'Eixample   Fort Pienc",2.1838731,41.3956919
+"Banc del Temps de La Verneda",http://laverneda.bancdeltemps.org/,"Banc del Temps de La Verneda",2.1967514,41.4227632
+"Banco de Tiempo de Lekeitio",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Lekeitio,"Banco de Tiempo de Lekeitio",-2.5038233,43.3635582
+"Banco de Tiempo de Llanes",http://bancodetiempodellanes.blogspot.com.es/,"Banco de Tiempo de Llanes",-4.8638653,43.4230708
+"Banco de Tiempo de Los Barrios",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Los_Barrios,"Banco de Tiempo de Los Barrios",-5.4926638,36.1832996
+"Banco de Tiempo de Lugo",http://bancotempolugo.blogspot.com/,"Banco de Tiempo de Lugo",-7.6385368,43.0118501
+"Banco de Tiempo de Macarena",http://www.bdtmaracena.blogspot.com.es/,"Banco de Tiempo de Macarena",-3.6292373,37.2064517
+"Banco de Tiempo de Majadahonda",https://www.facebook.com/bancotiempomajadahonda,"Banco de Tiempo de Majadahonda",-3.8808034,40.4731888
+"A2 Manos - Banco de Tiempo MalasaÃ±a",http://a2manos.bdtonline.org/,"A2 Manos - Banco de Tiempo MalasaÃ±a",-3.7065046,40.4259298
+"Banco de Tiempo de Marbella",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Marbella,"Banco de Tiempo de Marbella",-4.8870764,36.5135952
+"Banco de Tiempo de Menorca - Ciutadella",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Menorca_-_Ciutadella,"Banco de Tiempo de Menorca - Ciutadella",3.8414371,40.0021682
+"Banco de Tiempo de Menorca - MaÃ³",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Menorca_-_Ma%C3%B3,"Banco de Tiempo de Menorca - MaÃ³",4.2679142,39.8869786
+"Banco de Tiempo de Momo",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Momo,"Banco de Tiempo de Momo",-3.7263452,43.3868494
+"Banco de Tiempo de Monforte de Lemos",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Monforte_de_Lemos,"Banco de Tiempo de Monforte de Lemos",-7.5158063,42.5190217
+"Banco de Tiempo de Murcia",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Murcia,"Banco de Tiempo de Murcia",-1.1252025,38.0255514
+"Banco de tiempo de MÃ¡laga",http://bdtmalaga.blogspot.com.es/,"Banco de tiempo de MÃ¡laga",-4.4229689,36.7257378
+"Banco de Tiempo de MÃ¡laga (Distrito Ctra. de CÃ¡diz)",http://bdtcarreteradecadiz.blogspot.com.es/,"Banco de Tiempo de MÃ¡laga (Distrito Ctra. de CÃ¡diz)",-4.4424465,36.7017354
+"Banco de Tiempo de MÃ¡laga Este - El Palo",http://15mpedia.org/wiki/Banco_de_Tiempo_de_M%C3%A1laga_Este_-_El_Palo,"Banco de Tiempo de MÃ¡laga Este - El Palo",-4.3778139,36.7216922
+"Banco de Tiempo de Otxarkoaga - Otxartruke",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Otxarkoaga_-_Otxartruke,"Banco de Tiempo de Otxarkoaga - Otxartruke",-2.9006583,43.2587497
+"Banco de Tiempo de Palencia",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Palencia,"Banco de Tiempo de Palencia",-4.532032,42.011121
+"Banco de Tiempo de Paracuellos de Jarama",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Paracuellos_de_Jarama,"Banco de Tiempo de Paracuellos de Jarama",-3.86,40.38
+"Banco de Tiempo de Pla de Palau",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Pla_de_Palau,"Banco de Tiempo de Pla de Palau",2.8188167,41.9708262
+"Banco de Tiempo de Plasencia",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Plasencia,"Banco de Tiempo de Plasencia",-6.087016,40.030235
+"Banco de Tiempo de Rivas Vaciamadrid",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Rivas_Vaciamadrid,"Banco de Tiempo de Rivas Vaciamadrid",-3.517985,40.326824
+"Banco de Tiempo de Sagrada Familia",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Sagrada_Familia,"Banco de Tiempo de Sagrada Familia",2.179643,41.4039541
+"Banco de Tiempo de Salamanca",http://www.bdtsalamanca.org/,"Banco de Tiempo de Salamanca",-5.6675367,40.97442
+"Banco de Tiempo de San Javier",http://15mpedia.org/wiki/Banco_de_Tiempo_de_San_Javier,"Banco de Tiempo de San Javier",-0.8050798,37.7991141
+"Banc de Tiemps de Sant Cugat centre",http://www.bancdeltemps.santcugatentitats.net,"Banc de Tiemps de Sant Cugat centre",2.0836809,41.4699731
+"Banco de Tiempo de Sant Joan DespÃ­",http://sjdespi.net/wca/es/la-ciudad-por-temas/gente-mayor/banco-del-tiempo,"Banco de Tiempo de Sant Joan DespÃ­",2.0684906,41.3681706
+"Banco de Tiempo de Sant MartÃ­",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Sant_Mart%C3%AD,"Banco de Tiempo de Sant MartÃ­",2.1883083,41.4046434
+"Banco de Tiempo de Santander",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Santander,"Banco de Tiempo de Santander",-3.8059331,43.4675058
+"Banco de Tiempo de Santomera",http://bdtsantomera.blogspot.com.es/,"Banco de Tiempo de Santomera",-1.045205,38.062259
+"Banc de Temps de Sants",http://www.bancdetempsdesants.org/,"Banc de Temps de Sants",2.1412523,41.3812446
+"Banc de Tiemps de SarriÃ -Sant Gervasi",http://sarria.bdtonline.org/,"Banc de Tiemps de SarriÃ -Sant Gervasi",2.1246602,41.3983289
+"Banco de Tiempo de Pau i Toni",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Soria,"Banco de Tiempo de Pau i Toni",-1.944132,41.7094169
+"Banco de Tiempo de Palau",https://www.facebook.com/bdtpalau/,"Banco de Tiempo de Palau",2.4468543,41.6923244
+"Banco de Tiempo de Sta. PerpÃ©tua de Mogoda",http://www.staperpetua.cat/directori-equipaments/associacio-banc-del-temps-de-lav-centre-vila,"Banco de Tiempo de Sta. PerpÃ©tua de Mogoda",2.180781,41.5362149
+"Banco de Tiempo de Talavera de la Reina",https://asociacionjosefinasamper.blogspot.com/p/banco-del-tiempo-talavera.html,"Banco de Tiempo de Talavera de la Reina",-4.8304536,39.962884
+"Banco de Tiempo de Tenerife Guaydil",https://communities.cyclos.org/tenerife,"Banco de Tiempo de Tenerife Guaydil",-16.3213838,28.4831348
+"Banco de Tiempo de Terrassa",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Terrassa,"Banco de Tiempo de Terrassa",2.0000485,41.5574335
+"Banco de Tiempo de Torreblanca",http://bancodetiempodetorreblanca.blogspot.com.es/,"Banco de Tiempo de Torreblanca",0.1959207,40.2204433
+"Banco de Tiempo de Valladolid",http://bancotiempoaytovalladolid.blogspot.com.es/,"Banco de Tiempo de Valladolid",-4.731808,41.663513
+"Banco de Tiempo de Vigo - Valladares",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Vigo_-_Valladares,"Banco de Tiempo de Vigo - Valladares",-8.7426101,42.1832582
+"Banco de Tiempo de Villamayor",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Villamayor,"Banco de Tiempo de Villamayor",-5.6937933,41.0016627
+"Banco de Tiempo de Villanueva del RÃ­o y Minas",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Villanueva_del_R%C3%ADo_y_Minas,"Banco de Tiempo de Villanueva del RÃ­o y Minas",-5.7122139,37.6554687
+"Banco de Tiempo de Villares de la Reina",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Villares_de_la_Reina,"Banco de Tiempo de Villares de la Reina",-5.648107,41.01053
+"Banco de Tiempo de Vitoria-Gasteiz",http://www.bancodeltiempovitoriagasteiz.org,"Banco de Tiempo de Vitoria-Gasteiz",-2.676224,42.860352
+"Banco de Tiempo de Zaragoza (SecretarÃ­a)",http://www.bancodeltiempozaragoza.org/nueva/index.php?pag=1,"Banco de Tiempo de Zaragoza (SecretarÃ­a)",-0.8770841,41.6508693
+"Banco de Tiempo de Zaragoza A.VV. Arrabal",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Arrabal,"Banco de Tiempo de Zaragoza A.VV. Arrabal",-0.8627473,41.692694
+"Banco de Tiempo de Zaragoza A.VV. La Cartuja",http://www.bancodeltiempozaragoza.org/nueva/index.php?pag=1,"Banco de Tiempo de Zaragoza A.VV. La Cartuja",-0.824801,41.6055665
+"Banco de Tiempo de Zaragoza A.VV. La Jota",http://www.bancodeltiempozaragoza.org/nueva/nuevo.php?clase=out,"Banco de Tiempo de Zaragoza A.VV. La Jota",-0.8621879,41.6596276
+"Banco de Tiempo de Zaragoza A.VV. Las Fuentes",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Las_Fuentes,"Banco de Tiempo de Zaragoza A.VV. Las Fuentes",-0.8532168,41.6429234
+"Banco de Tiempo de Zaragoza A.VV. Picarral",http://15mpedia.org/wiki/Banco_de_Tiempo_de_Zaragoza_A.VV._Picarral,"Banco de Tiempo de Zaragoza A.VV. Picarral",-0.8759211,41.6713488
+"Banco de Tiempo de la AsociaciÃ³n CÃ­rculo de Agua de Barbastro",http://www.bancodetiempocirculodeagua.es/,"Banco de Tiempo de la AsociaciÃ³n CÃ­rculo de Agua de Barbastro",0.1284404,42.0360435
+"Banco de Tiempo de la AsociaciÃ³n Vecinal La Poveda",http://15mpedia.org/wiki/Banco_de_Tiempo_de_la_Asociaci%C3%B3n_Vecinal_La_Poveda,"Banco de Tiempo de la AsociaciÃ³n Vecinal La Poveda",-3.480824,40.3133405
+"Banco de Tiempo de Ãvila",http://avilajoven.blogspot.com.es/,"Banco de Tiempo de Ãvila",-4.6995589,40.6547782
+"Banco de Tiempo del Bajo Deba",http://15mpedia.org/wiki/Banco_de_Tiempo_del_Bajo_Deba,"Banco de Tiempo del Bajo Deba",-2.503011,43.1861263
+"Banco de Tiempo del Valle de EgÃ¼es",https://bancodeltiempoegues.wordpress.com/,"Banco de Tiempo del Valle de EgÃ¼es",-1.5880268,42.8108214
+"Banco de Tiempo del Valle de EgÃ¼Ã©s",https://bancodeltiempoegues.wordpress.com/tag/sarriguren/,"Banco de Tiempo del Valle de EgÃ¼Ã©s",-1.5880268,42.8108214
+"Banco de Tiempo y Trueque de JaÃ©n (BATITRUJA)",https://sites.google.com/site/bdtjaen,"Banco de Tiempo y Trueque de JaÃ©n (BATITRUJA)",-3.7971252,37.7775764
+"Banco de Tiempo-Toma la Plaza-Alicante",http://bdta.posibles.org/,"Banco de Tiempo-Toma la Plaza-Alicante",-0.4855737,38.355003
+"Banco de tiempo K'at Guatemala",https://15mpedia.org/w/index.php?title=Banco_de_tiempo_K%27at_Guatemala,"Banco de tiempo K'at Guatemala",-90.513342,14.641796
+"Banco de tiempo Tapachula",https://transiciontapachula.wordpress.com/,"Banco de tiempo Tapachula",-92.2652887,14.9055
+"Banco del Tiempo Altillo en la Ciudad de MÃ©xico",http://15mpedia.org/wiki/Banco_del_Tiempo_Altillo_en_la_Ciudad_de_M%C3%A9xico,"Banco del Tiempo Altillo en la Ciudad de MÃ©xico",-99.1266464,19.2945303
+"Banco del Tiempo CooperAndo",http://andocooperando.com,"Banco del Tiempo CooperAndo",-106.0646182,28.6709312
+"Banco del Tiempo Distrito Metropolitano de Quito",https://bdt.ec,"Banco del Tiempo Distrito Metropolitano de Quito",-78.49195,-0.199764
+"Banco del Tiempo Guayaquil",http://15mpedia.org/wiki/Banco_del_Tiempo_Guayaquil,"Banco del Tiempo Guayaquil",-79.883333,-2.183333
+"Banco del Tiempo Patio Vivo",https://www.facebook.com/patiovivomx/,"Banco del Tiempo Patio Vivo",-99.0622802,19.5089902
+"Banco del Tiempo Solidario de MÃ©xico",https://www.facebook.com/BTSM2016/,"Banco del Tiempo Solidario de MÃ©xico",-99.1367452,19.4144382
+"Banco del Tiempo Talca",http://15mpedia.org/wiki/Banco_del_Tiempo_Talca,"Banco del Tiempo Talca",-71.6888775,-35.4259616
+"Banco del Tiempo Vejer",http://bdtvejer.jimdo.com,"Banco del Tiempo Vejer",-5.964762,36.253989
+"Banco del Tiempo de Barranquilla",https://www.facebook.com/Banco-del-Tiempo-1682185742054833/,"Banco del Tiempo de Barranquilla",-74.8031273,10.9963467
+"Banco del Tiempo de Ceain",https://www.facebook.com/BancodeltiempoCEAIN/,"Banco del Tiempo de Ceain",-6.1396497,36.678501
+"Banco del Tiempo de Yopal",https://www.facebook.com/Banco-del-Tiempo-de-Yopal-1682185742054833/?fref=ts,"Banco del Tiempo de Yopal",-72.5416842,5.2375392
+"Banco del Tiempo del Distrito 8 de Bilbao",http://www.gurelurra.org/bdt2015,"Banco del Tiempo del Distrito 8 de Bilbao",-2.9768483,43.2773457
+"Banco del Tiempo BogotÃ¡",http://creatiempo.com/,"Banco del Tiempo BogotÃ¡",-74.08175,4.60971
+"Banco del Tiempo de Esquivias",https://www.facebook.com/servi.sociales.3?ref=bookmarks,"Banco del Tiempo de Esquivias",-3.7675637,40.1019617
+"BANCO DEL TIEMPO DE LOJA",https://bancodeltiempoloja.org,"BANCO DEL TIEMPO DE LOJA",-79.1993367,-3.9869567
+"Banco do Tempo Vigo",http://vigo.bancodotempo.es/,"Banco do Tempo Vigo",-8.7207268,42.2405989
+"BdTAr - Rosario",http://15mpedia.org/wiki/BdTAr,"BdTAr - Rosario",-60.637966,-32.945176
+"BogotÃ¡ Cambalachea",https://cambalachea.co/,"BogotÃ¡ Cambalachea",-74.064094,4.620994
+"Comunidad Ayni Llajta",http://aynillajta.org,"Comunidad Ayni Llajta",-66.156959,-17.393768
+"Conseyu de MocedÃ¡ de XixÃ³n (Consejo de Juventud de GijÃ³n)",http://www.cmx.es/,"Conseyu de MocedÃ¡ de XixÃ³n (Consejo de Juventud de GijÃ³n)",-5.6682448,43.5344195
+"La grosella - Banco del Tiempo de Cali",http://www.lagrosella.tk/,"La grosella - Banco del Tiempo de Cali",-76.5151329,3.4434936
+"Projecte Volunter",http://15mpedia.org/wiki/Projecte_Volunter,"Projecte Volunter",2.80885,41.993826
+"Red de Bancos de Tiempo de la Republica Dominicana",https://www.facebook.com/Redbancodetiempo/,"Red de Bancos de Tiempo de la Republica Dominicana",-71.286159,18.7002773
+"Red de Intercambios - SJM Valencia",http://sjmvalencia.org/,"Red de Intercambios - SJM Valencia",-0.3907743,39.4759094
+"Red en Redes Miami - Argentina 1",http://www.redenredes.com,"Red en Redes Miami - Argentina 1",-80.1404676,25.9396979
+"Red en Redes Miami - Argentina 2",http://www.redenredes.com,"Red en Redes Miami - Argentina 2",-64.1893052,-31.429505
+"Temps x Temps Banc de Temps de Manlleu",http://tempsxtemps.blogspot.com/search/label/temps%20x,"Temps x Temps Banc de Temps de Manlleu",2.2819384,42.0011965
+"Tiempo al tiempo TiÃ©tar",https://es-es.facebook.com/tiempoaltiempo.tietar/,"Tiempo al tiempo TiÃ©tar",-4.77,40.28
+"TruekeAdos Bidasoa",http://trukeados.net/,"TruekeAdos Bidasoa",-1.791888,43.3396649
+TruequeTF,http://www.truequetf.org,TruequeTF,-17.0845565,28.2934545
+"Xarxa M",https://xarxammallorca.wixsite.com/xarxa-m-mallorca,"Xarxa M",3.203957,39.5698142

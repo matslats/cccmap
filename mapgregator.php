@@ -94,6 +94,7 @@ $sources = [
     'CoopDevs',
     '<a href="https://github.com/coopdevs/timeoverflow">Time Overflow</a>',
     'Free hosted and supported sites',
+    'http://www.bdtonline.org/'
   ]
 ];
 
@@ -111,17 +112,23 @@ foreach ($sources as $url => &$info) {
       $live[] = $info['name'];
     }
   }
-  if (!$points and $csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
-    list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
-    $info['comment'] .= ' (not current)';
-  }
-  if (!$points and $csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
-    list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
+  if (!$points) {
+    if ($csvHandle = @fopen($url.'/geo.csv', 'r')) {//look locally
+      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
+    }
+    elseif ($csvHandle = fopen('https://raw.githubusercontent.com/matslats/cccmap/master/'.$url.'/geo.csv?', 'r')) {
+      list($info['groups'], $info['members'], $info['transactions'], $points) = geo_csv_points($csvHandle, $info['name']);
+    }
     $info['comment'] .= ' (not current)';
   }
   $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'orange').'">Taken '.count($points) .' points from '.$live_url.'</font>';
 
-  $all_points = array_replace_recursive($all_points, $points);
+  if (empty($info['groups'])) {
+    unset($sources[$url]);
+  }
+  else {
+    $all_points = array_replace_recursive($all_points, $points);
+  }
 }
 $messages[] = "Total ".count($all_points).' map points.';
 
