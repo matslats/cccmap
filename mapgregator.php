@@ -31,7 +31,7 @@ $sources = [
   ],
   'associazionenazionalebdt.it' => [
     'Associazione Nazionale Banche del Tempo',
-    'None?',
+    'Unknown',
     'Italian umbrella org'
   ],
   'letslinkuk.net' => [
@@ -101,7 +101,6 @@ $sources = [
 
 $all_points = $all_points = [];
 foreach ($sources as $url => &$info) {
-  print_r($info);
   $points = [];
   $keys = ['name', 'comment', 'live', 'source'];
   $info = array_combine($keys, array_pad($info, count($keys), NULL));
@@ -126,7 +125,7 @@ foreach ($sources as $url => &$info) {
   $messages[] = '<font color="'.(in_array($info['name'], $live) ? 'green':'orange').'">Taken '.count($points) .' points from '.$live_url.'</font>';
 
   if (!empty($info['groups'])) {
-    $sources['url'] = $url;// because the keys have been lost.
+    $info['url'] = $url;// because the keys have been lost.
     $all_points = array_replace_recursive($all_points, $points);
   }
 }
