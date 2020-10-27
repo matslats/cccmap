@@ -44,6 +44,11 @@ $sources = [
     '<a href="https://github.com/cdmweb/Local-Exchange-UK">Local Exchange</a>',
     'Some other sites we know about running Local Exchange'
   ],
+  'i-share-economy.org' => [
+    'I-share',
+    'Unknown',
+    'Regional directory.'
+  ],
   'timebanking.com.au' => [
     'Timebanking NSW',
     'Drupal (Custom)',
